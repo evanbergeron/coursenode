@@ -3,6 +3,6 @@
       "number" : "82-391",
       "units" : 9,
       "description" : "This course seeks to enhance listening-comprehension skills while perfecting the linguistic and stylistic practices of advanced students. Intensive study is made of varied literary, journalistic and colloquial texts in audio-visual and print media. Focus is on rapid vocabulary expansion as well as correction of high frequency syntax errors that persist beyond the intermediate level. Practice with online resources, additional to three class hours per week, is mandatory for the evolution of aural/oral fluency. Written compositions and translations, assigned for homework, are required for the development of grammatical accuracy and stylistic appropriateness. All class discussions are conducted in Russian. Prerequisite or approved equivalent",
-      "prereqs" : "82-292",
-      "coreqs" : "None" 
+      "prereqs" : ["82-292"],
+      "coreqs" : [] 
     }

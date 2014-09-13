@@ -3,6 +3,6 @@
       "number" : "21-467",
       "units" : 9,
       "description" : "This course will provide a thorough and rigorous introduction to differential geometry on manifolds. Contents: Differentiable manifolds; tangent spaces; vector fields and n-forms; integral curves; cotangent vectors; tensors; Riemannian metrics; connection; parallel transport; geodesics and convex neighborhoods; sectional, Ricci, scalar curvatures; tensors on Riemannian manifolds; Lie groups; transformation groups.",
-      "prereqs" : "21-373 and 21-356",
-      "coreqs" : "None" 
+      "prereqs" : ["21-373", "21-356"],
+      "coreqs" : [] 
     }

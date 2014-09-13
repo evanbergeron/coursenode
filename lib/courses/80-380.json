@@ -3,6 +3,6 @@
       "number" : "80-380",
       "units" : 9,
       "description" : "Philosophy of language involves the attempt to understand the nature of language and its relationship with speakers, their thoughts, and the world. As part of this attempt, philosophers have asked questions such as: What is language? How does language convey meaning? Is it language itself which determines meaning, or the intentions of speakers? What different kinds of meaning are there? Philosophers and linguists have also asked questions about the meanings and functions of particular linguistic forms, such as definite noun phrases, conditional sentences and words like &#8220;I&#8221; and &#8220;now.&#8221; In this course, we will read papers by many of the major figures of contemporary philosophy of language: Frege, Russell, Tarski, Davidson, Quine, Kaplan, Grice and others. The course will be run &#8220;seminar-style&#8221;: students will be expected to read papers for each class in preparation for class discussion, and will also be required to take turns presenting the papers in class. The course also has significant writing requirements. By the end of the course, students will be familiar with the central questions of this area of philosophy, with the type of argumentation used to address them, and with some of the solutions that have been proposed. Students enrolling in the course should have taken at least one other philosophy class in which they read papers from the philosophy literature.",
-      "prereqs" : "80-100 or 76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["80-100", "76-101"],
+      "coreqs" : [] 
     }

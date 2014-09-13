@@ -3,6 +3,6 @@
       "number" : "33-499",
       "units" : 0,
       "description" : "The student explores a certain area of advanced physics under the supervision of a faculty member. The student must contact a faculty member and the Assistant Head for Undergraduate Affairs before registering.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

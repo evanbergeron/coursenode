@@ -3,6 +3,6 @@
       "number" : "82-184",
       "units" : 9,
       "description" : "This is a freshman seminar, taught in English, and it addresses one of the most important questions in the development of Western culture: what is tragedy, how did it evolve, and what does it mean today? Starting with Aischeles' Oresteia and Aristotle's Poetics, the seminar explores the nature of tragedy in ancient Greece as a theatrical experience, a literary form, and an expression of Greek culture. Friedrich Nietzsche's essay The Birth of Tragedy offers an interpretation of the meaning of tragedy in its original context and a link to the nature of tragedy in the modern world. Richard Wagner's music drama Tristan und Isolde and his theoretical essays, including 'Art and Revolution' and 'The Art-Work of the Future,' further illustrate and develop the theme, showing how a dominant representative of nineteenth century culture sought to reevaluate and reclaim the tragic form, linking it with an extensive critique of modern culture. Thomas Mann's Death in Venice provides an early twentieth century variation on the theme of tragedy, and Sigmund Freud's Civilization and its Discontents, like Nietzsche's essay, provides a framework for placing tragedy in its cultural context. Finally, Arthur Miller's Death of a Salesman provides a modern American version of the problem of tragedy. Students in this seminar are asked to write short papers every two to three weeks, and the in-class focus is on intensive discussion and analysis of the texts. Prerequisite: Freshman status.",
-      "prereqs" : "Freshman status",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "03-325",
       "units" : 9,
       "description" : "Evolution is the unifying theory of biology. This course will provide a broad coverage of the concepts of evolution but will especially focus on the molecular basis of evolutionary change. Topics will include (i) the history of evolutionary theories, before and after Darwin, and the evidence for evolution; (ii) the origins and radiations of key phylogenetic nodes including, life, multicellularity, animals, and mammals (iii) adaptation, fitness, variation and natural selection, (iv) evolution and development of animal body plans, and (v) cis-regulatory evolution and gene regulatory networks. The main objective of the course is for students to gain a thorough understanding of the evolutionary, molecular basis of the diversity and origins of life. Additionally, by the end of the course students should have gained a deeper understanding of all areas of biology through an appreciation of underlying historical processes.",
-      "prereqs" : "03-12",
-      "coreqs" : "03-330" 
+      "prereqs" : [],
+      "coreqs" : ["03-330"] 
     }

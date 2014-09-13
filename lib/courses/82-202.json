@@ -3,6 +3,6 @@
       "number" : "82-202",
       "units" : 9,
       "description" : "An integrated approach to the study of the French culture and language by means of literary and cultural texts and analysis, coupled with a review of elements of French grammar. Intensive practice in written and spoken French also constitutes the basis for this course as a preparation for the advanced level. Students are invited to explore the French and Francophone worlds as they intersect and sometimes clash, with the goal of fostering better cross-cultural awareness. Texts may include: novels, short stories, newspaper articles, songs, television and film. Prerequisites or appropriate placement test score.",
-      "prereqs" : "82-201 or 82-203",
-      "coreqs" : "None" 
+      "prereqs" : ["82-201", "82-203"],
+      "coreqs" : [] 
     }

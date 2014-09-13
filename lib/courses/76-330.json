@@ -3,6 +3,6 @@
       "number" : "76-330",
       "units" : 9,
       "description" : "Topics will vary by semester. Consult the course descriptions provided by the department each semester for current offerings. EXAMPLE: Fall 2011: Renaissance scholars sometimes promote the misconception that Shakespeare was the first writer to create characters with inner lives (rather than just social roles), that he was the inventor of the human, as Harold Bloom puts it. The varieties of writing&#8212;from the 700s to the 1400s&#8212;we will take up in this course will, I think, challenge that view. Some of the texts in which medieval men and women represented themselves are reflective, some are outrageous, some are charming, some are funny&#8212;all are populated by human beings we can recognize in spite of unfamiliar modes of presentation. We will explore both well-known fictions like Beowulf, The Song of Roland, Dante&#8217;s Inferno, and Malory&#8217;s Morte Darthur, and some not so well known. The lives of women in the Middle Ages will be a particular focus for the course. Students will also choose one twentieth-century fiction based on medieval materials to read and discuss with the class. Course requirements include regular attendance and participation in discussions, three brief papers and a final exam.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

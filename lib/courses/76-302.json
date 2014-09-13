@@ -3,6 +3,6 @@
       "number" : "76-302",
       "units" : 9,
       "description" : "This practicum prepares students to tutor and conduct research in a communication center serving a range of disciplines and communicative modes. Students will be exposed to a variety of tutoring methods and will gain experience analyzing and responding to academic genres in various disciplines. In addition, students will learn to support oral, visual, and collaborative modes of communication alongside more traditional written genres. All students in the practicum will pose a researchable question about an unfamiliar academic genre, tutoring method, or online delivery of tutoring; to answer their questions, students will collect primary and secondary data to design and complete a research project. Students should expect to receive extensive feedback from faculty and peers on their tutoring methods. Readings will address theories of tutoring, responding to student writing, academic literacy, and communication across the disciplines.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

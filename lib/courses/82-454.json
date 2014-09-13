@@ -3,6 +3,6 @@
       "number" : "82-454",
       "units" : 9,
       "description" : "This course will cover a broad range of topics, all of which will shed light on how to define the identity of the Hispanic Caribbean, its history and reality, and its cultural expression. Texts for this course will primarily include literary and non-literary pieces (chronicles, historical and political essays, legal treatises, poetry, and song lyrics), and photography, music, art and food. Some of the topics that will be covered through the varied literary, legal, and musical texts are a profile of the Caribbean region, the history of colonization, the institutionalization of race, color and difference, slavery, the sugar plantation and its shaping of regional history and economics, tobacco, sugar and coffee culture, religious syncretism, the urban/rural experience, the Trujillo dictatorship in the Dominican Republic, the Puerto Rican dilemma-territory, statehood or independence, the Cuban revolution, contemporary Hispanic Caribbean and U.S. Latino expressions. Prerequisite permission of the instructor.",
-      "prereqs" : "82-345",
-      "coreqs" : "None" 
+      "prereqs" : ["82-345"],
+      "coreqs" : [] 
     }

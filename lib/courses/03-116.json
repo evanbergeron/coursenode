@@ -3,6 +3,6 @@
       "number" : "03-116",
       "units" : 6,
       "description" : "Spring Semester: The DNA sequences will be analyzed with bioinformatic tools and compared with those of phages isolated at other locations to identify genes, their organization, the differences that may characterize different phage groups, and how these have arisen during evolution.",
-      "prereqs" : "03-115",
-      "coreqs" : "None" 
+      "prereqs" : ["03-115"],
+      "coreqs" : [] 
     }

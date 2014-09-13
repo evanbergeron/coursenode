@@ -3,6 +3,6 @@
       "number" : "82-486",
       "units" : 0,
       "description" : "An opportunity for students who wish to complement their course work at the 400-level and pursue further advanced study. In conjunction with a faculty member, students will arrange a program of study to explore aspects of the target language and culture. Prerequisite: Permission of the Instructor.",
-      "prereqs" : "Permission of the Instructor",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

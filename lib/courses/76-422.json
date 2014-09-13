@@ -3,6 +3,6 @@
       "number" : "76-422",
       "units" : 9,
       "description" : "Emphasis falls on the 'and,' the copula between Sexuality and Gender; that is, those theories which either attempt or perhaps are just inevitably drawn into thinking about how the two are related. We will read canonical theories of sexuality&#8212;such as Freud&#8217;s Three Essays on Sexuality and Foucault&#8217;s Introduction to the History of Sexuality&#8212;and canonical theories of gender&#8212;such as Rubin&#8217;s 'Traffic in Women' and Butler&#8217;s Gender Trouble. But we will be particularly attentive to those texts that try to understand connections and disconnections between the construction of the two in theory and in practice. To that end, and to ground our theoretical investigations in social historical context, we will focus on two discursive sites: the feminist 'sex wars' of the 1980s and more recent preoccupations of feminists with sexuality, such as work by and on sex-workers, and the theory and practice of 'trans'&#8212;both gender and sexuality&#8212;from the early modern and contemporary periods. Possible readings in the former area might include Pat Califia, Amber Hollibaugh, or Alice Echols; our 'trans' cases might include Henry Fielding&#8217;s Female Husband, Foucault&#8217;s Herculine Barbin, Sandy Stone&#8217;s and Susan Stryker&#8217;s theoretical work in this area or the biographical writing of 'gender warriors' such as Leslie Feinberg.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

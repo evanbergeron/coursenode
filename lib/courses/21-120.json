@@ -3,6 +3,6 @@
       "number" : "21-120",
       "units" : 10,
       "description" : "Functions, limits, derivatives, logarithmic, exponential, and trigonometric functions, inverse functions; L'Hospital's Rule, curve sketching, Mean Value Theorem, related rates, linear and quadratic approximations, maximum-minimum problems, inverse functions, definite and indefinite integrals, and hyperbolic functions; applications of integration, integration by substitution and by parts. 3 hrs lec., 2 hrs. rec.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

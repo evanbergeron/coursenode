@@ -3,6 +3,6 @@
       "number" : "85-480",
       "units" : 0,
       "description" : "This course introduces students to Clinical Psychology and related mental health fields. Students&#8217; learning is facilitated through classroom-based activities and by learning about clinical research and/or practice in designated field settings. Students spend 3 hours per week in class and 6 hours per week in an applied or research setting. Please contact Dr. Beth Zimick if you are interested in enrolling at bethc@andrew.cmu.edu.",
-      "prereqs" : "85-251 or 85-261",
-      "coreqs" : "None" 
+      "prereqs" : ["85-251", "85-261"],
+      "coreqs" : [] 
     }

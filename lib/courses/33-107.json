@@ -3,6 +3,6 @@
       "number" : "33-107",
       "units" : 12,
       "description" : "This is the second half of a two-semester calculus-based introductory physics sequence for engineering students. The course covers waves, including standing and travelling waves, superposition, beats, reflection, interference, electricity, including electrostatics and electric fields, Gauss' law, electric potential, and simple circuits, magnetism, including magnetic forces, magnetic fields, induction and electromagnetic radiation.",
-      "prereqs" : "21-120 and 33-10",
-      "coreqs" : "21-122" 
+      "prereqs" : ["21-120"],
+      "coreqs" : ["21-122"] 
     }

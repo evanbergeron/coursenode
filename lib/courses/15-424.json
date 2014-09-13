@@ -3,6 +3,6 @@
       "number" : "15-424",
       "units" : 12,
       "description" : "Cyber-physical systems (CPSs) combine cyber effects (computation and/or communication) with physical effects (motion or other physical processes). Designing algorithms to control CPSs, such as those in cars, aircraft and robots, is challenging due to their tight coupling with physical behavior. At the same time, it is vital that these algorithms be correct, since we rely on CPSs for safety-critical tasks like keeping aircraft from colliding. Students in this course will understand the core principles behind CPSs, develop models and controls, identify safety specifications and critical properties of CPSs, understand abstraction and system architectures, learn how to design by invariant, reason rigorously about CPS models, verify CPS models of appropriate scale, understand the semantics of a CPS model and develop an intuition for operational effects. Students will write hybrid programs (HPs), which capture relevant dynamical aspects of CPSs in a simple programming language with a simple semantics, allowing the programmer to refer to real-valued variables representing real quantities and specify their dynamics as part of the HP.",
-      "prereqs" : "15-122 and 15-251 and 21-122",
-      "coreqs" : "None" 
+      "prereqs" : ["15-122", "15-251", "21-122"],
+      "coreqs" : [] 
     }

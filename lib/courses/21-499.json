@@ -3,6 +3,6 @@
       "number" : "21-499",
       "units" : 9,
       "description" : "This course affords undergraduates to pursue elementary research topics in the area of expertise of the instructor. The prerequisites will depend on the content of the course.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

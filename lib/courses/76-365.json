@@ -3,6 +3,6 @@
       "number" : "76-365",
       "units" : 9,
       "description" : "In this course, you will be expected to take your knowledge of the principles and elements of poetry learned in the Survey of Forms: Poetry course and utilize them in workshop discussions, written analysis, and the composition of your own poems. In addition, readings of books by other poets will be required, along with participation in a book-making project.",
-      "prereqs" : "76-265",
-      "coreqs" : "None" 
+      "prereqs" : ["76-265"],
+      "coreqs" : [] 
     }

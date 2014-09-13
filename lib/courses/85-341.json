@@ -3,6 +3,6 @@
       "number" : "85-341",
       "units" : 9,
       "description" : "Much of the work in groups and organizations consists of communication. You communicate to get information that will be the basis of decisions, to provide a vision for the people who work for and with you, to coordinate activity, and to sell yourself and your work. The goal of this course is to identify sources of communication problems within an organization and ways to overcome them. To do this requires that we know how communication normally works, what parts are difficult, and how to fix it when it goes wrong. The focus of this course is on providing you with a broad understanding of the way communication operates within dyads, work groups, and organizations. This course is not a practicum in public speaking or writing, although you will get some experience writing, speaking, and managing impressions. Rather the intent is to give you theoretical and empirical underpinnings for the communication you will undoubtedly do when you return to work. Readings come from both the research and the managerial literatures. Among the topics considered are managerial communication, persuasion and conformity, self presentation and person perception, social networks. Cases and group projects give you an opportunity to apply what you've learned.",
-      "prereqs" : "36-247 or 36-220 or 70-207 or 36-207 or 36-217 or 36-201 or 36-225",
-      "coreqs" : "None" 
+      "prereqs" : ["36-247", "36-220", "70-207", "36-207", "36-217", "36-201", "36-225"],
+      "coreqs" : [] 
     }

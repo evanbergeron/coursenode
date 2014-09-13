@@ -3,6 +3,6 @@
       "number" : "18-419",
       "units" : 12,
       "description" : "This course is designed to introduce important semiconductor optoelectronic devices and applications, such as light emitting diode (LED), solid state Laser, photo-detector, and solar cell, etc. It provides students with fundamental knowledge in optoelectronics as well as critical device design engineering. Developed on top of the fundamental knowledge covered in 18-310, the course begins with discussion on basic optics and device physics; it then focuses on operational principle, design engineering, and important applications of the devices. Special topics on novel nanoscale electronics and optoelectronics including nanowire, nano-particle light emitting and photovoltaic devices will also be discussed. In addition, an introduction to low-cost, flexible organic devices, e.g. display and solar cells will be presented. Prerequisite(s): 18-310",
-      "prereqs" : "18-310",
-      "coreqs" : "None" 
+      "prereqs" : ["18-310"],
+      "coreqs" : [] 
     }

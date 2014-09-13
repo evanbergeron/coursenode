@@ -3,6 +3,6 @@
       "number" : "33-340",
       "units" : 10,
       "description" : "Emphasis is on hands-on experience observing important physical phenomena in the lab, advancing the student's experimental skills, developing sophisticated data analysis techniques, writing thorough reports, and improving verbal communication through several oral progress reports given during the semester and a comprehensive oral report on one experiment. Students perform three experiments which are drawn from the areas of atomic, condensed matter, classical, and nuclear and particle physics. Those currently available are the following: Zeeman effect, light scattering, optical pumping, thermal lensing, Raman scattering, chaos, magnetic susceptibility, nuclear magnetic resonance, electron spin resonance, X-ray diffraction, M&#246;ssbauer effect, neutron activation of radioactive nuclides, Compton scattering, and cosmic ray muons.",
-      "prereqs" : "33-234 and (33-341 or 33-338 or 33-331)",
-      "coreqs" : "None" 
+      "prereqs" : ["33-234", "33-341", "33-338", "33-331"],
+      "coreqs" : [] 
     }

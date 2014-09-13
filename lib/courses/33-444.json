@@ -3,6 +3,6 @@
       "number" : "33-444",
       "units" : 9,
       "description" : "Description of our understanding of nuclei, elementary particles, and quarks, with equal emphasis on the nuclear and particle aspects of sub-atomic matter. We discuss the physics of accelerators, and how particle interactions with matter lead to various kinds of detector instrumentation. Then we discuss methods for measuring sub-atomic structure, symmetries and conservation laws, and the electromagnetic, weak, and strong interactions. We examine the quark model of the mesons and baryons, as well as several models of the atomic nucleus.",
-      "prereqs" : "33-338 and 33-234",
-      "coreqs" : "None" 
+      "prereqs" : ["33-338", "33-234"],
+      "coreqs" : [] 
     }

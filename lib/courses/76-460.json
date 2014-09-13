@@ -3,6 +3,6 @@
       "number" : "76-460",
       "units" : 9,
       "description" : "Good writers know how to do two very different things equally well - write like a writer and think like one. Writing like a writer is about craft and means gaining absolute control over your material and your tools. It means, for instance, knowing when to use dialogue, when to summarize discourse, it means concentrating on the specific rather than the vague and abstract. It means anchoring your story in a particular time and place, and finding a narrative voice that best tells your particular story. Students will have a story due every week for the first half of the semester. We will workshop several of these stories concentrating our editorial comments on story, development, character, and voice. Your time after mid-semester will be devoted to rewriting and reworking these drafts into accomplished works.",
-      "prereqs" : "76-260",
-      "coreqs" : "None" 
+      "prereqs" : ["76-260"],
+      "coreqs" : [] 
     }

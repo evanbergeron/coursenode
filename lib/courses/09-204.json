@@ -3,6 +3,6 @@
       "number" : "09-204",
       "units" : 3,
       "description" : "This required course for chemistry majors promotes development of written and oral communication skills in various formats within the discipline. Students are expected to develop these skills by becoming more familiar with the style and format of the chemical literature, current topics in chemistry, and research projects in the Department. Other learning outcomes include developing critical reading skills, providing effective feedback to peers&#8217; written and oral communication, demonstrating the ability to revise written work, and using chemical structure drawing software. 1 hr. lec.",
-      "prereqs" : "09-221",
-      "coreqs" : "None" 
+      "prereqs" : ["09-221"],
+      "coreqs" : [] 
     }

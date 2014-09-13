@@ -3,6 +3,6 @@
       "number" : "80-246",
       "units" : 9,
       "description" : "This course applies selected theories of procedural and social justice to a major public institution. It explores 1) the nature and impact of police, lawyer and prosecutor practices, 2) the effects of criminal justice legislation, 3) causes and consequences of racial and gender disparities in both the system and its outcomes and 4) improvements and alternatives currently being proposed, implemented, and assessed in many jurisdictions.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "21-371",
       "units" : 9,
       "description" : "This course provides an introduction to one of the basic topics of both pure and applied mathematics and is suitable for those with both practical and theoretical interests. Algebra and geometry of complex numbers; complex differentiation and integration. Cauchy's theorem and applications; conformal mapping; applications. 21-268 or 21-269 are recommended rather than 21-259. 3 hrs. lec.",
-      "prereqs" : "21-259 or 21-268 or 21-269",
-      "coreqs" : "None" 
+      "prereqs" : ["21-259", "21-268", "21-269"],
+      "coreqs" : [] 
     }

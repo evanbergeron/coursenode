@@ -3,6 +3,6 @@
       "number" : "76-270",
       "units" : 9,
       "description" : "Writing in the Professions is a writing course specifically designed for juniors and seniors in all majors other than English. The course is appropriate for upper-level students in all CMU colleges, has no writing prerequisites, and assumes that you may not have had much college-level writing instruction past your freshman year. The basic idea of the course is to give you experience in developing the writing skills you will be expected to have as you make the transition from student to professional. The course will cover resume writing, proposal writing, writing instructions, the difference between writing for general and specific audiences, and analysis of visual aids in various texts. The course requires that students work both independently and in groups.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

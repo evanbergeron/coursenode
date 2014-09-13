@@ -3,6 +3,6 @@
       "number" : "21-373",
       "units" : 9,
       "description" : "Groups: Homomorphisms. Subgroups, cosets, Lagrange's theorem. Conjugation. Normal subgroups, quotient groups, first isomorphism theorem. Group actions, Cauchy's Theorem. Dihedral and alternating groups. The second and third isomorphism theorems. Rings: Subrings, ideals, quotient rings, first isomorphism theorem. Polynomial rings. Prime and maximal ideals, prime and irreducible elements. PIDs and UFDs. Noetherian domains. Gauss' lemma. Eisenstein criterion. Fields: Field of fractions of an integral domain. Finite fields. Applications to coding theory, cryptography, number theory. 3 hrs lec.",
-      "prereqs" : "21-127 and (21-241 or 21-242)",
-      "coreqs" : "None" 
+      "prereqs" : ["21-127", "21-241", "21-242"],
+      "coreqs" : [] 
     }

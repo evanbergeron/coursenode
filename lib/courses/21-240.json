@@ -3,6 +3,6 @@
       "number" : "21-240",
       "units" : 10,
       "description" : "Vectors and matrices, the solution of linear systems of equations, vector spaces and subspaces, orthogonality, determinants, real and complex eigenvalues and eigenvectors, linear transformations. The course is intended for students in Economics, Statistics, Information Systems, and it will focus on topics relevant to these fields. 3 hrs. lec., 1 hr. rec.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

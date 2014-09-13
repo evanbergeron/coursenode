@@ -3,6 +3,6 @@
       "number" : "80-276",
       "units" : 9,
       "description" : "In order to expand our ideas about what religion could be, the course begins with a brief cross-cultural review of some major religious traditions around the world. Then we turn to some more traditional arguments for and against theism, including the ontological, cosmological, and design arguments, the argument from religious experience, the argument from miracles and historical testimony, and the problem of evil. We will also consider whether morality ultimately depends on God&#8217;s sanctions and (yes, here it is at Carnegie Mellon) whether life would be meaningless if God did not exist.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

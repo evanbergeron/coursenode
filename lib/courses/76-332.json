@@ -3,6 +3,6 @@
       "number" : "76-332",
       "units" : 9,
       "description" : "Topics will vary by semester. Consult the course descriptions provided by the department each semester for current offerings. Spring 2013: This course will be an in-depth study of Ralph Ellison's works as well as the writers and thinkers that influenced him. Ellison's life spanned much of the twentieth century and his writings reflect the political controversies, aesthetic movements, and social-historical events that define the long twentieth century. In some respects this course will function as a traditional single author study in that we will read Ellison's most important works including his early short stories, Invisible Man (1952), the posthumously published but never completed late novel Three Days Before the Shooting (2010) as well as much of his occasional literary criticism, book reviews, and magazine articles. At the same time, we will treat Ellison as a heuristic through which we will investigate the concept of race and its relationship to democracy, hegemony, and neo-liberalism at three distinct periods of Ellison's career: his 'left' writings of the 1930s and early 40s, his Cold War writings of the 1950s - 1970s, and finally the posthumous reception of Ellison's work in the late 1990s into the present. To do this we will read the work of critics like Antonio Gramsci, Lord Raglan, Hannah Arendt, Edward Said, and Paul Gilroy alongside fiction writers like Franz Kafka, Richard Wright, and Ayn Rand.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

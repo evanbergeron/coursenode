@@ -3,6 +3,6 @@
       "number" : "80-245",
       "units" : 9,
       "description" : "This course provides an introduction to core ethical issues in health care, medical research, and public policy. Topics include: the moral responsibilities of health care providers to patients and various third parties such as the government or insurance companies, the status of health as a social good, and questions of individual liberty and social responsibility at the ends of life including issues such as abortion, physician assisted suicide, and the definition of death. We will also examine specific ethical issues in the conduct of medical research and look at the impact of technological innovation on our notions of health, disease, life, death, and the family. If time permits, we may also discuss issues related to genetics and cloning. While the course engages such substantive ethical issues it also attempts to sharpen students' skills in practical reasoning through argument analysis, analogical reasoning, and the application of theory and principles to particular cases.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

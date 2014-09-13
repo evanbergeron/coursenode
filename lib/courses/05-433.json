@@ -3,6 +3,6 @@
       "number" : "05-433",
       "units" : 9,
       "description" : "None",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

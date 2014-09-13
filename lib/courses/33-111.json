@@ -3,6 +3,6 @@
       "number" : "33-111",
       "units" : 12,
       "description" : "This calculus based course combines the basic principles of mechanics with some quantum physics and relativity to explain nature on both a microscopic and macroscopic scale. The course will build models to describe the universe based on a small number of fundamental physics principles. Some simple computer modeling will be done to develop insight into the solving of problems using Newton's laws. Topics covered will include vectors, momentum, force, gravitation, oscillations, energy, quantum physics, center of mass motion, angular momentum, statistical physics, and the laws of thermodynamics. No computer experience is needed.",
-      "prereqs" : "None",
-      "coreqs" : "21-120" 
+      "prereqs" : [],
+      "coreqs" : ["21-120"] 
     }

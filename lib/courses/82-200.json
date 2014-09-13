@@ -3,6 +3,6 @@
       "number" : "82-200",
       "units" : 0,
       "description" : "None",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

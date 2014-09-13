@@ -3,6 +3,6 @@
       "number" : "21-325",
       "units" : 9,
       "description" : "This course focuses on the understanding of basic concepts in probability theory and illustrates how these concepts can be applied to develop and analyze a variety of models arising in computational biology, finance, engineering and computer science. The firm grounding in the fundamentals is aimed at providing students the flexibility to build and analyze models from diverse applications as well as preparing the interested student for advanced work in these areas. The course will cover core concepts such as probability spaces, random variables, random vectors, multivariate densities, distributions, expectations, sampling and simulation; independence, conditioning, conditional distributions and expectations; limit theorems such as the strong law of large numbers and the central limit theorem; as well as additional topics such as large deviations, random walks and Markov chains, as time permits. 3 hrs. lec.",
-      "prereqs" : "21-259 or 21-268 or 21-269",
-      "coreqs" : "None" 
+      "prereqs" : ["21-259", "21-268", "21-269"],
+      "coreqs" : [] 
     }

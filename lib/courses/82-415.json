@@ -3,6 +3,6 @@
       "number" : "82-415",
       "units" : 9,
       "description" : "FALL 2013 Language, Identities, and Social Relationships in French Theatre and Film This course examines the ways in which language is used to create, maintain, and negotiate identities and social relationships in French and Francophone theatre and film against the backdrop of cultural currents from the 17th century to present (e.g., from Moli&#232;re to Michel Tremblay, and from Louis Malle to Francis Veber). In this course, we will treat language and culture as inseparable, as &#8220;languaculture,&#8221; to borrow Michael Agar&#8217;s term, meaning that as we explore the language used in plays and films, we are at the same time exploring aspects of French and Francophone cultures as they are manifested in language. Through readings, viewings of performances of plays and films, class discussions, and course projects, students will gain a critical appreciation of the identities and social relationships embodied through language on the stage and screen. The final project in this course will center on the writing and performance of original theatrical scenes that reflect different time periods and the identities and social relationships relevant to those periods&#8217; &#8220;languaculture.&#8221; Pre-requisites: Completion of 82-303, 82-304, and 82-305 (or their equivalents).",
-      "prereqs" : "82-303 and 82-304 and 82-305",
-      "coreqs" : "None" 
+      "prereqs" : ["82-303", "82-304", "82-305"],
+      "coreqs" : [] 
     }

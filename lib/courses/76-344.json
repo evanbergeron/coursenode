@@ -3,6 +3,6 @@
       "number" : "76-344",
       "units" : 9,
       "description" : "Topics will vary by semester. Fall 2012: Censorship? Banned books? Book burnings? Could it happen here? In 20th-century America some of the most important films and books were banned, censored, produced in other countries, or written under an alias. But artists don't like to be silenced, and many of them found ways to tell their stories, regardless of the consequences. In this course we will examine three kinds of censorship: political censorship, racial censorship, and censorship based on sex/sexuality. We will read texts such as Kate Chopin's The Awakening, John Steinbeck's The Grapes of Wrath (and film), J.D. Salinger's The Catcher in the Rye, Harper Lee's To Kill a Mockingbird (and film), Kurt Vonnegut's Slaughterhouse Five, Toni Morrison's Beloved (and film), Richard Wright's Native Son, and Truman Capote's In Cold Blood (and film). We will also celebrate the American Library Association's banned book week, which is September 30th to October 6th.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

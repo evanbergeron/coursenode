@@ -3,6 +3,6 @@
       "number" : "82-388",
       "units" : 9,
       "description" : "This course examines differences and similarities in the way literacy is learned and used in diverse languages and cultures. We will first examine the cognitive and social consequences of literacy by analyzing the major characteristics of spoken and written communications. We will then compare literacy practices in a variety of cultural contexts and explore how literacy utilization alters its collective impacts on the users. Finally, through systematic comparisons of literacy education, we will identify the social, cognitive, linguistic factors directly affecting literacy development in different cultural contexts. Prerequisite: None.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "85-363",
       "units" : 9,
       "description" : "This seminar is on attention, its development, and disorders. The seminar will discuss a broad range of topics including: theoretical and practical implications of studying attention (for example, is it really dangerous to talk on the cell phone while driving? does listening to music help studying?); interrelationship of attention with other cognitive processes, such as perception and memory; challenges and opportunities for studying attention in infants and young children; biological and psychological foundations of attention disorders. Classes will consist of a combination of lecture and discussion. Students will be expected to read original research articles, participate in class discussions, make presentations based on readings, and complete a written assignment.",
-      "prereqs" : "85-211 or 85-221",
-      "coreqs" : "None" 
+      "prereqs" : ["85-211", "85-221"],
+      "coreqs" : [] 
     }

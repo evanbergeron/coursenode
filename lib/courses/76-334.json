@@ -3,6 +3,6 @@
       "number" : "76-334",
       "units" : 9,
       "description" : "It started with a financial panic that closed the New York Stock Exchange for ten days. One quarter of the nation&#8217;s transportation companies went bankrupt, as did nearly 20,000 businesses. Unemployment reached 14%. Four years later it was officially declared a &#8220;depression.&#8221; When did all of this happen? Was it 2009? Or the 1930s? No, it was the depression triggered by the financial panic of 1873. Out of this period, also known as the &#8220;Gilded Age,&#8221; came a unique strain of American literature. Frank Norris&#8217;s grisly tale of an overbearing dentist and his miserly wife, McTeague, Andrew Carnegie&#8217;s autobiography, Upton Sinclair&#8217;s iconic The Jungle, Edith Wharton&#8217;s tragic love story House of Mirth, Charlotte Perkins Gilman&#8217;s feminist utopian novel, Herland, William Dean Howell&#8217;s capitalist satire, The Rise of Silas Lapham, Theodor Drieser&#8217;s mournful Sister Carrie&#8212;all of these writings react to, and try to shape, the economy of a century ago. These novels, which were often critical of corporate capitalism, give us a rich and detailed picture of the last time in the US that Americans suffered under the kind of gap we have today between rich and poor. In the US today the top 1% controls 42% of the country&#8217;s wealth, while the bottom 80% controls a mere 7% of the country&#8217;s wealth. What can we learn about the present by reading the fictions of financial crisis and inequality in the past?",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

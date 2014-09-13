@@ -3,6 +3,6 @@
       "number" : "33-467",
       "units" : 9,
       "description" : "The physics of stars is introduced from first principles, leading from star formation to nuclear fusion to late stellar evolution and the end points of stars: white dwarfs, neutron stars and black holes. The theory of stellar structure and evolution is elegant and impressively powerful, bringing together all branches of physics to predict the life cycles of the stars. The basic physical processes in the interstellar medium will also be described, and the role of multi-wavelength astronomy will be used to illustrate our understanding of the structure of the Milky Way Galaxy, from the massive black hole at the center to the halo of dark matter which emcompasses it.",
-      "prereqs" : "33-224 and 33-23",
-      "coreqs" : "33-341" 
+      "prereqs" : ["33-224"],
+      "coreqs" : ["33-341"] 
     }

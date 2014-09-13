@@ -3,6 +3,6 @@
       "number" : "85-429",
       "units" : 9,
       "description" : "This seminar will examine how the brain executes higher level cognitive processes, such as problem-solving, language comprehension, and visual thinking. The topic will be addressed by examining what recent brain imaging studies can tell us about these various kinds of thinking. This new scientific approach has the potential of providing important information about how the brain thinks, indicating not only what parts perform what function, but also how the activity of different parts of the brain are organized to perform some thinking task, and how various neurological diseases (e.g. aphasia, Alzheimer's) affect brain activity. A variety of different types of thinking will be examined, including short-term working memory storage and computation, problem solving, language comprehension, visual thinking. Several different technologies for measuring brain activity (e.g. PET and functional MRI and also some PET imaging) will be considered, attempting to relate brain physiology to cognitive functioning. The course will examine brain imaging in normal subjects and in people with various kinds of brain damage.",
-      "prereqs" : "85-211 or 85-213 or 85-414 or 85-412 or 85-419",
-      "coreqs" : "None" 
+      "prereqs" : ["85-211", "85-213", "85-414", "85-412", "85-419"],
+      "coreqs" : [] 
     }

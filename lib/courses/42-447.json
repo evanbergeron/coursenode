@@ -3,6 +3,6 @@
       "number" : "42-447",
       "units" : 9,
       "description" : "Rehabilitation engineering involves the application of engineering principles to design, develop, adapt, and apply technology to problems confronted by individuals with disabilities. It differs from classical biomedical engineering by its focus on improving the quality of people&#8217;s lives, rather than improving medical treatment. The course surveys assistive technologies for various functional limitations - including mobility, hearing, vision, communication, and cognition - applied to activities associated with independent living, education, employment, and integration into the community. We consider human factors and market forces that make some innovative technologies successful and others commercial failures. Engineering innovation by itself - without considering other factors &#8211; means that some innovative technologies don&#8217;t become or remain available to aid people with disabilities.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

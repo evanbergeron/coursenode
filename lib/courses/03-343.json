@@ -3,6 +3,6 @@
       "number" : "03-343",
       "units" : 12,
       "description" : "This laboratory course is designed to teach experimental methods of modern biology. Experiments in microbial genetics, molecular biology and eukaryotic genetics are performed. Emphasis is placed on understanding and applying the biological principles of each experiment. This course is designed to be taken during the junior year and is intended to prepare students for undergraduate research. Experimentation using living organisms and/or their tissues, cells or molecules is an essential component of this course.",
-      "prereqs" : "(03-231 or 03-232) and 09-22",
-      "coreqs" : "03-330" 
+      "prereqs" : ["03-231", "03-232"],
+      "coreqs" : ["03-330"] 
     }

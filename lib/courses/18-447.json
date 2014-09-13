@@ -3,6 +3,6 @@
       "number" : "18-447",
       "units" : 12,
       "description" : "Computer architecture is the science and art of selecting and interconnecting hardware components to create a computer that meets functional, performance and cost goals. This course introduces the basic hardware structure of a modern programmable computer including, the basic laws underlying performance evaluation. We will learn, for example, how to design the control and data path hardware for a MIPS-like processor, how to make machine instructions execute simultaneously through pipelining and simple superscalar execution, and how to design fast memory and storage systems. The principles presented in lecture are reinforced in the laboratory through design and simulation of a register transfer (RT) implementation of a MIPS-like pipelined superscalar in Verilog. Learning to design programmable systems requires that you already have the knowledge of building RT systems as is taught in the prerequisite 18-240, the knowledge of the behavior storage hierarchies (e.g., cache memories) and virtual memory as is taught in the prerequisite 15-213, and the knowledge of assembly language programming as is taught in the prerequisites. 3 hrs. lec., 3 hrs. lab.",
-      "prereqs" : "18-240 and (15-213 or 18-213 or 18-243) and (18-340 or 18-341 or 18-348 or 18-349 or 18-320)",
-      "coreqs" : "None" 
+      "prereqs" : ["18-240", "15-213", "18-213", "18-243", "18-340", "18-341", "18-348", "18-349", "18-320"],
+      "coreqs" : [] 
     }

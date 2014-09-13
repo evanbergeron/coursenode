@@ -3,6 +3,6 @@
       "number" : "80-135",
       "units" : 9,
       "description" : "As an introductory course, we will seek to trace out the historical and philosophical dimensions of the polis from its origins in Ancient Greece to its current manifestation in present-day society. Special emphasis will be placed on the concept of 'democracy.' The readings and lectures will focus on the history and concept of democracy (as an idea and as an institution); the basic concepts and problems of political philosophy (e.g., liberal and libertarian ideas of justice); and applied political philosophy (e.g., regional initiatives in deliberative democracy).",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

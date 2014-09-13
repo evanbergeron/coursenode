@@ -3,6 +3,6 @@
       "number" : "21-261",
       "units" : 10,
       "description" : "A first course in ordinary differential equations intended primarily for math majors and for those students interested in a more conceptual treatment of the subject. One of the goals of this course is to prepare students for upper level courses on differential equations, mathematical analysis and applied mathematics. Students will be required to write rigorous arguments. Topics to be covered: Ordinary differential equations: first and second order equations, applications, Laplace transform, systems of linear ordinary differential equations; systems of nonlinear ordinary differential equations, equilibria and stability, applications. Note: Courses 21-259, or 21-268, or 21-269 are recommended. 3 hrs. lec., 1 hr. rec.",
-      "prereqs" : "21-12",
-      "coreqs" : "21-127 and 21-241" 
+      "prereqs" : [],
+      "coreqs" : ["21-127", "21-241"] 
     }

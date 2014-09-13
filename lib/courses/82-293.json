@@ -3,6 +3,6 @@
       "number" : "82-293",
       "units" : 9,
       "description" : "Russia is one of the oldest European countries and long ago achieved world recognition for its outstanding contributions to Western traditions in art, architecture, music and ballet. This introductory course, based on primary documents, secondary readings, film and music, supplies an understanding of the distinctive cultural spirit of this great nation. Prerequisite: None.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

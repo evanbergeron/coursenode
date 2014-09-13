@@ -3,6 +3,6 @@
       "number" : "21-269",
       "units" : 10,
       "description" : "An honors version of 21-268 for students of greater aptitude and motivation. More emphasis will be placed on writing proofs. Topics to be covered include: basic geometry and topology of Euclidean space, curves in space, arclength, curvature and torsion, functions on Euclidean spaces, limits and continuity, partial derivatives, gradients and linearization, chain rules, inverse and implicit function theorems, geometric applications, higher derivatives, Taylor's theorem, optimization, vector fields, multiple integrals and change of variables, Leibnitz's rule, conservative and solenoidal vector fields, divergence and curl, surfaces and orientability, surface integrals, Gauss-Green theorems and Stokes's theorem. 3 hrs. lec.",
-      "prereqs" : "21-242",
-      "coreqs" : "None" 
+      "prereqs" : ["21-242"],
+      "coreqs" : [] 
     }

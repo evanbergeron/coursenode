@@ -3,6 +3,6 @@
       "number" : "80-100",
       "units" : 9,
       "description" : "In this introductory course we will explore three major areas of Philosophy: Ethics, Metaphysics, and Epistemology. Accordingly the course is divided into three sections. In each section we will read primary sources and discuss some of the main philosophic problems associated with that area. These will include: moral problems (Ethics), problems rising from the debates about free-will, personal identity or intelligence (Metaphysics), and inquiries about the scope and limits of human knowledge (Epistemology). We will then introduce some theories designed to solve such problems, and try to understand the strengths and weaknesses of these theories. We will apply different techniques and theories to issues that we might encounter in the real world. We will use class discussions, homeworks and papers to learn skills for evaluating arguments. These skills include: how to present a philosophic argument, what are the assumptions that justify it, what are its weaknesses and its strengths, whether such weaknesses can be resolved and, if they cannot be resolved, why.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

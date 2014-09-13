@@ -3,6 +3,6 @@
       "number" : "82-457",
       "units" : 9,
       "description" : "This course is an overview of contemporary Latin American 'texts' dealing with issues of historical representation, autochtonous heritage, popular culture and gender roles. By 'texts' we shall understand conventional and unconventional literary material, film, art, slides and music. The course will explore formal and 'rhetorical' problematic, as well as the relationship between fiction and imaginary solutions to real cultural and political conflicts. We shall consider the functions of myth and history in Latin American society and the revisionist role of contemporary texts. We shall also examine the categories and implications of historicized fiction and 'literaturized' history with particular attention to the power dynamic present in the segregation of the traditional disciplines which are History and Literature, conceived institutionally as reality and fiction, respectively. Prerequisite or permission of the instructor.",
-      "prereqs" : "82-345",
-      "coreqs" : "None" 
+      "prereqs" : ["82-345"],
+      "coreqs" : [] 
     }

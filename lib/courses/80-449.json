@@ -3,6 +3,6 @@
       "number" : "80-449",
       "units" : 12,
       "description" : "The Ethics, History and Public Policy Project Course is required for the Ethics, History and Public Policy major and is taken in the fall semester of the senior year. In this capstone course, Ethics, History and Public Policy majors carry out a collaborative research project that examines a compelling current policy issue that can be illuminated with historical research and philosophical and policy analysis. The students develop an original research report based on both archival and contemporary policy analysis and they present their results to a client organization in the community.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

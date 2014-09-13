@@ -3,6 +3,6 @@
       "number" : "82-162",
       "units" : 12,
       "description" : "A two-semester course sequence (82-161, 82-162). The elementary level is designed to help students learn to reflect upon and draw upon strategies used by good language learners in their second language study. Prerequisite: 82-161, 82-163 or approved equivalent. Note: This is a 12 unit course. A 9 unit version of this course that does not fulfill DCR3 credits may be offered during a semester for Music students only.",
-      "prereqs" : "82-161, 82-163 or approved equivalent. Note: This is a 12 unit course. A 9 unit version of this course that does not fulfill DCR3 credits may be offered during a semester for Music students only",
-      "coreqs" : "None" 
+      "prereqs" : ["82-161", "82-163"],
+      "coreqs" : [] 
     }

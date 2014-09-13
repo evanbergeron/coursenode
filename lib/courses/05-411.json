@@ -3,6 +3,6 @@
       "number" : "05-411",
       "units" : 6,
       "description" : "Crash dummies in the auto industry save lives by testing the physical safety of automobiles before they are brought to market. &#8220;Cognitive crash dummies&#8221; save time, money, and potentially even lives, by allowing computer-based system designers to test their design ideas before implementing them in products and processes. This mini course will review the state of the art of perceptual, cognitive and motor modeling for assessing designs before building working systems. This course will include reading breaking research in predicting different aspects of human performance and building models in established modeling frameworks. No prior experience in human performance modeling is assumed; students from all disciplines are welcome.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "42-411",
       "units" : 9,
       "description" : "This course will cover structure-processing-property relationships in biomaterials for use in medicine. This course will focus on a variety of materials including natural biopolymers, synthetic polymers, and soft materials with additional treatment of metals and ceramics. Topics include considerations in molecular design of biomaterials, understanding cellular aspects of tissue-biomaterials interactions, and the application of bulk and surface properties in the design of medical devices. This course will discuss practical applications of these materials in drug delivery, tissue engineering, biosensors, and other biomedical technologies. Cross-listed with 27-411 ",
-      "prereqs" : "06-221 or 24-221 or 27-215",
-      "coreqs" : "None" 
+      "prereqs" : ["06-221", "24-221", "27-215"],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "09-231",
       "units" : 9,
       "description" : "This course covers mathematical techniques that are important in the chemical sciences. The techniques will be covered in the context of chemical phenomena, and combine topics from 3-dimensional calculus, differential equations, linear algebra and statistics. This course does not count towards the minor in chemistry. 3 hrs. lec.",
-      "prereqs" : "09-106 and (21-122 or 21-124)",
-      "coreqs" : "None" 
+      "prereqs" : ["09-106", "21-122", "21-124"],
+      "coreqs" : [] 
     }

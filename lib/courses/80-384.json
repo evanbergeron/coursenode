@@ -3,6 +3,6 @@
       "number" : "80-384",
       "units" : 9,
       "description" : "In this course we will look at the phonology, morphology, syntax and writing systems of languages within a single language group, Turkic. Turkic languages are spoken across continental Asia and include such languages as Turkmen, Tatar, Kazakh, Kirghiz, and Uzbek. In this course we will concentrate especially on Turkish, Azerbaijani, and Yakut. We will look at the sound systems of these languages to discover how they are related, and we will also look comparatively at various morphological and syntactic structures. We will consider the impact of diachronic factors on the synchronic study of language, and we will also examine certain recent techniques used to establish genetic relations between languages. To a large extent the course will be student-driven, and it can be seen as an extended case-study for applying concepts and analytical strategies taught in Nature of Language, Phonetics and Phonology, Linguistic Analysis, and other relevant courses. Prerequisites: 80180 Nature of Language",
-      "prereqs" : "80180 Nature of Languag",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

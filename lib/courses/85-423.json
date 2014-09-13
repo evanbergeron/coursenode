@@ -3,6 +3,6 @@
       "number" : "85-423",
       "units" : 9,
       "description" : "The general goals of this course are that students become familiar with the basic phenomena and the leading theories of cognitive development, and that they learn to critically evaluate research in the area. Piagetian and information processing approaches will be discussed and contrasted. The focus will be upon the development of childrens information processing capacity and the effect that differences in capacities have upon the childs ability to interact with the environment in problem solving and learning situations.",
-      "prereqs" : "85-221",
-      "coreqs" : "None" 
+      "prereqs" : ["85-221"],
+      "coreqs" : [] 
     }

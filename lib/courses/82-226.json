@@ -3,6 +3,6 @@
       "number" : "82-226",
       "units" : 0,
       "description" : "Transfer credit for study abroad in Germany, a German-speaking country, or other approved program at the Intermediate level. Credit determined after consultation with the transfer credit advisor for German.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

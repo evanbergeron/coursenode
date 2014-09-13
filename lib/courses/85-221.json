@@ -3,6 +3,6 @@
       "number" : "85-221",
       "units" : 9,
       "description" : "This course is about normal development from conception through adolescence. Topics include physical, perceptual, cognitive, emotional and social development. Students will learn facts about children at various points in development, theories about how development works, and research methods for studying development in infants and children. Students will be encouraged to relate the facts, theories and methods of developmental psychology to everyday problems, social issues and real world concerns.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

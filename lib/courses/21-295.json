@@ -3,6 +3,6 @@
       "number" : "21-295",
       "units" : 3,
       "description" : "A problem solving seminar designed to prepare students to participate in the annual William Lowell Putnam Mathematical Competition. Students solve and present their solutions to problems posed.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "82-442",
       "units" : 9,
       "description" : "This course is an introduction to Spanish Linguistics. The main goal of the course it to provide students with the opportunity to learn the tools of linguistic analysis and to apply them to the study of Spanish. Attention will be given to different levels of analysis in linguistics including phonetics, phonology, morphology, and syntax. Class time will be divided between lecture, problem-solving exercises, and discussion. Students will have the opportunity to write and present a research paper in specific areas of Spanish linguistics according to their interests. Prerequisite or permission of the instructor.",
-      "prereqs" : "82-343 or 80-280",
-      "coreqs" : "None" 
+      "prereqs" : ["82-343", "80-280"],
+      "coreqs" : [] 
     }

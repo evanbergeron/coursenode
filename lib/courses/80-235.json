@@ -3,6 +3,6 @@
       "number" : "80-235",
       "units" : 9,
       "description" : "At the heart of political philosophy lie fundamental questions such as: What constitutes a just society? How, and under what circumstances do individuals incur special political obligations to a particular state? What are the limits of the legitimate authority of the state and how are they defined? This course provides a systematic investigation of the way such questions are answered by dominant schools of liberal political theory, such as the social contract tradition, utilitarianism and libertarianism. Because the liberal political tradition is also strongly egalitarian in nature, the course will examine different conceptions of political equality and conflicting views about the respects in which community members may have a just claim to equal treatment. Readings are drawn from classic works by authors such as Hobbes, Locke, Kant, and Mill, and from the works of contemporary theorists like Rawls, Nozick and others.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

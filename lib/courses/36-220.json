@@ -3,6 +3,6 @@
       "number" : "36-220",
       "units" : 9,
       "description" : "This is a course in introductory statistics for engineers with emphasis on modern product improvement techniques. Besides exploratory data analysis, basic probability, distribution theory and statistical inference, special topics include experimental design, regression, control charts and acceptance sampling. Not open to students who have received credit for 36-201, 36-207/70-207, 36-226, 36-626, or 36-247, except when AP credit is awarded for 36-201.",
-      "prereqs" : "21-112 or 21-121 or 21-120",
-      "coreqs" : "None" 
+      "prereqs" : ["21-112", "21-121", "21-120"],
+      "coreqs" : [] 
     }

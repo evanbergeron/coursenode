@@ -3,6 +3,6 @@
       "number" : "82-246",
       "units" : 0,
       "description" : "Transfer credit for pre-approved, 200-level study in a Spanish-speaking country or other approved program at the Intermediate level. Credit determined after consultation with the transfer credit advisor for Spanish. Prerequisite or an approved equivalent, or prior permission of the Hispanic Studies major or minor advisor, and confirmation of credit upon return.",
-      "prereqs" : "82-412",
-      "coreqs" : "None" 
+      "prereqs" : ["82-412"],
+      "coreqs" : [] 
     }

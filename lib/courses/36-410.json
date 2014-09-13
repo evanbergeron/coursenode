@@ -3,6 +3,6 @@
       "number" : "36-410",
       "units" : 9,
       "description" : "An introductory-level course in stochastic processes. Topics typically include Poisson processes, Markov chains, birth and death processes, random walks, recurrent events, and renewal theory. Examples are drawn from reliability theory, queuing theory, inventory theory, and various applications in the social and physical sciences.",
-      "prereqs" : "21-325 or 36-225 or 36-217 or 36-625",
-      "coreqs" : "None" 
+      "prereqs" : ["21-325", "36-225", "36-217", "36-625"],
+      "coreqs" : [] 
     }

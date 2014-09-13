@@ -3,6 +3,6 @@
       "number" : "76-353",
       "units" : 9,
       "description" : "Topics vary by semester. Fall 2012: This course looks at the relationship between women and globalization. Globalization has been defined as the 'creation of new and the multiplication of existing social networks and activities that increasingly overcome traditional political, economic, cultural, and geographical boundaries.' What, then, are the roles and places of women in these new networks and activities? What is the function of the text&#8212;fiction, memoir, scholarly article or film&#8212;in describing these roles and places? This course will begin exploring these questions historically by theorizing women's relation to the nation in nationalist struggles. We will look specifically at the close connection between women and elements of tradition, including religion. Moving into the contemporary moment, we will examine the experiences of immigrant women and women in the global factory. As a way to interrogate our own assumptions, we will consider heated debates about global feminism. Throughout the course, we will think through the role of cultural representations in these issues. Readings will be drawn from around the world, and include theoretical works as well as literary and filmic representations.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

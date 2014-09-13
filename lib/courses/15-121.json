@@ -3,6 +3,6 @@
       "number" : "15-121",
       "units" : 10,
       "description" : "A continuation of the process of program design and analysis for students with some prior programming experience (functions, loops, and arrays, not necessarily in Java). The course reinforces object-oriented programming techniques in Java and covers data aggregates, data structures (e.g., linked lists, stacks, queues, trees, and graphs), and an introduction to the analysis of algorithms that operate on those data structures. ",
-      "prereqs" : "15-112 or 15-110",
-      "coreqs" : "None" 
+      "prereqs" : ["15-112", "15-110"],
+      "coreqs" : [] 
     }

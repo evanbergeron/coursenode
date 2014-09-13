@@ -3,6 +3,6 @@
       "number" : "80-271",
       "units" : 9,
       "description" : "This course has two parts. First, we will look at basic concepts used in psychology (and cognitive science broadly) through the lens of philosophy including: representation, computation, information, explanation, modularity, attention, automaticity and control. Having some concrete proposals about these ideas will allow us to formulate psychological claims more concretely. Second, we will reverse course and look at traditional philosophical problems through the lens of psychology focusing on three topics: consciousness, agency, and perception. Specifically: what is consciousness, what is it to be an agent, what is it to perceive?.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

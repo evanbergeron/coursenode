@@ -3,6 +3,6 @@
       "number" : "80-150",
       "units" : 9,
       "description" : "This course offers an intellectual history of philosophical views regarding the nature of human reasoning in mathematics and the sciences, from ancient to modern times. The first part of the course traces the search for deductive methods for obtaining certain knowledge, starting with Aristotle and Euclid, and continuing through the Middle Ages and late Renaissance thought, to the work of Boole and Frege in the nineteenth century. The second part of the course considers the history of skepticism about empirical knowledge, covering Plato, Sextus Empiricus, Descartes, Pascal, and Hume, along with replies to skepticism in the works of Bayes and Kant. The third part of the course discusses theories of the nature of mind, culminating in the computational conception of mind that underlies contemporary cognitive science.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

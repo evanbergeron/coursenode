@@ -3,6 +3,6 @@
       "number" : "21-126",
       "units" : 3,
       "description" : "This course provides an introduction to the use of several software packages, which are useful to mathematics students. Among the packages are Maple and Mathematica for symbolic computing, TeX and LaTeX for mathematical documents, and Matlab for numerical computing. The course will also introduce the mathematical facilities built into spreadsheets such as Excel. The aim of the course is to provide the student with some basic skills in the use of this software without attempting complete coverage. A deeper knowledge of the software will be easy to obtain after completing this course. There are no prerequisites for the course, other than basic computer literacy and a knowledge of elementary mathematics. It is suggested that the course should be taken during the first two years of undergraduate studies.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

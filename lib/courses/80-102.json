@@ -3,6 +3,6 @@
       "number" : "80-102",
       "units" : 3,
       "description" : "This three credits extension of 80-100 is open to Freshmen and Sophomores by invitation of their instructor only. The seminar meetings examine interesting puzzles and open controversies concerning topics raised in 80-100.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

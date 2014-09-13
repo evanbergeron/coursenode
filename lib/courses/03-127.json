@@ -3,6 +3,6 @@
       "number" : "03-127",
       "units" : 9,
       "description" : "The goal of this course is to provide an understanding of the nuts and bolts of biological experimentation. We will discuss the molecular principles behind the wide variety of experiments that were used to discover how cells work. The first half of the class will be a lecture based discussion of key experimental methods used in biological research. The second half of the class will be dedicated to group projects that create 'story boards' to explain in molecular terms how these experiments work. The story boards will be used by modelers at the Pittsburgh Supercomputing Center to generate high-end animations of these experimental processes. This will prepare students for working in research labs and biology courses beyond 'Modern Biology'. This course is limited to first year students in MCS.",
-      "prereqs" : "03-121",
-      "coreqs" : "None" 
+      "prereqs" : ["03-121"],
+      "coreqs" : [] 
     }

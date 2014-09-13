@@ -3,6 +3,6 @@
       "number" : "76-396",
       "units" : 9,
       "description" : "Given the changes brought on by the information age, non-profit organizations, like all organizations, face an increasing diversity of audiences and media choices. What hasn&#8217;t changed is the need for effective arguments (print and digital) that respond to both the rhetorical situations at hand and the ongoing needs of a specific organization. In this course, designed for students pursuing careers in professional communication, we&#8217;ll examine the critically important practices of argument and advocacy. And while our central focus will be on non-profits, the arts, education, political advocacy and social causes, the techniques we&#8217;ll learn are also broadly applicable to communications careers in all sectors. Our main focus will be on how professional communicators design arguments and make media choices consistent with the &#8220;voice&#8221; of their organizations. Among other questions, we will ask, how can we adapt the genres of mass communication to meet our organization&#8217;s goals? What roles can social media play in non-profit advocacy, and how are those roles changing? How can we have impact while working with limited budgets? The end result will be a professional portfolio that demonstrates both relevant skills and a high-level theoretical understanding of what makes a public argument successful. Students will also gain experience in translating their technical expertise into language that potential employers understand and look for.",
-      "prereqs" : "76-372 or 76-373 or 76-271 or 76-270 or 76-272",
-      "coreqs" : "None" 
+      "prereqs" : ["76-372", "76-373", "76-271", "76-270", "76-272"],
+      "coreqs" : [] 
     }

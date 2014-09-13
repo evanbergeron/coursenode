@@ -3,6 +3,6 @@
       "number" : "76-386",
       "units" : 9,
       "description" : "This course is an introduction into the scholarship surrounding the nature of language and the question of how language shapes and is shaped by social, cultural and political contexts. We will begin by studying important literature in linguistics and language theory, both to introduce us to how scholars think about language and to give us a shared vocabulary to use for the rest of the semester. We will then move into case studies and theoretical works exploring the intersections of language use, individual and group identities, and the exercise of power, in its many forms. In particular, we will focus on the relationship between language and culture by asking, in what ways does language influence and constitute social change? How is social change reflected by changes in the way we use language? Over the course of the semester, you will work on applying the knowledge and theoretical tools you gain to your own analysis of a linguistic artifact that you choose.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "36-464",
       "units" : 9,
       "description" : "This course is an introduction to applied multivariate methods. Topics include a discussion of the multivariate normal distribution, the multivariate linear model, repeated measures designs and analysis, principle component and factor analysis. Emphasis is on the application and interpretation of these methods in practice. Students will use at least one statistical package. Prerequisites: 36-401 (C or better).",
-      "prereqs" : "36-401 (C or better)",
-      "coreqs" : "None" 
+      "prereqs" : ["36-401"],
+      "coreqs" : [] 
     }

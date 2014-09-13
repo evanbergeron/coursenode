@@ -3,6 +3,6 @@
       "number" : "16-384",
       "units" : 12,
       "description" : "Foundations and principles of robotic kinematics. Topics include transformations, forward kinematics, inverse kinematics, differential kinematics (Jacobians), manipulability, and basic equations of motion. Course also include programming on robot arms.",
-      "prereqs" : "15-122 or 18-202 or 24-311 or 21-241 or 16-311",
-      "coreqs" : "None" 
+      "prereqs" : ["15-122", "18-202", "24-311", "21-241", "16-311"],
+      "coreqs" : [] 
     }

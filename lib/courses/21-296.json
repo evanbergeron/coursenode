@@ -3,6 +3,6 @@
       "number" : "21-296",
       "units" : 3,
       "description" : "This seminar course will discuss some of the most important unsolved problems of mathematics (as deemed in 2000 by an international committee of mathematicians): The Riemann Hypothesis; Yang-Mills Theory and the Mass Gap Hypothesis; the P. vs. NP Problem; smoothness of solutions of the Navier-Stokes Equations; the Hodge Conjecture; the Birch and Swinnerton-Dyer Conjecture. If the time allows, the Poincare conjecture will also be discussed. 1 hr. lec.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

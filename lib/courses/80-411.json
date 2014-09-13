@@ -3,6 +3,6 @@
       "number" : "80-411",
       "units" : 9,
       "description" : "This course is an introduction to Hilbert-style proof theory, where the goal is to represent mathematical arguments using formal deductive systems, and study those systems in syntactic, constructive, computational, or otherwise explicit terms. In the first part of the course, we will study various types of deductive systems (axiomatic systems, natural deduction, and sequent calculi) for classical, intuitionistic, and minimal logic. We will prove Gentzen's cut-elimination theorem, and use it to prove various theorems about first-order logic, including Herbrand's theorem, the interpolation theorem, the conservativity of Skolem axioms, and the existence and disjunction properties for intuitionistic logic. In the second part of the course, we will use these tools to study formal systems of arithmetic, including primitive recursive arithmetic, Peano arithmetic, and subsystems of second-order arithmetic. In particular, we will try to understand how mathematics can be formalized in these theories, and what types of information can be extracted using metamathematical techniques.",
-      "prereqs" : "80-311 or 80-310 or 21-300",
-      "coreqs" : "None" 
+      "prereqs" : ["80-311", "80-310", "21-300"],
+      "coreqs" : [] 
     }

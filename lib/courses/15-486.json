@@ -3,6 +3,6 @@
       "number" : "15-486",
       "units" : 12,
       "description" : "Artificial neural networks combine ideas from machine learning, statistics, and pattern recognition. They draw inspiration from, and provide simplified formalizations of, theories about the workings of the brain. This course offers an introduction to neural networks for computer scientists and engineers. Prerequisites are undergraduate calculus and linear algebra, and solid programming skills. An undergraduate course in artificial intelligence or machine learning would provide helpful background but is not required. The course provides hands-on experience with a variety of neural network architectures implemented in MATLAB, and an in-depth look at problems in pattern recognition and knowledge representation. Topics covered include perceptrons, the LMS learning rule, fundamentals of pattern recognition, backpropagation learning, forward and inverse models in control theory, competitive learning, self-organizing feature maps, radial basis functions, the EM algorithm, Hopfield networks, Boltzmann machines, Helmholtz machines, and general recurrent networks.",
-      "prereqs" : "18-202 or 21-241",
-      "coreqs" : "None" 
+      "prereqs" : ["18-202", "21-241"],
+      "coreqs" : [] 
     }

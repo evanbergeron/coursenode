@@ -3,6 +3,6 @@
       "number" : "03-391",
       "units" : 9,
       "description" : "The course provides introductory level molecular biology that is aimed for students from all disciplines of natural science. It covers microbiology, genetics, genomics and virology, as well as related biophysics of RNA and DNA packaging, protein self-assembly and molecular motors. We also review the latest biophysical methods with a focus on single molecule techniques that have revolutionized the biological sciences.",
-      "prereqs" : "03-232 or 03-231",
-      "coreqs" : "None" 
+      "prereqs" : ["03-232", "03-231"],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "03-344",
       "units" : 12,
       "description" : "This course is designed to be taken as a sequel to 03-343. Experiments cover a variety of methods for investigating the structure and function of biological molecules. Experimental methods with proteins, enzyme kinetics, lipids, spectroscopy, and isolation and quantization of biological molecules are covered. During several experiments, students design their own projects. Experimentation using living organisms and/or their tissues, cells or molecules is an essential component of this course.",
-      "prereqs" : "03-343 and (03-232 or 03-231)",
-      "coreqs" : "None" 
+      "prereqs" : ["03-343", "03-232", "03-231"],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "15-317",
       "units" : 9,
       "description" : "This multidisciplinary junior-level course is designed to provide a thorough introduction to modern constructive logic, its roots in philosophy, its numerous applications in computer science, and its mathematical properties. Some of the topics to be covered are intuitionistic logic, inductive definitions, functional programming, type theory, realizability, connections between classical and constructive logic, decidable classes. This course counts as a Fundamentals course in the Computer Science major.",
-      "prereqs" : "15-210",
-      "coreqs" : "None" 
+      "prereqs" : ["15-210"],
+      "coreqs" : [] 
     }

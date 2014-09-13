@@ -3,6 +3,6 @@
       "number" : "80-258",
       "units" : 9,
       "description" : "This course will investigate the philosophy of David Hume. We will focus on his philosophical thought expressed in the book A Treatise of Human Nature. Hume was an influential philosopher who wrote on many issues ranging from skepticism, to ethics, to the philosophy of science, and his views continue to be influential today. In this course we will attempt to understand Hume's philosophy on all of these subjects both to better understand his contribution to the philosophy of his day, but also to see what his arguments can contribute to contemporary thought.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

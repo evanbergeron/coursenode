@@ -3,6 +3,6 @@
       "number" : "82-474",
       "units" : 9,
       "description" : "SPRING 2012 The Evolution of Japan&#8217;s Urban Cultures This course seeks to (1) introduce students to the phenomena of Japan&#8217;s urban cultures in fiction, non-fiction, film, and social media that have evolved around Tokyo and other major cities in Japan, ranging from the modernist movement in the Taisho era (1912-1926) to the postwar avant-garde (1945-), to the popular culture in contemporary Japan (the late1980s-), and (2) develop their skills in analyzing various aspects of the urban cultures of Japan. Through understanding those aspects, it enables them to develop their perspectives on the formation of urban cultures and its issues in Japan and beyond. It also requires them to work on an individual project on Japan&#8217;s urban culture of their interest. This course is taught in Japanese. Prerequisite: 82-372 or approved equivalent",
-      "prereqs" : "82-372 or approved equivalen",
-      "coreqs" : "None" 
+      "prereqs" : ["82-372"],
+      "coreqs" : [] 
     }

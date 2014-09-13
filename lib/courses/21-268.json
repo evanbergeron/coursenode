@@ -3,6 +3,6 @@
       "number" : "21-268",
       "units" : 10,
       "description" : "A serious introduction to multidimensional calculus that makes use of matrices and linear transformation. Results will be stated carefully and rigorously. Students will be expected to write some proofs; however, some of the deeper results will be presented without proofs. Topics to be covered include: functions of several variables, regions and domains, limits and continuity, partial derivatives, linearization and Jacobian matrices, chain rules, inverse and implicit functions, geometric applications, higher derivatives, Taylor's theorem, optimization, vector fields, multiple integrals and change of variables, Leibnitz's rule, line integrals, Green's theorem, path independence and connectedness, conservative vector fields, surfaces and orientability, surface integrals, divergence theorem and Stokes's theorem. 3 hrs. lec.",
-      "prereqs" : "21-122 and (21-241 or 21-242)",
-      "coreqs" : "None" 
+      "prereqs" : ["21-122", "21-241", "21-242"],
+      "coreqs" : [] 
     }

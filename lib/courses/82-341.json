@@ -3,6 +3,6 @@
       "number" : "82-341",
       "units" : 0,
       "description" : "This course number is given to pre-approved advanced courses in Grammar, Composition, Conversation, or other appropriate, advanced coursework taken as part of a study abroad program, or at another approved institution. Prerequisite: Completion of 82-242 or an approved equivalent, or prior permission of the Hispanic Studies major or minor advisor, and confirmation of credit upon return.",
-      "prereqs" : "Completion of 82-242 or an approved equivalent, or prior permission of the Hispanic Studies major or minor advisor, and confirmation of credit upon return",
-      "coreqs" : "None" 
+      "prereqs" : ["82-242"],
+      "coreqs" : [] 
     }

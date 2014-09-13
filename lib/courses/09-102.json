@@ -3,6 +3,6 @@
       "number" : "09-102",
       "units" : 3,
       "description" : "A selection of mini-courses offered to introduce first-year students to special topics in modern chemistry. The courses meet for half a semester and may include some hands-on laboratory and computer experiences. Topics vary, but have included: Forensic Chemistry in the Criminal Justice System, Macromeolecules for Nanotechnology, Popularization of Science Through Books, Plays and Film, Kaboom and Other Approaches to Teaching Science, Dating Using Radioactivity and Computer Molecular Modeling. Enrollment limited to first-year MCS and SHS students.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

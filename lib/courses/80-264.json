@@ -3,6 +3,6 @@
       "number" : "80-264",
       "units" : 9,
       "description" : "This course will be devoted to the reading and discussion of William James' 'Principles of Psychology', including its relevance to foundational questions about current research. Though first published in 1891, the foundational issues addressed in this landmark work have not lost their relevance; it is often said that this work set the agendas for much of the research subsequently carried out in psychology. This course should appeal to anyone interested in philosophy of mind, philosophy of psychology, and philosophy of science.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "15-381",
       "units" : 9,
       "description" : "This course is about the theory and practice of Artificial Intelligence. We will study modern techniques for computers to represent task-relevant information and make intelligent (i.e. satisficing or optimal) decisions towards the achievement of goals. The search and problem solving methods are applicable throughout a large range of industrial, civil, medical, financial, robotic, and information systems. We will investigate questions about AI systems such as: how to represent knowledge, how to effectively generate appropriate sequences of actions and how to search among alternatives to find optimal or near-optimal solutions. We will also explore how to deal with uncertainty in the world, how to learn from experience, and how to learn decision rules from data. We expect that by the end of the course students will have a thorough understanding of the algorithmic foundations of AI, how probability and AI are closely interrelated, and how automated agents learn. We also expect students to acquire a strong appreciation of the big-picture aspects of developing fully autonomous intelligent agents. Other lectures will introduce additional aspects of AI, including natural language processing, web-based search engines, industrial applications, autonomous robotics, and economic/game-theoretic decision making.",
-      "prereqs" : "15-122 or 15-211",
-      "coreqs" : "None" 
+      "prereqs" : ["15-122", "15-211"],
+      "coreqs" : [] 
     }

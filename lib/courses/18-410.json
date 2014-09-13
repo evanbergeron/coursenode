@@ -3,6 +3,6 @@
       "number" : "18-410",
       "units" : 12,
       "description" : "While modern electronic circuits have become largely digital, the physical world, and consequently, the electronic interface to the physical world remains fundamentally analog. Therefore, sensors, transducers, and the initial signal processing remain in the analog domain. Simultaneously, the commercial market place optimizes sensor technology based upon multiple attributes including cost, detectivity, size, speed, etc. In this course we explore both the many types of possible responses to various physical stimuli, as well as the instrumentation, electronic detection, signal conversion and signal processing techniques used to bring the physical event into the electronic world in a practical manner. This requires that we learn about the diversity of physical phenomena, materials and devices that can be used to convert the various forms of physical energy into electronic signals. Due to the significant diversity of physical phenomena the course requires reading from textbooks, the technical literature and patent literature. The course is taught via the case method with student participation via oral and written reports. The student should arrive with a strong interest in, and basic understanding of, physics, material science, chemistry and analog electronic circuits as taught at the sophomore and junior course level.",
-      "prereqs" : "27-432 or 18-300 or 18-310 or 18-311 or 18-321 or 18-303",
-      "coreqs" : "None" 
+      "prereqs" : ["27-432", "18-300", "18-310", "18-311", "18-321", "18-303"],
+      "coreqs" : [] 
     }

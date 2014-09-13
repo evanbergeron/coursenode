@@ -3,6 +3,6 @@
       "number" : "05-430",
       "units" : 6,
       "description" : "This course is for those with moderate programming skills who want to express their interactive ideas in working prototypes. The course will cover several prototyping tools and require a number of prototypes to be constructed in each. These will range from animated mock-ups through fully functional programs. The course will also cover usability testing of interactive prototypes. Prerequisities: proficiency in a programming language such as C, programming methodology and style, problem analysis, program structure, algorithm analysis, data abstraction, and dynamic data, normally met through an introductory course in programming in C, C++, Pascal or JAVA. When registering for this course, undergraduate students are automatically placed the wait list. Students will be then moved into the class, based on if they are in the BHCI second major and year in school e.g. seniors, juniors, etc",
-      "prereqs" : "15-127 or 15-112 or 15-100",
-      "coreqs" : "None" 
+      "prereqs" : ["15-127", "15-112", "15-100"],
+      "coreqs" : [] 
     }

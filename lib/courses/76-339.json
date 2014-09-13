@@ -3,6 +3,6 @@
       "number" : "76-339",
       "units" : 9,
       "description" : "This course will focus on the global film and media industry from the late 1960s to our present. We will be motivated by two questions: what is a blockbuster and how has this concept changed as media has changed over the last forty years? When Steven Spielberg's Jaws was released in 1975 it radically changed the global distribution and marketing of film. Spielberg's film - like many cinematic blockbusters after it - was a mix of transgressive cinematic genres, advanced filmmaking techniques, classical Hollywood narrative and form. While this class is focused on 'national' medias our approach to the blockbuster will attend to this aforementioned mix, which is the product of transnational and transhistorical economic and aesthetic forces. To that end the class will start with New Hollywood films such as Bonnie and Clyde and blockbuster television events like Roots. We will later move to blockbusters that come from other 'national' film traditions such as Luc Besson's The Fifth Element, Bong Joon-ho's The Host and Rajkumar Hirani's 3 Idiots. While the intellectual foundations of this course are in the film industry we will also look at how the blockbuster concept has migrated to interactive entertainment (video games), sports telecasts, the music industry and the Internet.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

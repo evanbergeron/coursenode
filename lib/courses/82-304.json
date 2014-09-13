@@ -3,6 +3,6 @@
       "number" : "82-304",
       "units" : 9,
       "description" : "This course introduces the students of French to several of the francophone regional cultures outside of France, including North and West Africa, Belgium, Switzerland, Quebec and North America, and the Antilles. The culture commonly associated with the French language is the primarily Christian and Cartesian European tradition. Through the experience of this course, you will learn of the multiple synthetic cultural realities which have arisen through the colonial and post-colonial processes of contact between European and non-European cultures, and which are now expressed through the medium of the French language. Materials studied will include novels, short stories, essays, newspaper and scholarly articles, film, documentary video and song. The course also introduces students to the formal requirements of continuing cultural study, thus assignments will include analyses that demonstrate the ability to express critical judgments in both written and oral form, using accepted academic conventions for research documentation and exposition. Prerequisite or permission of the instructor.",
-      "prereqs" : "82-303",
-      "coreqs" : "None" 
+      "prereqs" : ["82-303"],
+      "coreqs" : [] 
     }

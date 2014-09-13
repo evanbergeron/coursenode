@@ -3,6 +3,6 @@
       "number" : "76-235",
       "units" : 9,
       "description" : "Topics vary by semester. Example, Fall 2010: 20th Century American Bestsellers: In this course we will work to construct a story about the United States and its literary tastes in the twentieth century by reading a selection of bestselling American fiction from the last 100 years. The class will introduce students to concepts central to the cultural study of popular texts, as well as a number of more and less familiar authors and novels. Readings will include only novels that appeared on yearly Publisher&#8217;s Weekly top-ten bestsellers lists from 1900 to 1975. Winston Churchill&#8217;s A Far Country, Edith Wharton&#8217;s The Age of Innocence, Margaret Mitchell&#8217;s Gone with the Wind, Sloan Wilson&#8217;s The Man in the Gray Flannel Suit, J. D. Salinger&#8217;s Franny and Zooey, and E. L. Doctorow&#8217;s Ragtime are just a few of the novels that have shown up on this list. To complete our sketch of popular contemporary fiction, students will present on a bestseller from the last three decades and its reception. Moving through the wide range of texts that became bestsellers, from Wharton to Dan Brown or Stephen King, will allow us to consider whether Daniel J. Boorstin really got the whole picture when he said, &#8220;A best-seller was a book which somehow sold well because it was selling well.&#8221; Course requirements will include a midterm exam, a presentation, and a final paper based on the presentation, as well as intensive reading.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

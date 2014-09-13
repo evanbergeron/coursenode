@@ -3,6 +3,6 @@
       "number" : "76-144",
       "units" : 9,
       "description" : "Topics vary by semester. Fall 2013: What is the relationship between music and language, sound and text, lyric poems and song lyrics, narrative poems and song ballads? This Freshman Seminar course will examine the role music plays as a theme and structural device in contemporary American poetry. We will discuss collections about music and musicians as well as collections written by musicians. Our discussions will be paired in three categories: &#8220;Cover Poems&#8221; (where we&#8217;ll explore how poems cover [adapt, imagine, construct] the lives of musicians); &#8220;Musician Poems&#8221; (where we&#8217;ll explore how musician-poets differentiate song writing and poem writing); and &#8220;Musical Backdrops&#8221; (where we&#8217;ll explore the ways music can influence/impact the subject and structure of poems).",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

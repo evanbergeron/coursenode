@@ -3,6 +3,6 @@
       "number" : "82-436",
       "units" : 9,
       "description" : "This course is designed for students who have reached the advanced level of Modern Chinese and would like to promote their knowledge and skills in reading Classical Chinese, a language shaped in the latter half of the first millennium B. C. which still persists as a living medium of expression today. The course aims to introduce students to the basic syntactic patterns of Classical Chinese and the most frequently used Classical Chinese vocabulary. In the course, we will read representative selections from ancient Chinese texts, chosen for their historical value, beauty,, and influence on later writers. With this knowledge and training, students will be sufficiently equipped to read the Chinese Classics and will gain a deeper understanding of the history of Chinese civilization, culture and language. Moreover, knowledge of Classical Chinese will help students read and understand sophisticated modern Chinese texts, which make frequent use of Classical allusions and constructs. Prerequisite or approved equivalent",
-      "prereqs" : "82-338 or 82-337 or 82-332",
-      "coreqs" : "None" 
+      "prereqs" : ["82-338", "82-337", "82-332"],
+      "coreqs" : [] 
     }

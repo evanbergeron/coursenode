@@ -3,6 +3,6 @@
       "number" : "80-270",
       "units" : 9,
       "description" : "The mind poses one of the greatest challenges in our attempts to understand how the world works. In this course, we will explore a variety of fascinating topics that pose these challenges. We shall ask about how the mind relates to the material world, whether a definition of the mind or its various features can be given, whether having a mind makes a difference on the world. More specific topics will concern the relation between minds and computing, the nature of consciousness, what difference there is between thinking and perceiving (when do we perceive, how many forms of perception are there), and whether we can ever be wrong about our minds (e.g. can we ever be wrong that we are in pain?) . We shall also focus on a variety of interesting phenomena and pathologies including split brain patients, bodily illusions, and schizophrenia.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

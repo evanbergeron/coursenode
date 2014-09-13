@@ -3,6 +3,6 @@
       "number" : "76-333",
       "units" : 9,
       "description" : "Topics will vary by semester. Fall 2012: In this course students will explore 'post-race' idealism within American literary and popular culture. With the election of President Barack Obama, the first African-American President of the United States, media pundits, historians and politicians marked the twenty-first century as the century we transcended 'race' in American life. But what does it mean to be 'post-race?' Where does this concept come from? Is this a good thing? Does being 'post-race' mean the same thing to everyone? How does being post-race differ from multiculturalism? In order to explore these questions we will read or watch works such as Phillip Roth's The Human Stain, Jeff Chang's Can't Stop Won't Stop: A History of the Hip-Hop Generation, Barack Obama's Dreams From My Father, Toni Morrison's A Mercy, Paul Haggis' Crash and Timothy Chey's Fakin da Funk. We will also analyze contemporary print advertising, television commercials as well as explore theoretical and literary-critical approaches to the idea of race and post-race in American culture.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

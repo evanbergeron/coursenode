@@ -3,6 +3,6 @@
       "number" : "82-445",
       "units" : 9,
       "description" : "This course proposes to problematize socio-political and historico-cultural issues concerning U.S. Latinos and Hispanic immigrants in the United States. This will involve the analysis and application of assimilation, transculturation and bilingualism theory, and rhetorical/translational problematics of the material under examination. Also of interest will be an ongoing class discussion of Latinos/Hispanics in history, the media, entertainment, politics and education. We shall also discuss the 'borders,' geographical, political and societal, that may or do exist between U.S. mainstream society, Latinos and Hispanic immigrants and strategies employed by hypenated-Americans for overcoming, subverting or undermining this situation. Materials for the course will include literature, film, essays and music by and about Latinos and Hispanics in the United States. Prerequisite or permission of the instructor.",
-      "prereqs" : "82-345",
-      "coreqs" : "None" 
+      "prereqs" : ["82-345"],
+      "coreqs" : [] 
     }

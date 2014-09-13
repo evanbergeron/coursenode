@@ -3,6 +3,6 @@
       "number" : "80-335",
       "units" : 9,
       "description" : "This course will explore the theory and practice of deliberative democracy. Topics and concepts to be discussed include distinctions between aggregative and deliberative models of democracy, the notions of Reciprocity, Publicity, and Accountability as they apply to policy discussions, and recent work in Citizenship Theory. We will also look at various practices that utilize the theories of deliberative democracy, such as Participatory Strategic Planning, Deliberative Polls&#174;, and Action Forums.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

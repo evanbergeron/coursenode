@@ -3,6 +3,6 @@
       "number" : "03-252",
       "units" : 6,
       "description" : "This course presents an overview of important modeling and image analysis applications of computers to solve problems in biology. It is intended for students without computer programming experience. Major topics covered are biological imaging (digital image processing, morphological image analysis, image databases, image classification and image-derived models) and biological modeling and simulation (including computer models of population dynamics, biochemical kinetics, neuron behavior, cell pathways, and the cell cycle). Required recitations and homeworks consist of exercises making use of web site, software packages and simple Matlab scripts for these applications. Course grade is based on recitation participation, homework assignments based on the exercises, and mid-term and final exams. Note that this course is the second half of 03-250 (Introduction to Computational Biology) and that credit may not be given for both 03-250/02-250 and 03-252/02-252. Prerequisites: 03-121 or permission of instructor.",
-      "prereqs" : "03-121 or permission of instructor",
-      "coreqs" : "None" 
+      "prereqs" : ["03-121"],
+      "coreqs" : [] 
     }

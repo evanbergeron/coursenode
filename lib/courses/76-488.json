@@ -3,6 +3,6 @@
       "number" : "76-488",
       "units" : 3,
       "description" : "Lab exercises for Web Design include the following: basic HTML, images, tables, animation, image maps, interactive forms, Web interfaces to databases, and basic Javascripting. All students must do the lab exercises. The exercises are designed so that those students who already know particular topics (e.g., basic HTML) do not need to attend the lab session. Students who would like guided practice in doing the lab exercises must attend the lab session. Lab sessions take place in a computer cluster.",
-      "prereqs" : "(76-271 or 76-270 or 76-379) and (76-383 or 76-382 or 76-391)",
-      "coreqs" : "None" 
+      "prereqs" : ["76-271", "76-270", "76-379", "76-383", "76-382", "76-391"],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "80-413",
       "units" : 9,
       "description" : "Category theory is a formal framework devoted to studying the structural relationships between mathematical objects. Developed in the mid-20th century to attack geometrical problems, subsequent progress has revealed deep connections to algebra and logic, as well as to mathematical physics and computer science. The course emphasizes two perspectives. On one hand, we develop the basic theory of categories, regarded as mathematical structures in their own right. At the same time, we will consider the application of these results to concrete examples from logic and algebra.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

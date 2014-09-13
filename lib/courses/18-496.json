@@ -3,6 +3,6 @@
       "number" : "18-496",
       "units" : 12,
       "description" : "Bioimage Informatics (formerly Bioimaging) This course gives an overview of tools and tasks in various biological and biomedical imaging modalities, such as fluorescence microscopy, electron microscopy, magnetic resonance imaging, ultrasound and others. The major focus will be on automating and solving the fundamental tasks required for interpreting these images, including (but not restricted to) deconvolution, registration, segmentation, pattern recognition, and modeling, as well as tools needed to solve those tasks (such as Fourier and wavelet methods). The discussion of these topics will draw on approaches from many fields, including statistics, signal processing, and machine learning. As part of the course, students will be expected to complete an independent project.",
-      "prereqs" : "18-290",
-      "coreqs" : "None" 
+      "prereqs" : ["18-290"],
+      "coreqs" : [] 
     }

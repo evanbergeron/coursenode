@@ -3,6 +3,6 @@
       "number" : "80-211",
       "units" : 9,
       "description" : "Since ancient times, those searching for truth have looked to mathematical arguments as a paradigm of rational inquiry. We study the structure of such arguments and their application. In the first half of the course, we develop the syntax and semantics of sentential and quantificational logic while in the second, we apply this logic to examine the axiomatic method in set theory and introduce formal models of computation. This course prepares students to take the 310-311 series on the fundamental (in)completeness and (un)decidability theorems of modern logic.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "42-341",
       "units" : 9,
       "description" : "This course provides a general survey of the application of solid mechanics and rigid body dynamics to the study of the human cardiovascular and musculoskeletal systems. The mechanical properties and behavior of heart, blood vessel, bone, muscle and connective tissues are discussed and methods for the analysis of human motion are developed. Both analytic and experimental results are presented through readings from reports in recent journals and the relevance of these results to the solution of unsolved problems is highlighted. The development of appropriate models for particular problems is also considered. Pre-requisites: 21-260 Differential Equations AND (24-262 Stress Analysis OR 12-331 Solid Mechanics OR equivalent). Useful, but not required: 24-141 Statics and Dynamics AND 24-202 Mechanics of Deformable Solids.",
-      "prereqs" : "24-262 and 21-260",
-      "coreqs" : "None" 
+      "prereqs" : ["24-262", "21-260"],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "03-203",
       "units" : 6,
       "description" : "The goal of this mini-course is to provide students with a general background about the process of taking a regenerative therapeutic from the bench to the bedside. A target clinical indication will be identified, for example, enhanced fracture healing in the distal radius of a post-menopausal osteoporotic patient. We will produce a regenerative therapeutic for that clinical indication and progress through the bench to bedside design and development. Students will be exposed to the process where each component and the final product will be tested using standard in vitro and in vivo protocols. The goal will be accomplished through lectures and library assignments.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

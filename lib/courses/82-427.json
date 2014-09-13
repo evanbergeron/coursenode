@@ -3,6 +3,6 @@
       "number" : "82-427",
       "units" : 9,
       "description" : "How could the land of Goethe and Beethoven also have produced Hitler and the Holocaust?' This is a question that has frequently been posed about Germany. Germany has arguably been the dominant country in Western musical development since the sixteenth century; it has also witnessed an extraordinary flowering of literature, philosophy, and the visual arts. This course, conducted entirely in German exclusively for students with superior German-language skills, will explore what happened to German culture from 1933 to 1945. In particular, it will examine the Nazi assault on modern (or 'degenerate') art and the artistic response of the German and foreign resistance to Nazi tyranny. Arts explored will include literature, film, music, and the visual arts. We will read from the works of a variety of writers, including &#195;&#8211;don von Horvath, Anna Seghers, Bertolt Brecht, Adolf Hitler, Albert Speer, Hanns Johst, Paul Celan, and Wilfrid Bade. Film will also play a major role in the course, and students will be required to view (outside of class) and discuss six Nazi-era films, including Veit Harlan&#8217;s infamous anti-Semitic Jud S&#252;&#223;, Rolf Hansen&#8217;s Nazi musical romance Die gro&#223;e Liebe, and Charlie Chaplin&#8217;s The Great Dictator. Students will be required to lead a classroom discussion, to write a major essay, to write a &#8220;Protokoll&#8221;, to complete all required readings, and to participate actively in classroom discussion, in German. Prerequisite or approved equivalent",
-      "prereqs" : "82-325",
-      "coreqs" : "None" 
+      "prereqs" : ["82-325"],
+      "coreqs" : [] 
     }

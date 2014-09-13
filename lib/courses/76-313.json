@@ -3,6 +3,6 @@
       "number" : "76-313",
       "units" : 9,
       "description" : "Topics vary by semester. Spring 2012: This course approaches nineteenth-century British literature by way of three controversial topics&#8212;evolution, capitalism, and culture&#8212;and their advocates or critics. Readings in Charles Darwin, Karl Marx, and Matthew Arnold on evolutionary sciences, wage labor and capital, and the arts of culture. Additional readings include the prose and poetry of Oscar Wilde (on art and socialism), William Morris (on utopia and design), H. G. Wells (science fiction), Christine Rossetti (on sexuality and the market), Charles Dickens and other writers who will show us the connections between class warfare, sciences of nature, and the arts.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

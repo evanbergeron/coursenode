@@ -3,6 +3,6 @@
       "number" : "82-484",
       "units" : 9,
       "description" : "Theoretical and practical study of aspects of language testing. Purposes and types of language tests are examined in relation to theories of language use and language teaching goals. Testing practices and procedures related to language research and language teaching are also discussed. The course also includes the planning, writing, and administration of tests, and basic test analysis. Prerequisite: None.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

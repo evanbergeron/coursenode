@@ -3,6 +3,6 @@
       "number" : "15-421",
       "units" : 12,
       "description" : "The objective of this course is to introduce students to the technologies of Web Commerce, Security and Privacy as well as to related business, policy and usability issues. Content: Over the past 15 years, the Web has become an integral part of our daily life, whether at home or at work. This course provides students with an overview of the technologies and practices associated with Web Security, Privacy and Commerce. In the process, students will learn what it takes to design and develop successful web applications and services, reconciling security, privacy, usability and business considerations. The course is organized around two parts: Part I - Web Security &amp; Privacy Technologies The big picture, gentle introduction to cryptography, digital signatures, key management, authentication, Internet security protocols, certificates &amp; PKI, decentralized trust management, privacy enhancing technologies, electronic payments. Part II - Web Commerce The big picture, Internet marketing &amp; personalization, search engines, B2B and electronic markets, P2P, Web 2.0, Mobile Commerce, social networking. Format: Lectures (including guest lectures), discussions, student presentations, and class projects. Prerequisites: 15122 or 15211",
-      "prereqs" : "15122 or 1521",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

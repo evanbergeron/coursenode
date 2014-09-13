@@ -3,6 +3,6 @@
       "number" : "82-378",
       "units" : 9,
       "description" : "Through analysis of various registers of the Japanese Spoken language, this course aims to provide analytical tools for Japanese conversational analysis and to provide opportunities to students to practice high proficiency level of oral communication skills such as formal speech, job interviews, and business communication. Formality, politeness, and gender differences are some of the major topics discussed in this course as well as speakers' perspectives, attitudes and emotions. This course is offered in Japanese. Prerequisites or approved equivalent.",
-      "prereqs" : "82-272",
-      "coreqs" : "None" 
+      "prereqs" : ["82-272"],
+      "coreqs" : [] 
     }

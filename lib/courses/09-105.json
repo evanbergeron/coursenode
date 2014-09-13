@@ -3,6 +3,6 @@
       "number" : "09-105",
       "units" : 10,
       "description" : "This course begins with a very brief survey of some fundamental principles of chemistry and a presentation of chemically interesting applications and sophisticated problems. These will form the basis for introducing the relationships between the structure of molecules and their chemical properties and behavior. The subject matter will include principles of atomic structure, chemical bonding, intermolecular interactions and molecular structures of organic and inorganic compounds including some transition metal complexes. Relevant examples will be drawn from such areas as environmental, materials, and biological chemistry. 3 hrs. lec, 2 hrs. rec.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

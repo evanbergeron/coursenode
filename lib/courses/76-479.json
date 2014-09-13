@@ -3,6 +3,6 @@
       "number" : "76-479",
       "units" : 9,
       "description" : "Effective marketing and communications are essential to the success of businesses, non-profit agencies, academic institutions, public interest groups, and other entities that have a shared purpose and identity to promote. This course explores marketing and communications in organizational settings, where professional communicators manage relationships with a wide variety of constituencies: customers, investors, news agencies, employees, members, volunteers, local communities or government agencies. To succeed, communicators must be able to identify and articulate the communication needs of the organizations they represent, develop well-informed strategies for advancing organizational objectives, think and act quickly in high-pressure situations, and write clear and persuasive prose. In this course, you will develop the written and oral communication skills needed by a professional communicator in an organization. You will learn to identify and define a coherent, integrated strategy for all of an organization's communications and to devise and apply effective marketing and public relations tactics in traditional and social media for achieving business objectives. You will gain practice in writing op-ed essays, press releases, critiques of organizational communications, and marketing and communication plans.",
-      "prereqs" : "76-270 or 76-271",
-      "coreqs" : "None" 
+      "prereqs" : ["76-270", "76-271"],
+      "coreqs" : [] 
     }

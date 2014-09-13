@@ -4,49 +4,93 @@
 //  A project template for using arbor.js
 //
 
-function getCourseJSON(courseNumber){
-    console.log("hello");
-    $.getJSON("./lib/courses/" + courseNumber + ".json", function (course){
-        return course;
-    });
+var sys = arbor.ParticleSystem(200, 600, 0); // create the system with sensible repulsion/stiffness/friction
+
+function addNodeWrapper(course){
+    sys.addNode(course.number, course.number);
+        //Recursively add prereqs
+        for (var i = 0; i < course.prereqs.length; i++){
+            getCourseJSON(course.prereqs[i], addNodeWrapper);
+            sys.addEdge(course.prereqs[i], course.number);
+        }
+        //Recursively add coreqs
+        for (var i = 0; i < course.coreqs.length; i++){
+            getCourseJSON(course.coreqs[i], addNodeWrapper);
+            sys.addEdge(course.coreqs[i], course.number);
+        }
+}
+
+function updateSidebar(courseNumber){
+    getCourseName(courseNumber, function(courseName){
+        $("#course-label").text(courseName);});
+    getCourseUnits(courseNumber, function(courseUnits){
+        $("#units-label").text("Units: " + courseUnits);});
+    getCourseDescription(courseNumber, function(description){
+        $("#description-label").text("Description: " + description);});
+    getCoursePrereqs(courseNumber, function(prereqs){
+        var strPrereqs = prereqs.join();
+        if (strPrereqs === ""){
+            strPrereqs = "None";
+        }
+        $("#prereqs-label").text("Prerequisites: " + strPrereqs);
+        });
+    getCourseCoreqs(courseNumber, function(coreqs){
+        var strCoreqs = coreqs.join();
+        if (strCoreqs === ""){
+            strCoreqs = "None";
+        }
+        $("#coreqs-label").text("Corequisites: " + strCoreqs);
+        });
+}
+
+function getCourseJSON(courseNumber, callback){
+    $.getJSON("lib/courses/" + courseNumber + ".json", function(course){
+            callback(course);
+        });
+}
+function getCourseName(courseNumber, callback){
+    getCourseJSON(courseNumber, function(course){
+        callback(course.name);}
+    );
 }
  
-function getCourseName(courseNumber){
-    var course = getCourseJSON(courseNumber);
-    return course.name;
+function getCourseNumber(courseNumber, callback){
+    getCourseJSON(courseNumber, function(course){
+        callback(course.number);}
+    );
 }
  
-function getCourseNumber(courseNumber){
-    var course = getCourseJSON(courseNumber);
-    return course.number;
+function getCourseUnits(courseNumber, callback){
+    getCourseJSON(courseNumber, function(course){
+        callback(course.units);}
+    );
 }
  
-function getCourseUnits(courseNumber){
-    var course = getCourseJSON(courseNumber);
-    return course.units;
+function getCourseDescription(courseNumber, callback){
+    getCourseJSON(courseNumber, function(course){
+        callback(course.description);}
+    );
 }
  
-function getCourseDescription(courseNumber){
-    var course = getCourseJSON(courseNumber);
-    return course.description;
+function getCoursePrereqs(courseNumber, callback){
+    getCourseJSON(courseNumber, function(course){
+        callback(course.prereqs);}
+    );
 }
  
-function getCoursePrereqs(courseNumber){
-    var course = getCourseJSON(courseNumber);
-    return course.name
-}
- 
-function getCourseCoreqs(courseNumber){
-    var course = getCourseJSON(courseNumber);
-    return course.name
+function getCourseCoreqs(courseNumber, callback){
+    getCourseJSON(courseNumber, function(course){
+        callback(course.coreqs);}
+    );
 }
 
 (function($){
 
   var Renderer = function(canvas){
-    var canvas = $(canvas).get(0)
+    var canvas = $(canvas).get(0);
     var ctx = canvas.getContext("2d");
-    var particleSystem
+    var gfx = arbor.Graphics(canvas);
+    var particleSystem;
 
     var that = {
       init:function(system){
@@ -56,16 +100,16 @@ function getCourseCoreqs(courseNumber){
         // to pass the canvas size to the particle system
         //
         // save a reference to the particle system for use in the .redraw() loop
-        particleSystem = system
+        particleSystem = system;
 
         // inform the system of the screen dimensions so it can map coords for us.
         // if the canvas is ever resized, screenSize should be called again with
         // the new dimensions
-        particleSystem.screenSize(canvas.width, canvas.height) 
-        particleSystem.screenPadding(80) // leave an extra 80px of whitespace per side
+        particleSystem.screenSize(canvas.width, canvas.height);
+        particleSystem.screenPadding(80); // leave an extra 80px of whitespace per side
         
         // set up some event handlers to allow for node-dragging
-        that.initMouseHandling()
+        that.initMouseHandling();
       },
       
       redraw:function(){
@@ -78,8 +122,8 @@ function getCourseCoreqs(courseNumber){
         // which allow you to step through the actual node objects but also pass an
         // x,y point in the screen's coordinate system
         // 
-        ctx.fillStyle = "white"
-        ctx.fillRect(0,0, canvas.width, canvas.height)
+        ctx.fillStyle = "white";
+        ctx.fillRect(0,0, canvas.width, canvas.height);
         
         particleSystem.eachEdge(function(edge, pt1, pt2){
           // edge: {source:Node, target:Node, length:#, data:{}}
@@ -87,34 +131,37 @@ function getCourseCoreqs(courseNumber){
           // pt2:  {x:#, y:#}  target position in screen coords
 
           // draw a line from pt1 to pt2
-          ctx.strokeStyle = "rgba(0,0,0, .333)"
-          ctx.lineWidth = 1
-          ctx.beginPath()
-          ctx.moveTo(pt1.x, pt1.y)
-          ctx.lineTo(pt2.x, pt2.y)
-          ctx.stroke()
-        })
+          ctx.strokeStyle = "rgba(0,0,0, .333)";
+          ctx.lineWidth = 1;
+          ctx.beginPath();
+          ctx.moveTo(pt1.x, pt1.y);
+          ctx.lineTo(pt2.x, pt2.y);
+          ctx.stroke();
+        });
 
         particleSystem.eachNode(function(node, pt){
           // node: {mass:#, p:{x,y}, name:"", data:{}}
           // pt:   {x:#, y:#}  node position in screen coords
 
           // draw a rectangle centered at pt
-          var w = 10
-          var name = node.data
-          ctx.fillStyle = (node.data.alone) ? "orange" : "black"
+          var w = 50;
+          var name = node.data;
+          // ctx.fillStyle = (node.data.alone) ? "orange" : "black";
+          ctx.fillStyle = "#577492";
+          gfx.oval(pt.x-w/2, pt.y-w/2, w,w, {fill:ctx.fillStyle})
+          // nodeBoxes[node.name] = [pt.x-w/2, pt.y-11, w, 22]
           // ctx.fillRect(pt.x-w/2, pt.y-w/2, w,w)
           
-          ctx.clearRect(pt.x-w/2, pt.y-7, w, 14)
+          // ctx.clearRect(pt.x-w/2, pt.y-7, w, 14);
 
           // draw the text
           if (name){
-            ctx.font = "bold 11px Arial"
-            ctx.textAlign = "center"
-            ctx.fillStyle = "#888888"
-            ctx.fillText(name||"", pt.x, pt.y+4)
+            ctx.font = "12px Helvetica";
+            ctx.textAlign = "center";
+            ctx.fillStyle = "#EFEFEF";
+            ctx.fillText(name||"", pt.x, pt.y+4);
           }
-        })              
+        }) ;             
       },
       
       initMouseHandling:function(){
@@ -126,103 +173,69 @@ function getCourseCoreqs(courseNumber){
         var handler = {
           clicked:function(e){
             var pos = $(canvas).offset();
-            _mouseP = arbor.Point(e.pageX-pos.left, e.pageY-pos.top)
+            _mouseP = arbor.Point(e.pageX-pos.left, e.pageY-pos.top);
             dragged = particleSystem.nearest(_mouseP);
 
             if (dragged && dragged.node !== null){
               // while we're dragging, don't let physics move the node
-              dragged.node.fixed = true
+              dragged.node.fixed = true;
             }
 
-            $(canvas).bind('mousemove', handler.dragged)
-            $(window).bind('mouseup', handler.dropped)
+            $(canvas).bind('mousemove', handler.dragged);
+            $(window).bind('mouseup', handler.dropped);
 
-            return false
+            return false;
           },
           dragged:function(e){
             var pos = $(canvas).offset();
-            var s = arbor.Point(e.pageX-pos.left, e.pageY-pos.top)
+            var s = arbor.Point(e.pageX-pos.left, e.pageY-pos.top);
 
             if (dragged && dragged.node !== null){
-              var p = particleSystem.fromScreen(s)
-              dragged.node.p = p
+              var p = particleSystem.fromScreen(s);
+              dragged.node.p = p;
             }
 
-            return false
+            return false;
           },
 
           dropped:function(e){
-            if (dragged===null || dragged.node===undefined) return
-            if (dragged.node !== null) dragged.node.fixed = false
-            dragged.node.tempMass = 1000
-            dragged = null
-            $(canvas).unbind('mousemove', handler.dragged)
-            $(window).unbind('mouseup', handler.dropped)
-            _mouseP = null
-            return false
+            if (dragged===null || dragged.node===undefined) return;
+            if (dragged.node !== null) dragged.node.fixed = false;
+            dragged.node.tempMass = 1000;
+            dragged = null;
+            $(canvas).unbind('mousemove', handler.dragged);
+            $(window).unbind('mouseup', handler.dropped);
+            _mouseP = null;
+            return false;
           }
-        }
+        };
         
         // start listening
         $(canvas).mousedown(handler.clicked);
 
       },
       
-    }
-    return that
-  }    
-
+    };
+    return that;
+  };
+  
   $(document).ready(function(){
-    var sys = arbor.ParticleSystem(1000, 600, 0.5) // create the system with sensible repulsion/stiffness/friction
-    sys.parameters({gravity:true}) // use center-gravity to make the graph settle nicely (ymmv)
-    sys.renderer = Renderer("#viewport") // our newly created renderer will have its .init() method called shortly by sys...
-
+    sys.parameters({gravity:true}); // use center-gravity to make the graph settle nicely (ymmv)
+    sys.renderer = Renderer("#viewport"); // our newly created renderer will have its .init() method called shortly by sys...
     // add some nodes to the graph and watch it go...
 
-    var courses = ['15150','15122','15112'];
-
-    // Tried to do stuff with button
     $('#goButton').click(function(){
-      var entryItem = $('#entry').val()
+      var entryItem = $('#entry').val();
+      updateSidebar(entryItem);
       // var description = getCourseDescription(entryItem);
       // console.log(description);
-      $.getJSON("lib/courses/" + entryItem + ".json",function(result){
-        sys.addNode(result.number, result.number);
+      $.getJSON("lib/courses/" + entryItem + ".json", function(result){
+        addNodeWrapper(result);
       });
-    })
-    $.getJSON("lib/courses/21-127.json",function(course){
-       console.log(course);
-       sys.addNode(course.number,course.number);
     });
-    $.getJSON("lib/courses/15-112.json",function(course){
-       sys.addNode(course.number,course.number);
-    });
-    $.getJSON("lib/courses/15-251.json",function(course){
-       sys.addNode(course.number,course.number);
-    });
-    sys.addEdge('15-112','15-251');
-    sys.addEdge('21-127','15-251');
-    // sys.addNode('f', {alone:true, mass:.25})
-
-    // or, equivalently:
-    //
-    // sys.graft({
-    //   nodes:{
-    //     f:{alone:true, mass:.25}
-    //   }, 
-    //   edges:{
-    //     a:{ b:{},
-    //         c:{},
-    //         d:{},
-    //         e:{}
-    //     }
-    //   }
-    // })
-
-
   });
   
-})(this.jQuery)
+})(this.jQuery);
 
 /*function addUsersNode(){
   var sys = arbor.ParticleSystem(1000, 600, 0.5) // create the system with sensible repulsion/stiffness/friction

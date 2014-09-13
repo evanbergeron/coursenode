@@ -3,6 +3,6 @@
       "number" : "82-337",
       "units" : 9,
       "description" : "FALL 2013 Mandarin Chinese for Oral Communication (82-337): Tell Us A Story When we were kids, we learned our first language not from lectures, textbooks, character quizzes, or tests, but from stories that our parents told us at the breakfast table, on our way to school, in a quiet afternoon, or at night before bedtime. In storytelling, we never realized that we were learning a language, but the language just came to us, grew in us, and became a part of ourselves. Part of the purpose of this course is to evoke those language-learning moments of storytelling that have been buried deep in our childhood memory. By way of telling, writing and rewriting a variety of stories, legends, and tales of ancient Chinese origin, this course encourages students to explore new ways to improve their Chinese speaking, reading and writing skills through learning and mastering the art of storytelling. A variety of storytelling activities, including group storytelling, interactive storytelling, picture storytelling, jigsaw storytelling, will be introduced in class. In addition, students will also be introduced to the social, literary, and cultural background of the stories, and learn to appreciate their special roles and significance in traditional Chinese literary and cultural history. Prerequisite: 82-232 or permission of the instructor",
-      "prereqs" : "82-232 or permission of the instructo",
-      "coreqs" : "None" 
+      "prereqs" : ["82-232"],
+      "coreqs" : [] 
     }

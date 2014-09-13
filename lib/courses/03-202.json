@@ -3,6 +3,6 @@
       "number" : "03-202",
       "units" : 0,
       "description" : "None",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

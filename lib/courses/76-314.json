@@ -3,6 +3,6 @@
       "number" : "76-314",
       "units" : 9,
       "description" : "Topics vary by semester. Consult the course descriptions provided by the department for current offerings. Example, Fall 2011: Changes in industry and education in the Victorian period affected women deeply; many women began to actively explore their options outside of the domestic arena, seeking access to education, careers, contraception, voting and alternatives to marriage and motherhood. These early feminists became known as &#8220;New Women,&#8221; and from around 1870 to 1900, discourse by and about them flourishes. The New Woman both exhilarated and terrified. Was she a signifier of England&#8217;s progressive health or was she a monstrous harbinger of the decline of proper English society? How did she both redefine and entrench gender ideology in the late-nineteenth century? We will read short stories, journalistic articles and several novels that address the New Woman, including Sarah Grand&#8217;s The Heavenly Twins, Grant Allen&#8217;s The Typewriter Girl and Bram Stoker&#8217;s Dracula. Cultural narratives about gender, sexuality, science, industry and empire will inform our discussions.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

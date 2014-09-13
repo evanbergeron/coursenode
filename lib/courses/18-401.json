@@ -3,6 +3,6 @@
       "number" : "18-401",
       "units" : 12,
       "description" : "This course provides a broadly based introduction to interactions between mechanical media and electromagnetic fields. Attention is focused on the electromechanical dynamics of lumped-parameter systems, wherein electrical and mechanical subsystems may be modeled in terms of discrete elements. Interactions of quasistatic electric and magnetic fields with moving media are described and exemplified. Unifying examples are drawn from a wide range of technological applications, including energy conversion in synchronous, induction, and commutator rotating machines, electromechanical relays, a capacitor microphone and speaker, and a feedback-controlled magnetic levitation system. 4.5 hrs. rec.",
-      "prereqs" : "18-300",
-      "coreqs" : "None" 
+      "prereqs" : ["18-300"],
+      "coreqs" : [] 
     }

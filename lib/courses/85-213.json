@@ -3,6 +3,6 @@
       "number" : "85-213",
       "units" : 9,
       "description" : "This class will review various results in cognitive psychology (attention, perception, memory, problem solving, language) and use of artificial intelligence techniques to simulate cognitive processes.",
-      "prereqs" : "15-122 or 15-150",
-      "coreqs" : "None" 
+      "prereqs" : ["15-122", "15-150"],
+      "coreqs" : [] 
     }

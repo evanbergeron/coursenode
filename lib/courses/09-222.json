@@ -3,6 +3,6 @@
       "number" : "09-222",
       "units" : 12,
       "description" : "In this second course in the laboratory sequence, students acquire laboratory skills relevant to synthesis and purification of organic compounds, as well as the practical use of chromatography and spectroscopy. Students will also further develop technical writing skills through preparation of lab reports. 2 hrs. lec., 6 hrs. lab.",
-      "prereqs" : "(09-217 or 09-219) and 09-22",
-      "coreqs" : "09-220 or 09-218" 
+      "prereqs" : ["09-217", "09-219"],
+      "coreqs" : ["09-220", "09-218"] 
     }

@@ -3,6 +3,6 @@
       "number" : "33-202",
       "units" : 2,
       "description" : "Continuation of 33-201.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

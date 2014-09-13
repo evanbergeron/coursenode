@@ -3,6 +3,6 @@
       "number" : "82-473",
       "units" : 9,
       "description" : "Under this course title, a broad range of topics relating to Japan and the Japanese people are dealt with through multiple perspectives e.g., (cross-)cultural, social, generational, developmental, linguistic, and historical. When offered, the course focuses on a single topic and thus students may repeat with a different topic. Topics currently offered under the course title are &#8220;Changing Cultural Icons &#8211; Samurai, Kamikaze, and Totoro &#8211;&#8220;, &#8220;Japanese Family through Cinema&#8221;, and &#8220;Youth Culture&#8221;. Further topics will be added as they become available. This course is offered intermittently in fall. Prerequisites: 82-372 or approved equivalent.",
-      "prereqs" : "82-372 or approved equivalent",
-      "coreqs" : "None" 
+      "prereqs" : ["82-372"],
+      "coreqs" : [] 
     }

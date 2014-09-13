@@ -3,6 +3,6 @@
       "number" : "82-104",
       "units" : 12,
       "description" : "This course is designed for students who need a more flexible approach to language learning than that offered in a standard classroom course. The online courseware is video-based with continuous interaction in learning sequences, with additional use of Internet technologies for research, writing and communication. There is one class per week plus individual weekly meetings with a tutor or the instructor for conversation and practice. Students will develop contextually appropriate interpersonal communication skills in both written and spoken French, develop reading and listening skills, understand and begin to control fundamental grammar, acquire vocabulary, and gain a basic understanding of French/francophone cultures. See www.languageonline.org for a more detailed description of requirements and class structure before enrolling. If a student has studied French before, then s/he must take the placement exam. Instructions for the placement exam are in BH 160. NOTE: There is a materials fee for taking this course, which is paid by credit card on first log-in to the course website. Prerequisites or placement exam.",
-      "prereqs" : "82-103 or 82-101",
-      "coreqs" : "None" 
+      "prereqs" : ["82-103", "82-101"],
+      "coreqs" : [] 
     }

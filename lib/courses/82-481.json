@@ -3,6 +3,6 @@
       "number" : "82-481",
       "units" : 9,
       "description" : "The course introduces students to research methodology as it applies to language learning and language teaching. It provides an examination of different approaches currently used in Second Language Acquisition (SLA) research ranging from experimental studies to survey investigations. The goal is to develop an ability to critically evaluate, design and implement sound SLA research. Prerequisite: None.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "36-326",
       "units" : 9,
       "description" : "This course is a rigorous introduction to the mathematical theory of statistics. A good working knowledge of calculus and probability theory is required. Topics include maximum likelihood estimation, confidence intervals, hypothesis testing, Bayesian methods, and regression. A grade of C or better is required in order to advance to 36-401, 36-402 or any 36-46x course. Not open to students who have received credit for 36-625. Prerequisites: 15-359 or 21-325 or 36-217 or 36-225 with a grade of A AND advisor approval.",
-      "prereqs" : "15-359 or 21-325 or 36-217 or 36-225 with a grade of A AND advisor approval",
-      "coreqs" : "None" 
+      "prereqs" : ["15-359", "21-325", "36-217", "36-225"],
+      "coreqs" : [] 
     }

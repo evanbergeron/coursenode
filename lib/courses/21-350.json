@@ -3,6 +3,6 @@
       "number" : "21-350",
       "units" : 9,
       "description" : "Mathematics has a long and interesting history, and there is much insight into both mathematics and history to be gained from its study. The emphasis here will be on learning the mathematics with the added value of appreciating it in historical context. Selected topics may range from early number systems, the development of geometry, the emergence of the ideas of analysis, through to the origins of modern set theory. 3 hrs. lec.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

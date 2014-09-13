@@ -3,6 +3,6 @@
       "number" : "21-465",
       "units" : 9,
       "description" : "Metric spaces. Topological spaces. Separation axioms. Open, closed and compact sets. Continuous functions. Product spaces, subspaces, quotient spaces. Connectedness and path-connectedness. Homotopy. Fundamental group of a pointed space. Simply connected spaces. Winding number, the fundamental group of the circle. Functorial property of the fundamental group. Brouwer fixed point theorem. Covering spaces. van Kampen's theorem. 2-manifolds. Triangulations. Euler characteristic. Surgery, classification of compact 2-manifolds. 3 hrs lec.",
-      "prereqs" : "21-355 and 21-373",
-      "coreqs" : "None" 
+      "prereqs" : ["21-355", "21-373"],
+      "coreqs" : [] 
     }

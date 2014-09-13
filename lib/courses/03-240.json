@@ -3,6 +3,6 @@
       "number" : "03-240",
       "units" : 9,
       "description" : "This course provides descriptive information and mechanistic detail concerning key cellular processes in six areas: membrane function, protein targeting, signaling, cytoskeleton, cell division, and cell interaction. An attempt is made to introduce the methodology that was used to obtain this information and to discuss how our understanding of these processes relates to the treatment of human disease.",
-      "prereqs" : "03-121 and (03-232 or 03-231)",
-      "coreqs" : "None" 
+      "prereqs" : ["03-121", "03-232", "03-231"],
+      "coreqs" : [] 
     }

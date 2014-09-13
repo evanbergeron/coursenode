@@ -3,6 +3,6 @@
       "number" : "33-338",
       "units" : 10,
       "description" : "This course includes the basic concepts of electro- and magnetostatics. In electrostatics, topics include the electric field and potential for typical configurations, work and energy considerations, the method of images and solutions of Laplace's Equation, multipole expansions, and electrostatics in the presence of matter. In magnetostatics, the magnetic field and vector potential, magnetostatics in the presence of matter, properties of dia-, para- and ferromagnetic materials are developed.",
-      "prereqs" : "33-232 and 21-259",
-      "coreqs" : "None" 
+      "prereqs" : ["33-232", "21-259"],
+      "coreqs" : [] 
     }

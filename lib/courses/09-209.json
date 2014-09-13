@@ -3,6 +3,6 @@
       "number" : "09-209",
       "units" : 3,
       "description" : "Ever wanted to boil water in ice? Cook an egg so the yolk is set but the white still runny? Lick a lemon or drink vinegar but have it taste&#8221;sweet? Make &#8220;caviar&#8221; from fruit juice and noodles from yogurt? Explore the science of molecular gastronomy through the lectures and demonstrations that reveal the chemistry and biochemistry of food ingredients and their preparation. Then use a kitchen as your &#8220;laboratory&#8221; to test hypotheses and delve into molecular cooking - you may just get to eat your lab results. Students enrolling in this course are assumed to have a college level background in chemistry including introductory organic chemistry. Students without a solid chemistry background should take the lower level 09-109. 3 hrs. lec. and lab",
-      "prereqs" : "09-219 or 09-217",
-      "coreqs" : "None" 
+      "prereqs" : ["09-219", "09-217"],
+      "coreqs" : [] 
     }

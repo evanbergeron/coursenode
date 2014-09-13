@@ -3,6 +3,6 @@
       "number" : "76-390",
       "units" : 9,
       "description" : "In classical rhetoric, 'style' is a term that refers not to what we write but how we write. Yet considerations about how we write - coherence, emphasis, concision, shape, diction, and elegance - can never be fully separated from an understanding of what, why, and for whom we are writing. Ideally, then, far from being an exercise in expressing personal idiosyncrasies, revising style means understanding a set of strategic choices and always weighing these choices in relation to questions such as, 'Who is my audience?' and 'What is my purpose?' This course will have two main objectives: (1) to help you develop a repertoire of stylistic options and a critical vocabulary for discussing those options, and (2) to give you the opportunity to put this knowledge into practice when revising your own writing and the writing of others. Two recurring questions for us will be the following: if style depends on both the rhetorical situation of a text and knowledge of specific guidelines, how can we ever say that we have achieved 'good' style? Should stylistic rules or practical experience carry more weight in the decisions we make as writers?",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

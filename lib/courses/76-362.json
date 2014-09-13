@@ -3,6 +3,6 @@
       "number" : "76-362",
       "units" : 9,
       "description" : "Here is a list of some of the books that have affected our civilization and which, as writers, we should read; even emulate. They are examples of important nonfiction. No particular order of reading them yet, but you have the summer to get acquainted: Silent Spring by Rachel Carson, The Rights of Man by Thomas Paine, Bury My Heart at Wounded Knee by Dee Alexander Brown, Speak Memory by Valdimir Nabokov, Goodbye to All That by Robert Graves, The Female Eunuch by Germaine Greer, A Room of One's Own by Virginia Woolf, Slouching toward Bethlehem by Joan Didion, Innocents Abroad by Mark Twain, The Symposium by Plato, Notes of a Native Son by James Baldwin. There may be an addition or two. Each book will be 'reviewed' by a short response paper no more than two pages. There will be a larger paper at mid term, and then a final paper to be discussed. Three unexcused absences are grounds for failure.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

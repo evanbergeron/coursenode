@@ -3,6 +3,6 @@
       "number" : "21-329",
       "units" : 9,
       "description" : "Set theory was invented about 110 years ago by George Cantor as an instrument to understand infinite objects and to compare different sizes of infinite sets. Since then set theory has come to play an important role in several branches of modern mathematics, and serves as a foundation of mathematics. Contents: Basic properties of natural numbers, countable and uncountable sets, construction of the real numbers, some basic facts about the topology of the real line, cardinal numbers and cardinal arithmetic, the continuum hypothesis, well ordered sets, ordinal numbers and transfinite induction, the axiom of choice, Zorn's lemma. Optional topics if time permits: Infinitary combinatorics, filters and large cardinals, Borel and analytic sets of reals. 3 hrs. lec.",
-      "prereqs" : "21-127",
-      "coreqs" : "None" 
+      "prereqs" : ["21-127"],
+      "coreqs" : [] 
     }

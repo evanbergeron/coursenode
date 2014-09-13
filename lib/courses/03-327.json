@@ -3,6 +3,6 @@
       "number" : "03-327",
       "units" : 9,
       "description" : "An advanced introduction to theory and practice of phylogenetic analysis (evolutionary tree reconstruction), with a focus on molecular evolution. Basic concepts will be introduced in the context of a historical survey of phylogeny reconstruction. A comprehensive introduction to phylogenetic methods will be presented, including data selection, multiple sequence alignment, character state data versus distance matrices, sequence evolution models, and the four major approaches to phylogeny reconstruction: Parsimony, Distance matrix, Maximum likelihood, and Bayesian analysis. Sources of error and methods for assessing the reliability of phylogenetic inference will be discussed. We will cover additional topics as time allows, such as phylogenetic hypothesis testing, genome scale approaches, the interface between phylogenetics and population genetics, gene tree reconciliation, horizontal gene transfer, and phylogenetic networks.",
-      "prereqs" : "03-310 or 03-232 or 03-231",
-      "coreqs" : "None" 
+      "prereqs" : ["03-310", "03-232", "03-231"],
+      "coreqs" : [] 
     }

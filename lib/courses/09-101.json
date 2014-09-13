@@ -3,6 +3,6 @@
       "number" : "09-101",
       "units" : 3,
       "description" : "This is a seven week chemistry laboratory course that is designed to introduce students to some basic laboratory skills, techniques, and equipment commonly used in experimental chemical investigations. The experiments will apply concepts in organic synthesis, quantitative analysis using visible spectrophotometry, kinetics, acid-base chemistry, thermochemistry, transition metal chemistry, chromatography, and protein biochemistry. 1 hr. lec., 3 hrs. lab.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

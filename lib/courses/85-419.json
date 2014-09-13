@@ -3,6 +3,6 @@
       "number" : "85-419",
       "units" : 9,
       "description" : "This course will provide an overview of parallel-distributed processing models of aspects of perception, memory, language, knowledge representa-tion, and learning. The course will consist of lectures describing the theory behind the models as well as their implementation, and students will get hands-on experience running existing simulation models on workstations.",
-      "prereqs" : "85-211 or 85-213",
-      "coreqs" : "None" 
+      "prereqs" : ["85-211", "85-213"],
+      "coreqs" : [] 
     }

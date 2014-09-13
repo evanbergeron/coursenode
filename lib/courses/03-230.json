@@ -3,6 +3,6 @@
       "number" : "03-230",
       "units" : 9,
       "description" : "This course will survey the major organ systems, with an emphasis on cellular physiology and biochemistry. Current ideas of research and scientific controversy will also be presented. This course is intended to broaden students' exposure to cellular processes in the context of complex organ systems.",
-      "prereqs" : "None",
-      "coreqs" : "03-121" 
+      "prereqs" : [],
+      "coreqs" : ["03-121"] 
     }

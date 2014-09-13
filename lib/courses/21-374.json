@@ -3,6 +3,6 @@
       "number" : "21-374",
       "units" : 9,
       "description" : "The purpose of this course is to provide a successor to Algebraic Structures, with an emphasis on applications of groups and rings within algebra to some major classical problems. These include constructions with a ruler and compass, and the solvability or unsolvability of equations by radicals. It also offers an opportunity to see group theory and basic ring theory 'in action', and introduces several powerful number theoretic techniques. The basic ideas and methods required to study finite fields will also be introduced. These ideas have recently been applied in a number of areas of theoretical computer science including primality testing and cryptography. 3 hrs. lec.",
-      "prereqs" : "21-373",
-      "coreqs" : "None" 
+      "prereqs" : ["21-373"],
+      "coreqs" : [] 
     }

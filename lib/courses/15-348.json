@@ -3,6 +3,6 @@
       "number" : "15-348",
       "units" : 9,
       "description" : "This course is ONLY offered at Carnegie Mellon in Qatar. This course covers the broad range of foundational skills that apply across all embedded computer system application areas, from thermostats to self-driving vehicles. The emphasis is at the layer where hardware meets software. Topics include microcontroller hardware, assembly language, embedded C programming, analog I/O, timers, code optimization, interrupts, and concurrency. Real world engineering practices, constraints, and example applications are integrated throughout the course. Weekly hands-on hardware and software experiences with an industry-strength automotive embedded controller are coordinated with the lecture content to reinforce core skills.",
-      "prereqs" : "15-123",
-      "coreqs" : "None" 
+      "prereqs" : ["15-123"],
+      "coreqs" : [] 
     }

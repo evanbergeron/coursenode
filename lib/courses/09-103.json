@@ -3,6 +3,6 @@
       "number" : "09-103",
       "units" : 9,
       "description" : "This is a one-semester introductory college level course designed for non-science and engineering majors who have had a high school course in chemistry. Students with primary or additional majors in MCS, CIT or SCS will not be allowed to enroll. Chemistry topics will be introduced on an as needed basis in the contexts of air pollution, the ozone layer, global warming, acid rain, safe drinking water, alternative energy sources, plastics, and drug design. Students will apply concepts in topics such as the classification of matter, the relationship between matter and energy, atomic theory and the Periodic Table, chemical bonding, molecular shapes, molecular polarity, interparticle forces, chemical reactions, stoichiometry, properties of aqueous solutions, acid-base chemistry, redox chemistry, and organic chemistry. Students will gain an understanding of how chemistry impacts major environmental, social, political, and economic issues that we encounter daily. They will also learn to apply chemical concepts to new situations or contexts. Students with credit for 09-105 or more advanced chemistry courses will not be allowed to enroll in this course. 3 hrs. lec., 1 hr. rec.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

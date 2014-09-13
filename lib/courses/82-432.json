@@ -3,6 +3,6 @@
       "number" : "82-432",
       "units" : 9,
       "description" : "his class is a general introduction to various aspects of popular culture in twentieth century and contemporary China. Students will gain a critical understanding of common people&#8217;s perspectives and experiences with China&#8217;s revolutionary past and its contemporary global economy through fiction, film, music, newspaper and magazine articles, internet discussion forums, and other forms of visual and written materials. The class is conducted in Chinese, supplemented by occasional scholarly writings in English. Prerequisite: 82-332 or equivalent. Prerequisite: 82-332 or equivalent.",
-      "prereqs" : "82-332 or equivalent. ",
-      "coreqs" : "None" 
+      "prereqs" : ["82-332"],
+      "coreqs" : [] 
     }

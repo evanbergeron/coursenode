@@ -3,6 +3,6 @@
       "number" : "76-260",
       "units" : 9,
       "description" : "Section A: This course introduces students to the forms of fiction. Students will read a variety of short stories, and one novel, complete a series of exercises, and be asked to write their own story at the end of the course. We will focus on learning point of view options, plot, sense of place, and above all, the work of making a memorable character. Students will come to understand how to create a vivid scene that springs to life on the page, by learning to use fresh language in dialogue and description. Assignments will be completed in a series of drafts; students will learn to revise, line by line. The readings will be literary fiction; if you are a student who reads fantasy and science fiction exclusively, the readings of this course will likely not appeal to you. The class will be run, primarily, as a discussion, and demands daily attendance. Section B: This is an introduction to the reading and writing of fiction designed as the first in a sequence of courses for creative writing majors and also as a general course for students wanting some experience in creative writing. Character development and the creation of scenes will be the principal goals in the writing of a short story or stories during the course of the semester - to a minimum of 15 pages. Revisions will be important and reading assignments will illustrate the different elements of fiction reviewed and practiced. A journal is required and two quizzes on the reading material.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

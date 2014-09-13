@@ -3,6 +3,6 @@
       "number" : "80-222",
       "units" : 9,
       "description" : "This is intended as an introduction to the theory of measurement. How are units chosen? Under what conditions do qualitative relationships determine quantitative ones? We shall investigate theories of extensive measurement, with and without error. Applications will be taken from the natural and social sciences. Prerequisites: None specifically; however, students should have background in elementary logic and be comfortable with taking mathematical approaches to conceptual problems.",
-      "prereqs" : "None specifically; however, students should have background in elementary logic and be comfortable with taking mathematical approaches to conceptual problems",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

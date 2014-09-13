@@ -3,6 +3,6 @@
       "number" : "82-141",
       "units" : 12,
       "description" : "A two-semester course sequence (82-141, 82-142) for beginning students emphasizing the development of communicative language proficiency: oral practice, aural comprehension, reading, writing, structural analysis, and language learning resource center work. It also involves studying cultural aspects of Spanish-speaking countries. Prerequisite: None, or if a student has studied Spanish before, then s/he must take the placement exam. Instructions for taking the placement exam are in Baker Hall 160.",
-      "prereqs" : "None, or if a student has studied Spanish before, then s/he must take the placement exam. Instructions for taking the placement exam are in Baker Hall 160",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

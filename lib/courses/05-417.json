@@ -3,6 +3,6 @@
       "number" : "05-417",
       "units" : 6,
       "description" : "This course examines fundamental aspects of interpersonal communication and considers how different types of computer-mediated communications (CMC) technologies affect communication processes. Among the topics we will consider are: conversational structure and CMC, tools to support nonverbal and paralinguistic aspects of communication such as gesture and eye gaze, and social and cultural dimensions of CMC. Students will be expected to post to weekly discussion lists, to write a paper on a specific aspect of CMC, and to present a talk on their final project to the class. The course should be appropriate for graduate students in all areas and for advanced undergraduates.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

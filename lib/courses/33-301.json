@@ -3,6 +3,6 @@
       "number" : "33-301",
       "units" : 1,
       "description" : "Upperclass Physics majors meet together for 1 hour a week to hear discussions on current physics research from faculty, undergraduate and graduate students, and outside speakers. Other topics of interest such as application to graduate school, areas of industrial research and job opportunities are also be presented.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

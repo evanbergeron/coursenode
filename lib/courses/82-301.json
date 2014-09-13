@@ -3,6 +3,6 @@
       "number" : "82-301",
       "units" : 9,
       "description" : "This course offers an introduction to the written French language for undergraduate students in the humanities. Students will be introduced to the structure of the French language in order to prepare them for their own research needs that will require consultation of sources in French. The course is not intended to develop writing, listening and speaking skills, nor is it intended to prepare students for further study in the regular undergraduate French program. It is intended to help them meet specific needs in their research in areas such as history, art and music history, literature, and literary and cultural studies. Prerequisite: Permission of the instructor.",
-      "prereqs" : "Permission of the instructor",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

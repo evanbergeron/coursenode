@@ -3,6 +3,6 @@
       "number" : "15-494",
       "units" : 12,
       "description" : "Cognitive robotics is a new approach to robot programming based on high level primitives for perception and action. These primitives draw inspiration from ideas in cognitive science combined with state of the art robotics algorithms. Students will experiment with these primitives and help develop new ones using the Tekkotsu software framework on the Calliope robot, which includes a 5 degree-of-freedom arm with gripper, a Kinect camera on a pan/tilt mount, and Ubuntu Linux on a dual-core on-board netbook. Prior robotics experience is not necessary, but strong programming skills are required.",
-      "prereqs" : "15-214",
-      "coreqs" : "None" 
+      "prereqs" : ["15-214"],
+      "coreqs" : [] 
     }

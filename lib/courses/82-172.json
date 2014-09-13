@@ -3,6 +3,6 @@
       "number" : "82-172",
       "units" : 12,
       "description" : "This course is a sequel to Elementary Japanese I (82-171) and continues to further the development of communicative language proficiency through oral practice, aural comprehension, reading, writing, and the study of cultural aspects of Japanese society. Furthermore, the elementary-level language course is designed to help students learn to reflect upon and draw upon strategies used by good language learners in their second language study. Four hours in-class instruction per week, plus mandatory homework assignments. Prerequisite or approved equivalent.",
-      "prereqs" : "82-171",
-      "coreqs" : "None" 
+      "prereqs" : ["82-171"],
+      "coreqs" : [] 
     }

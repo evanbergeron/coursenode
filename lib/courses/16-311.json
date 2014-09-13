@@ -3,6 +3,6 @@
       "number" : "16-311",
       "units" : 12,
       "description" : "This course presents an overview of robotics in practice and research with topics including vision, motion planning, mobile mechanisms, kinematics, inverse kinematics, and sensors. In course projects, students construct robots which are driven by a microcontroller, with each project reinforcing the basic principles developed in lectures. Students nominally work in teams of three: an electrical engineer, a mechanical engineer, and a computer scientist. This course will also expose students to some of the contemporary happenings in robotics, which includes current robot lab research, applications, robot contests and robots in the news.",
-      "prereqs" : "18-202 or 21-241 or 21-260 or 24-311",
-      "coreqs" : "None" 
+      "prereqs" : ["18-202", "21-241", "21-260", "24-311"],
+      "coreqs" : [] 
     }

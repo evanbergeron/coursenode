@@ -3,6 +3,6 @@
       "number" : "80-281",
       "units" : 9,
       "description" : "We use language to communicate. Communication seems to involve something like the transfer of ideas or thoughts from one individual to another. In this course, we&#8217;ll try to understand how that works, given that we cannot in fact take our thoughts out of our heads and show them to someone else. We&#8217;ll explore different views on the relationship between thought and meaning, and different views about how language succeeds in communicating thoughts and ideas. We&#8217;ll explore the idea of a language of thought, and ask whether the language we speak influences our thought. At the same time, we will want to understand how it is that language hooks up to the world, enabling us to talk not only about what we think, but also about the way things actually are. We&#8217;ll look at the role of inference in language understanding, and at the nature of non-literal communication, in particular metaphor. The course will be based on readings drawn from philosophy, linguistics and psychology.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

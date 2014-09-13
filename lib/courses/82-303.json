@@ -3,6 +3,6 @@
       "number" : "82-303",
       "units" : 9,
       "description" : "The purpose of this class is to advance grammatical, communicative and cultural proficiency, through an in-depth study of France and the French. Attempts will be made at defining the French 'identity', or what it means to be French, through the study of aspects of French history, French institutions, regions, literature, etc. Examples may be drawn from television and films, songs, and complete literary works, spanning the ages. Great emphasis will be placed on the expression of critical judgment in both oral and written form, documented through readings and personal research.",
-      "prereqs" : "82-202 or 82-204",
-      "coreqs" : "None" 
+      "prereqs" : ["82-202", "82-204"],
+      "coreqs" : [] 
     }

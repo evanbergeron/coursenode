@@ -3,6 +3,6 @@
       "number" : "15-349",
       "units" : 9,
       "description" : "This course is ONLY offered at Carnegie Mellon in Qatar. This course is meant to offer Computer Science undergraduate students in their junior or senior year a broad overview of the field of computer security. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking and wireless security, applied cryptography, as well as ethical, legal, social and economic facets of security. Students will also learn the fundamental methodology for how to design and analyze security critical systems.",
-      "prereqs" : "15-123",
-      "coreqs" : "None" 
+      "prereqs" : ["15-123"],
+      "coreqs" : [] 
     }

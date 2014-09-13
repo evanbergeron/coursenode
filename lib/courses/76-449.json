@@ -3,6 +3,6 @@
       "number" : "76-449",
       "units" : 9,
       "description" : "Topics will vary by semester. Consult the course descriptions provided by the department for current offerings. Example, Spring 2010: College seems a space apart, before you enter the real world. Accordingly, we don't think of fiction and film that depicts life in college as all that serious. However, there is a growing tradition of fiction of university life, whether of students or professors. In particular, a great many prominent contemporary writers have written novels set on campuses, and a number of major film directors have turned their lights on university life. In this course, we will survey the realm of college fiction and film, from F. Scott Fitzgerald to Michael Chabon. We will try to put together its history, distinguish its major types, and diagnose its contemporary representations. We will also look at relevant historical, theoretical, and sociological works that bear on the university. There will be several short papers and one longer final paper.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

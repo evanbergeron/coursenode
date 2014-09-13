@@ -3,6 +3,6 @@
       "number" : "76-341",
       "units" : 9,
       "description" : "This course will examine, through cultural, historical, and theoretical case studies, the concept of &#8220;trans&#8221; as a crossing of boundaries between gendered and sexed identities. In many different cultures and historical periods, individuals have eluded the policing of these boundaries as &#8220;passing&#8221; women or men, only to be discovered, often only through illness or death, as biologically the opposite of their &#8220;passing&#8221; gender. Others, such as hermaphrodites and postmodern transsexuals like Sandy Stone, have chosen to &#8220;come out&#8221; as gender indeterminate, neither unambiguously male nor female. What are we to make of these transgender phenomena and what is their impact on how we understand gender and sexual identity? We will be looking at records of &#8220;real world&#8221; case studies, but also at trans as it is imagined in memoir and fiction, and as a powerful theoretical concept in the field of queer studies.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

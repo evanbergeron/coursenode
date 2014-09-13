@@ -3,6 +3,6 @@
       "number" : "80-430",
       "units" : 9,
       "description" : "Ethics &amp; Medical Research: This course covers foundational issues in the ethical evaluation and regulation of research involving human subjects. It begins with a historical overview of the origins of research ethics after World War II as a response to high profile cases of abuse or scandal. This unit covers 'classic cases' including the Tuskegee syphilis study, the Willowbrook hepatitis study, the Jewish Chronic Disease Hospital Case, and others. It also covers seminal documents such as the Nuremberg Code, the Belmont Report, and the current federal regulations known as the Common Rule. Against this historical backdrop, the course then examines foundational philosophical issues in human-subjects research including ethical issues in clinical trial design, the concept of equipoise and the use of placebo controls, the requirements of justice in the research context, and the values of privacy and informed consent.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

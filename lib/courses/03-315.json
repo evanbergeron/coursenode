@@ -3,6 +3,6 @@
       "number" : "03-315",
       "units" : 9,
       "description" : "The course is designed to introduce students to the fundamental principles of magnetic resonance imaging (MRI) and its application in neuroscience. MRI is emerging as the preeminent method to obtain structural and functional information about the living human brain. This methodology has helped to revolutionize neuroscience and the study of human cognition. The specific topics covered in this course will include: introduction to spin gymnastics, survey of imaging methods, structural brain mapping, functional MRI (fMRI), and MR spectroscopy (MRS). Approximately, one third of the course will be devoted to introductory concepts of magnetic resonance, another third to the discussion of MRI methods, and the remaining third will cover a broad range of neuroscience applications. Guest lectures will be incorporated into the course from neuroscientists and psychologists who use MRI in their own research.",
-      "prereqs" : "03-121 and (21-117 or 21-122 or 21-121)",
-      "coreqs" : "None" 
+      "prereqs" : ["03-121", "21-117", "21-122", "21-121"],
+      "coreqs" : [] 
     }

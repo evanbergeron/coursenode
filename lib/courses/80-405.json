@@ -3,6 +3,6 @@
       "number" : "80-405",
       "units" : 9,
       "description" : "Game theory is the branch of decision theory in which decision problems interact. This course will cover those parts of game theory of special interest to social scientists and philosophers. We will discuss specific elements of the formal theory, including: the distinction between cooperative and non-cooperative games, games in the strategic and the extensive form, solution concepts, epistemic conditions needed to predict outcomes of games, equilibrium refinements, dynamical models of equilibrium selection, and folk theorems of indefinitely repeated games. We will discuss results in experimental economics that test some of the assumptions of classical game theory. Throughout the course we will examine applications of the formal concepts of game theory to problems in moral and political philosophy and the social sciences. Prerequisites: background either in decision theory, rational choice, probability, or statistics.",
-      "prereqs" : "background either in decision theory, rational choice, probability, or statistics",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

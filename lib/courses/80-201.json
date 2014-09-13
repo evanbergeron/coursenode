@@ -3,6 +3,6 @@
       "number" : "80-201",
       "units" : 9,
       "description" : "Epistemology, one of the cornerstones of philosophy since ancient times, concerns the relationships between belief, truth, and knowledge. This course will explore fundamental issues in epistemology, such as the analysis of the concept of knowledge, epistemic justification and scientific method, a priori knowledge, theories of truth, skepticism, reliabilism, and coherentism. Both classic texts and contemporary journal articles will be discussed. There are no prerequisites, but students with some philosophical sophistication and/or formal ability will be more comfortable with the material.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

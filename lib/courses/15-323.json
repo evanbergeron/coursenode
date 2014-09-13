@@ -3,6 +3,6 @@
       "number" : "15-323",
       "units" : 9,
       "description" : "This course presents concepts and techniques for representing and manipulating discrete music information, both in real time and off line. Representations of music as explicitly timed event sequences will be introduced, and students will learn how to build efficient run-time systems for event scheduling, tempo control, and interactive processing. The MIDI protocol is used to capture real-time performance information and to generate sound. The course will also cover non-real-time processing of music data, including Markov models, style recognition, computer accompaniment, query-by-humming, and algorithmic composition. This course is independent of, and complementary to 15-322, Introduction to Computer Music, which focuses on sound synthesis and signal processing.",
-      "prereqs" : "15-122",
-      "coreqs" : "None" 
+      "prereqs" : ["15-122"],
+      "coreqs" : [] 
     }

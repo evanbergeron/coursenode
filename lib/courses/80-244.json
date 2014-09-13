@@ -3,6 +3,6 @@
       "number" : "80-244",
       "units" : 9,
       "description" : "The aim of the course is to provide students with an introduction to environmental ethics. One aspect of environmental ethics is the study of values underlying human relations to the natural environment. In particular, we are interested in issues that arise when these values conflict. This course begins with a discussion of our current environmental crises, and different approaches to solving these crises. Many of these solutions, however, depend on particular kinds of knowledge, particularly scientific knowledge, about our environment. Thus, another important aspect of environmental ethics is determining what we do, and what we can, know. To address these issues, we will explore some problems in philosophy of science, with special emphasis on the various eco-sciences.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

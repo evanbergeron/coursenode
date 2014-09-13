@@ -3,6 +3,6 @@
       "number" : "85-428",
       "units" : 9,
       "description" : "In this seminar, we will examine the neural basis of cognitive development by linking the functional properties of the developing child, as they are described in Piagetian and neo-Piagetian theories, to the neural systems that support them drawing on the framework provided by computational modeling. The focal issues will be the mapping between functional models and neural models, the normal unfolding of development, the interaction of learning and development, and brain plasticity. The systems to be discussed are (1) language, (2) visuo-spatial processing, (3) learning and attention, (4) complex problem solving, and (5) perceptual-motor functions. The goal of the seminar is to relate and integrate insights from three disciplines: cognitive developmental psychology, neuroscience and computational modeling. The format of the course will be discussions of the readings along with various exercises to explore each component discipline and their interrelation in more detail. For example, some of the exercises involve an introduction to brain imaging, an introduction to computational modeling, and further explorations of psychological experimentation, all within the context of cognitive development.",
-      "prereqs" : "85-419 or 85-213 or 85-411 or 85-412 or 85-423 or 85-211 or 85-219 or 85-414 or 85-429",
-      "coreqs" : "None" 
+      "prereqs" : ["85-419", "85-213", "85-411", "85-412", "85-423", "85-211", "85-219", "85-414", "85-429"],
+      "coreqs" : [] 
     }

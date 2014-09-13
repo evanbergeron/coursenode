@@ -3,6 +3,6 @@
       "number" : "85-358",
       "units" : 9,
       "description" : "This course is an advanced seminar that focuses on social psychological research involving the examination of pro-social behavior. A heavy emphasis will be placed on classic research on helping (which investigates how, when, and why we help strangers), as well as the wide body of literature on social support (which investigates how we help, and seek help from, those who are closer to us). Research on both help-seeking and help-provision will be covered, as well as the implications of this type of pro-social behavior for relationships and health. The course also will cover research on other types of pro-social behavior such as empathy, altruism, forgiveness, and cooperation. This is an advanced seminar in which you will be expected to read original research articles and chapters on assigned topics and come to class prepared to discuss the material. Readings will consist of theoretical and empirical articles from psychology journals and related sources. Additional course requirements will involve short, weekly writing assignments, student presentations of research articles, and a written research proposal. Over the course of the semester, students will design and carry out a small-scale, original investigation on a topic of interest.",
-      "prereqs" : "None",
-      "coreqs" : "85-340" 
+      "prereqs" : [],
+      "coreqs" : ["85-340"] 
     }

@@ -3,6 +3,6 @@
       "number" : "76-237",
       "units" : 9,
       "description" : "Topics will vary by semester. Consult the course descriptions provided by the department for current offerings.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

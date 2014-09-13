@@ -3,6 +3,6 @@
       "number" : "36-225",
       "units" : 9,
       "description" : "This course is the first half of a year long course which provides an introduction to probability and mathematical statistics for students in economics, mathematics and statistics. The use of probability theory is illustrated with examples drawn from engineering, the sciences, and management. Topics include elementary probability theory, conditional probability and independence, random variables, distribution functions, joint and conditional distributions, law of large numbers, and the central limit theorem. A grade of C or better is required in order to advance to 36-226 and 36-410. Not open to students who have received credit for 36-217 or 36-625.",
-      "prereqs" : "21-256 or 21-259",
-      "coreqs" : "None" 
+      "prereqs" : ["21-256", "21-259"],
+      "coreqs" : [] 
     }

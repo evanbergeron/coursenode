@@ -3,6 +3,6 @@
       "number" : "21-366",
       "units" : 9,
       "description" : "Typical of courses that might be offered from time to time are game theory, non-linear optimization, and dynamic programming. Prerequisites will depend on the content of the course. 3 hrs. lec.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

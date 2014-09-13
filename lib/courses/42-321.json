@@ -3,6 +3,6 @@
       "number" : "42-321",
       "units" : 9,
       "description" : "This course will provide students with an introduction to biotechnology in an engineering context. The focus will be on using microorganisms to prepare therapeutically and technologically relevant biochemicals. Topics to be covered include cellular and microbial metabolism, recombinant DNA methodologies, bioreactor design, protein separation and purification, and systems approaches to biotechnology. Prerequisites: (42-202 Physiology OR 03-121 Modern Biology OR 03-232 Biochemistry) AND (06-262 Mathematical Methods of Chemical Engineering OR 21-260 Differential Equations) OR permission of instructor.",
-      "prereqs" : " (42-202 Physiology OR 03-121 Modern Biology OR 03-232 Biochemistry) AND (06-262 Mathematical Methods of Chemical Engineering OR 21-260 Differential Equations) OR permission of instructor",
-      "coreqs" : "None" 
+      "prereqs" : ["42-202", "03-121", "03-232", "06-262", "21-260"],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "82-211",
       "units" : 9,
       "description" : "An integrated approach to the study of the Arabic language and culture by means of grammar review, literary and cultural readings and analysis, and intensive practice in written and spoken Arabic. This course explores definitions of culture and analyzes the dynamic role of language in culture and culture in language, with an aim to foster cross-cultural awareness and self-realization while developing proficiency in Arabic. This course is designed to strengthen listening, speaking, reading and writing, within the context of an evolving Arabic culture. Prerequisite or appropriate placement score.",
-      "prereqs" : "82-112",
-      "coreqs" : "None" 
+      "prereqs" : ["82-112"],
+      "coreqs" : [] 
     }

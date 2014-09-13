@@ -3,6 +3,6 @@
       "number" : "03-350",
       "units" : 9,
       "description" : "Developmental biology is the study of how organisms arise from a single cell &#8212; the fertilized egg. The molecular pathways that control development also underlie many human diseases. Developmental biology encompasses stem cell biology, cell-cell signaling, regulation of gene expression, gene networks, morphogenesis, and cell/tissue differentiation. This course serves as an introduction to the major concepts, experimental methodologies, research questions, and model organisms in developmental biology.",
-      "prereqs" : "03-240",
-      "coreqs" : "None" 
+      "prereqs" : ["03-240"],
+      "coreqs" : [] 
     }

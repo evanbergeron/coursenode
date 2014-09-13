@@ -3,6 +3,6 @@
       "number" : "03-115",
       "units" : 6,
       "description" : "This course will provide an introduction to biological investigation through a research project in bacteriophage genomics. Genomics combines experimental and computational approaches for large-scale analysis of the biological information contained in DNA sequences. The ability to analyze the complete DNA of any organism has revolutionized modern genetics and is influencing many areas of biology and medicine. The most abundant biological entities are bacteriophages (viruses that infect bacteria). Their enormous diversity and number make bacteriophages important models for the study of gene structure, function and regulation, population genetics and evolution. In addition they are the source of important tools in biotechnology. The research goals of this course will be to identify new bacteriophage species and incorporate them into a comparative genomic study to better understand the genetic organization and evolution of these organisms. While accomplishing these goals students will develop an understanding of the research process, including the ability to design experiments and interpret novel data. Fall semester: Samples will be collected in the field. From these samples students will identify and purify bacteriophages. The bacteriophages will be characterized structurally by electron microscopy, and their DNA will be purified and sequenced.",
-      "prereqs" : "None",
-      "coreqs" : "03-110 and 03-121" 
+      "prereqs" : [],
+      "coreqs" : ["03-110", "03-121"] 
     }

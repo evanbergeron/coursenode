@@ -3,6 +3,6 @@
       "number" : "82-231",
       "units" : 12,
       "description" : "This course is the continuation of Elementary Chinese II (82-132). Students will continue to learn the basic skills of listening, speaking, reading and writing for daily communication. More variety of expressions and complicated sentence structures will be taught so that students can carry on more sophisticated daily conversations on various topics related to every day life. While equal emphasis will still be given to both Pinyin and characters, students will be encouraged to use more and more Chinese characters with the help of Pinyin. Activities related to the broad spectrum of the Chinese culture will be organized to facilitate the language learning with knowledge of the cultural background of the language. Prerequisite or permission of the instructor.",
-      "prereqs" : "82-134 or 82-135 or 82-132",
-      "coreqs" : "None" 
+      "prereqs" : ["82-134", "82-135", "82-132"],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "80-210",
       "units" : 9,
       "description" : "This web-based course introduces students to central issues in logic and develops their ability for constructing and refuting arguments. It addresses the question: How can one analyze the structure of rational discourse or, more specifically, the logical structure of argumentation? An answer to this question requires: (i) uncovering the logical form of statements; (ii) defining the correctness of logical steps; (iii) formulating inference rules for the logical forms; (iv) designing strategies for argumentation with the inference rules. The course takes these steps for both sentential and quantificational logic. Presentation: The material is presented on-line, though some exercises must be done with pen and paper. Additional reading of historical and philosophical character complements the systematic on-line presentation. Weekly small discussion meetings with collaborative reviews, substantive discussions and critical reflections supplement the on-line material.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

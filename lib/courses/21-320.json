@@ -3,6 +3,6 @@
       "number" : "21-320",
       "units" : 9,
       "description" : "The objective of this course is to learn to program in Maple, a powerful symbolic mathematics package available on many platforms at Carnegie Mellon. After learning what Maple can do with the commands provided with the package, students will learn to develop their own Maple functions to accomplish extended mathematical computations. Grades in the course will be based mostly on project work. Projects may come from any relevant field and may be graphical, numerical, or symbolic or all three. The course will involve online demonstrations in most classes. 3 hrs. lec.",
-      "prereqs" : "21-122 and 21-127",
-      "coreqs" : "None" 
+      "prereqs" : ["21-122", "21-127"],
+      "coreqs" : [] 
     }

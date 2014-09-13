@@ -3,6 +3,6 @@
       "number" : "82-380",
       "units" : 0,
       "description" : "An opportunity for students who wish to pursue independent supervised study in second language acquisition (SLA). In conjunction with a faculty member, students will arrange a program of study to explore aspects of SLA. Prerequisite: Permission of the Instructor.",
-      "prereqs" : "Permission of the Instructor",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

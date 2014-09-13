@@ -3,6 +3,6 @@
       "number" : "76-337",
       "units" : 9,
       "description" : "Topics will vary by semester. Spring 2013: In this course we will focus on novels, short stories, plays and poetry by African, Indian, Irish, and Caribbean writers contributing to a field sometimes called global literature. Contemporary writers from around the world have produced a new body of Anglophone literature that provides vibrant portrayals of the fraught issues facing people in former British colonies. Although the course will focus on literary text, though our reading we will also explore some of the central concepts of postcolonial and global studies, including race, ethnicity, cultural hybridity, nationalism, and modernity. Writers might include Ngugi wa Thiong'o, J.M. Coetzee, Brian Friel, Chimamanda Ngozi Adichie, Arundhati Roy, Jamaica Kincaid, and Aravind Adiga.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

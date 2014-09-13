@@ -3,6 +3,6 @@
       "number" : "09-107",
       "units" : 10,
       "description" : "Honors Chemistry is an introductory course that teaches the foundations of Modern Chemistry and applies them to current scientific issues, such as Green Chemistry, Biotechnology and Materials Science. Topics include modern theories of bonding, organization of atoms, molecular interactions, biochemistry and transition metal chemistry. Enrollment is limited to first-year students, with priority given to those in MCS. 3 hrs. lec., 2 hrs. rec.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

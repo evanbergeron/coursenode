@@ -3,6 +3,6 @@
       "number" : "82-332",
       "units" : 9,
       "description" : "A continuation of Advanced Chinese I, this course is designed to train students with the ability to use Chinese language to deal with abstract topics they may encounter in their life. Students will continue to learn more complex language phenomena in order to do exposition, explanation, description and argumentation with the language. These language phenomena will be introduced to students together with their social and cultural background through texts and multi-media programs related to various social issues. Classroom discussions will be the major form of practice. Students will discuss and comment on issues related to family, love, marriage and other human relations as well as the economic situations in the Chinese society by using their language skills in narration, description, comparison, argumentation, etc. Students will also be required to write short articles of 600 Chinese characters on various topics discussed in class. Prerequisite or approved equivalent.",
-      "prereqs" : "82-331",
-      "coreqs" : "None" 
+      "prereqs" : ["82-331"],
+      "coreqs" : [] 
     }

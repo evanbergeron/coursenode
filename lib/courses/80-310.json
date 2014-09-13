@@ -3,6 +3,6 @@
       "number" : "80-310",
       "units" : 9,
       "description" : "Among the most significant developments in modern logic is the formal analysis of the notions of provability and logical consequence for the logic of relations and quantification, known as first-order logic. These notions are related by the soundness and completeness theorems: a logical formula is provable if and only if it is true under every interpretation. This course provides a formal specification of the syntax and semantics of first-order logic and then proves the soundness and completeness theorems. Other topics may include: basic model theory, intuitionistic, modal, and higher-order logics.",
-      "prereqs" : "15-251 or 80-210 or 80-212 or 80-211",
-      "coreqs" : "None" 
+      "prereqs" : ["15-251", "80-210", "80-212", "80-211"],
+      "coreqs" : [] 
     }

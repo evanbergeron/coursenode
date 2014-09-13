@@ -3,6 +3,6 @@
       "number" : "15-387",
       "units" : 9,
       "description" : "In this course, we will first cover the biological and psychological foundational knowledge of biological perceptual systems, and then apply computational thinking to investigate the principles and mechanisms underlying natural perception. The course will focus on vision this year, but will also touch upon other sensory modalities. You will learn how to reason scientifically and computationally about problems and issues in perception, how to extract the essential computational properties of those abstract ideas, and finally how to convert these into explicit mathematical models and computational algorithms. Topics include perceptual representation and inference, perceptual organization, perceptual constancy, object recognition, learning and scene analysis. Prerequisites: First year college calculus, some basic knowledge of linear algebra and probability and some programming experience are desirable.",
-      "prereqs" : "First year college calculus, some basic knowledge of linear algebra and probability and some programming experience are desirable",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

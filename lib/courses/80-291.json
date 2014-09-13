@@ -3,6 +3,6 @@
       "number" : "80-291",
       "units" : 9,
       "description" : "This course emphasizes the philosophical, cultural, and sociological aspects of multimedia. The course will explore these issues historically and thematically by looking at central figures in the early days of computers and communication theory (e.g., Alan Turing and Claude Shannon) and recent work by writers such as Brenda Laurel (Computers as Theatre), George Landow (HyperText 2.0), and Janet Murray (Hamlet on the Holodeck: The Future of Narrative in Cyberspace). This is not a technical course in issues relating to the creation of multimedia software. It is a course concerned with the meaning of multimedia authoring in its contemporary societal context.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

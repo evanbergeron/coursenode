@@ -3,6 +3,6 @@
       "number" : "82-320",
       "units" : 9,
       "description" : "This course advances proficiency in communicative and grammatical skills in the German language and knowledge of German-speaking cultures through the study of important events, trends, and people of contemporary Germany, Austria, and Switzerland. Examples will be drawn from literature, newspapers, television, film and other sources. Students will be expected to complete assignments that demonstrate the ability to express critical judgments in both written and oral form, documented through readings and personal research. The course includes a systematic review of German grammar. Prerequisites or permission of the instructor. Prerequisite or with permission of the instructor.",
-      "prereqs" : "82-222",
-      "coreqs" : "None" 
+      "prereqs" : ["82-222"],
+      "coreqs" : [] 
     }

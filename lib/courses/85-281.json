@@ -3,6 +3,6 @@
       "number" : "85-281",
       "units" : 9,
       "description" : "This course is designed to introduce students to a wide variety of concepts in the area of clinical psychology. We will explore clinical psychology in an historical perceptive, ethics related to the practice of psychology, and various theories of psychotherapy (Incluing psychoanalytic, psychodynamic, existential, and cognitive behavioral). Also, we will look at group theories underlying group therapy and family/systems therapy.",
-      "prereqs" : "85-251 or 85-261",
-      "coreqs" : "None" 
+      "prereqs" : ["85-251", "85-261"],
+      "coreqs" : [] 
     }

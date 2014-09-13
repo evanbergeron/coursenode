@@ -3,6 +3,6 @@
       "number" : "76-462",
       "units" : 9,
       "description" : "This course will build on your work in the Survey of Forms: Fiction and Beginning Fiction Workshop courses, stressing a mastery of fiction techniques, along with the development of individual style. We will alternate critiques of student stories with analysis of published work from a range of short storywriters. Minimum of 35 finished pages of original fiction required, along with substantial revision.",
-      "prereqs" : "76-460",
-      "coreqs" : "None" 
+      "prereqs" : ["76-460"],
+      "coreqs" : [] 
     }

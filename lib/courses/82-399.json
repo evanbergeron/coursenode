@@ -3,6 +3,6 @@
       "number" : "82-399",
       "units" : 0,
       "description" : "This course focuses on further development of the linguistic and stylistic practices of advanced students based on cultural analysis of Russian literature. Focus is on rapid vocabulary expansion as well as correction of high frequency syntax errors that persist beyond the intermediate level. Written compositions and translations, assigned for homework, are required for the development of grammatical accuracy and stylistic appropriateness. All class discussions are conducted in Russian. Prerequisite or approved equivalent.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

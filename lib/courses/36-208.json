@@ -3,6 +3,6 @@
       "number" : "36-208",
       "units" : 9,
       "description" : "This is the second half of a year long sequence in basic statistical methods that are used in business and management. Topics include time series, regression and forecasting. In addition to two lectures a week, students will attend a computer lab once a week. Not open to students who have received credit for 36-202, 36-626. Cross-listed as 70-208. Students who have completed 36-401 prior to 36-208 will not receive credit for 36-208.",
-      "prereqs" : "(21-121 or 21-120 or 21-112) and (36-220 or 36-247 or 70-207 or 36-201 or 36-207)",
-      "coreqs" : "None" 
+      "prereqs" : ["21-121", "21-120", "21-112", "36-220", "36-247", "70-207", "36-201", "36-207"],
+      "coreqs" : [] 
     }

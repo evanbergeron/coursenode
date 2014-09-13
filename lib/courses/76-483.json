@@ -3,6 +3,6 @@
       "number" : "76-483",
       "units" : 9,
       "description" : "This course investigates methods for analyzing rhetoric as it mainly exists in digital environments (e.g. blogs, newsgroups, homepages, political sites, facebooks and so on). The focus will be on verbal rhetoric, but students who wish to analyze visual rhetoric interactively with verbal rhetoric will be welcome to do so. In the first part of the course, we will review various methods for analyzing digital texts descriptively (viz., concordance, collocate and keyword analysis) and inferentially, through multivariate analysis (e.g., manova, factor analysis, discriminant analysis, cluster analysis). To learn these methods, in the first half of the course, we will use simple textual data sets supplied by the instructor. In the second half of the class, students will choose their own digital environments to analyze and they will be expected to write publishable-quality rhetorical analyses of these environments. To meet this expectation, students will need to do considerable background research in the digital environments they are studying.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

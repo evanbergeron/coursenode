@@ -3,6 +3,6 @@
       "number" : "15-090",
       "units" : 3,
       "description" : "This course is for international students who are interested in working for Curricular Practical Training (CPT). Such students interested in CPT must first be authorized by the Office of International Education before being able to enroll in the Practicum course. More information on CPT is available on OIE's Foreign Student Employment page and at the CS Undergraduate Office.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

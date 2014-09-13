@@ -3,6 +3,6 @@
       "number" : "33-350",
       "units" : 0,
       "description" : "The student undertakes a project of interest under the supervision of a faculty member. May include research done in a research lab, extending the capabilities of a teaching lab, or a theoretical or computational physics project. The student experiences the less structured atmosphere of a research program where there is much room for independent initiative. A list of research projects is available. The student must contact the Assistant Head for the Undergraduate Affairs before registering so that student project pairings can be set. Reports on results are required at end of semester.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

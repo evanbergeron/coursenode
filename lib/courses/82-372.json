@@ -3,6 +3,6 @@
       "number" : "82-372",
       "units" : 9,
       "description" : "A sequel to Advanced Japanese I (82-371). This course continues to further improve the acquisition of the advanced level communicative language proficiency by immersing students in authentic cultural explorations. Curriculum includes authentic reading texts, audiovisual materials, interviews with native speakers, and viewing and summarizing Japanese films that depict current Japanese society and cultural trend. The course also provides an individualized learning environment throughout the term in improving students' language skills and cultural proficiency. Students may pick a topic of personal interest for their term project thesis. Prerequisite or approved equivalent.",
-      "prereqs" : "82-371",
-      "coreqs" : "None" 
+      "prereqs" : ["82-371"],
+      "coreqs" : [] 
     }

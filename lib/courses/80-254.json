@@ -3,6 +3,6 @@
       "number" : "80-254",
       "units" : 9,
       "description" : "We will read (parts of) some classic works in analytic philosophy by Gottlob Frege, Bertrand Russell, and Ludwig Wittgenstein and, if time permits, by Ayer and Quine. We will also historically situate these classic works with respect to each other, and with respect to a few select works in logic, science, and mathematics that provided the background to them. The emphasis will be on learning how to read, understand, articulate and critique the views and arguments in these texts.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

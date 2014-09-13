@@ -3,6 +3,6 @@
       "number" : "82-112",
       "units" : 12,
       "description" : "This course is designed for students who have taken first-semester Arabic at Carnegie Mellon or its equivalent. The emphasis is on all four skills (listening, speaking, reading, and writing) and on cultural information as it is presented in class and through homework assignments. Regular participation in class is mandatory (four in-class hours per week). In addition, students will be required to spend some time in the Modern Language Resource Center (MLRC) using different multimedia tools to complete assignments. Information on how to use these tools will be provided. The elementary level is designed to help students learn to reflect upon and draw upon strategies used by good language learners in their second language study. If a student has studied Arabic before, then s/he must take the placement exam. Instructions for taking the placement exam are in Baker Hall 160. Prerequisite or appropriate placement test score.",
-      "prereqs" : "82-111",
-      "coreqs" : "None" 
+      "prereqs" : ["82-111"],
+      "coreqs" : [] 
     }

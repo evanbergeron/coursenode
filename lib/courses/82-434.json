@@ -3,6 +3,6 @@
       "number" : "82-434",
       "units" : 9,
       "description" : "Course description: This course aims at helping students to obtain a general idea of Chinese history from 5000 years ago, understand the basic philosophical ideas of Confucianism and Daoism so that they will be aware and understand how Confucianism and Daoism have influenced the traditional Chinese ways of thinking. Students will also learn to use Chinese to analyze and comment both orally and in written form the pros and cons of the traditional Chinese ways of thinking and the differences between people's ways of thinking in Chinese culture and those in another culture. Materials for this course will be selected from classical works on Confucius teachings, classical poems, modern prose writings, excerpts from Chinese novels, etc. The themes will focus on Chinese history, basic philosophies of Confucianism and Daoism and their influence on the ways of thinking in the daily life of Chinese. Specifically the materials will deal with such issues as traditional Chinese views on study and education, career, family, human relations with nature, self-cultivation and women.",
-      "prereqs" : "82-332",
-      "coreqs" : "None" 
+      "prereqs" : ["82-332"],
+      "coreqs" : [] 
     }

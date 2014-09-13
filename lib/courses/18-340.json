@@ -3,6 +3,6 @@
       "number" : "18-340",
       "units" : 12,
       "description" : "In this course we will explore the techniques for designing high-performance digital circuits for computation along with methods for evaluating their properties. We begin by quickly reviewing number systems and digital arithmetic along with basic arithmetic circuits such as ripple-carry adders. We then focus on formal techniques and theory for analyzing the functionality, timing, power consumption, and chip area properties of these basic circuits and ones yet to be presented. From there, we move to more complex adders (carry-lookahead, carry-skip, carry_bypass, Wallace trees, and hybrid techniques) and multipliers (sequential, array, Booth, and others) along with various divider circuits. Floating point units are then built upon the concepts introduced for adder, multipliers, and dividers. Finally, we will investigate the design and implementation of digital filter circuits. For each circuit introduced, we will develop techniques for evaluating their functionality, their speed, power consumption, and silicon area requirements. In addition, we will utilize various CAD tools to design and evaluate most of the computation circuits discussed. After successful completion of the course, students will not only have an understanding of complex computation circuits, but subtle concepts that include hazards, metastability, false paths, inertial delay, sticky bits, clock skew/jitter, dynamic and static sensitization, and many others. 3 hrs. lec., 1 hr. rec.",
-      "prereqs" : "18-240",
-      "coreqs" : "None" 
+      "prereqs" : ["18-240"],
+      "coreqs" : [] 
     }

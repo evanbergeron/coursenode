@@ -3,6 +3,6 @@
       "number" : "82-171",
       "units" : 12,
       "description" : "This course is the first part of a two-semester course sequence (82-171, 82-172) for students with no background in Japanese. It emphasizes the development of communicative language proficiency through oral practice, aural comprehension, reading, writing, and the study of cultural aspects of Japanese society. Furthermore, the elementary-level language course is designed to help students learn to reflect upon and draw upon strategies used by good language learners in their second language study. Four hours in-class instruction per week, plus mandatory homework. Prerequisite: None.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

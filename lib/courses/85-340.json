@@ -3,6 +3,6 @@
       "number" : "85-340",
       "units" : 9,
       "description" : "This course is designed to provide students with the necessary knowledge to evaluate research, make transitions between theory and the operations that test the theory, and to design and carry out original research. Topics will include the nature of proof and causal inference, manipulation of indepen-dent variables, measurement of dependent variables, questionnaire design, experimental ,and quasi-experimental, design and ethical issues involved in doing research. Survey, observational and experimental techniques as applied in both field and laboratory settings will be covered. Students will be expected to criticize completed research. They are also expected to design measures and complete their own original studies. During the course of the semester students will also be expected to design and carry out an original research project as well.You must have either taken 36-309 previously or 36-309 can be taken as co-req in Fall semester. In the Spring semester 36-309 is prereq.",
-      "prereqs" : "85-251 or 85-24",
-      "coreqs" : "36-309" 
+      "prereqs" : ["85-251"],
+      "coreqs" : ["36-309"] 
     }

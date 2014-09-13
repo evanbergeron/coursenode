@@ -3,6 +3,6 @@
       "number" : "82-487",
       "units" : 9,
       "description" : "This course will provide students with a comprehensive understanding of second language (L2) writing by surveying fundamental issues and the relations between empirical research, alternative theoretical perspectives, and pedagogical practices in L2 writing. Topics include text, psychological, and social models of L2 writing instruction and learning. Students are expected to carry out a research project on a focused topic of their choosing concerning L2 writing. Prerequisite or permission of the Instructor.",
-      "prereqs" : "82-383 or 82-783",
-      "coreqs" : "None" 
+      "prereqs" : ["82-383", "82-783"],
+      "coreqs" : [] 
     }

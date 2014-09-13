@@ -3,6 +3,6 @@
       "number" : "05-413",
       "units" : 9,
       "description" : "This course uses theory and research from human factors, cognitive science, and social science to understand and design the interactions of humans with the built world, tools, and technology. The course emphasizes current work in applied domains such as automotive design, house construction, medical human factors, and design of information devices. The course also will emphasize not only individual human factors (e.g., visual response, anthropometry) but also the organizational arrangements that can amplify or correct human factors problems. Through reading, discussion, and projects, you will learn about human perceptual, cognitive, and physical processes that affect how people interact with, and use, technology and tools. You will learn why we have so many automobile accidents, voting irregularities, and injuries from prescription medication. You will learn some tried and true solutions for human factors problems, and some of the many problems in human factors that remain. You will also have gained experience in research in this field.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

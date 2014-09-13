@@ -3,6 +3,6 @@
       "number" : "85-422",
       "units" : 9,
       "description" : "The purpose of this course is to provide students with an extensive background in the field of infant development and to acquaint them with the special methodological and theoretical problems that characterize research in the field. The course will be discussion-oriented and every student will be required to participate actively in both preparing for and contributing to discussion. Specific content areas to be covered include perception, memory, conceptual development, attachment, emotions, social development, and the origins of language. We will cover general readings as well as conflicting empirical studies and theoretical accounts that we will attempt to disentangle and resolve in class discussion.",
-      "prereqs" : "85-221",
-      "coreqs" : "None" 
+      "prereqs" : ["85-221"],
+      "coreqs" : [] 
     }

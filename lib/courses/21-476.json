@@ -3,6 +3,6 @@
       "number" : "21-476",
       "units" : 9,
       "description" : "This course is an introduction to differentiable dynamical systems. The material includes basic properties of dynamical systems, including the existence and uniqueness theory, continuation, singular points, orbits, and their classification. The Poincare'-Bendixson theorem and typical applications, like Lienard equations and Lotka-Volterra are also covered. An introduction to chaos as time permits. 3 hrs. lec.",
-      "prereqs" : "(21-241 or 21-242) and 21-261",
-      "coreqs" : "None" 
+      "prereqs" : ["21-241", "21-242", "21-261"],
+      "coreqs" : [] 
     }

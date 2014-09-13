@@ -3,6 +3,6 @@
       "number" : "82-131",
       "units" : 12,
       "description" : "This course is for beginners in Mandarin Chinese. Its goal is to train students in the basic skills of listening, speaking, reading and writing for daily communication in Chinese. Students will learn the phonetic transcriptions of Chinese (Pinyin) for speaking and listening as well as Chinese characters for reading and writing. Basic vocabulary and sentence patterns used in everyday life are taught so that students will be able to carry on simple conversations on everyday life topics. Students will be introduced to cultural issues through class, extracurricular activities and multimedia programs. The elementary level is designed to help students learn to reflect and draw upon strategies used by good language learners in their second language study. Prerequisite: None.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

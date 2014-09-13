@@ -3,6 +3,6 @@
       "number" : "80-101",
       "units" : 9,
       "description" : "This course explores historical, scientific, and philosophical contexts in which mathematics is developed, and the ways in which mathematics enables us to obtain precise descriptions of various aspects of human experience. Topics include the development of non-Euclidean geometry and Riemann's theories of manifolds with applications in cosmology, and the theory of computability with applications in cognitive psychology. Students will become familiar with fundamental set theoretic notions, as well as Turning machines and cellular automata.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

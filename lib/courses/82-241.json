@@ -3,6 +3,6 @@
       "number" : "82-241",
       "units" : 9,
       "description" : "An integrated approach to the study of Spanish language and Hispanic cultures by means of grammar review, analysis of literary and cultural readings, and films, and intensive practice in written and spoken Spanish. This course explores definitions of culture and analyzes the dynamic role of language in culture and culture in language, with an aim to foster cross-cultural awareness and self-realization while developing proficiency in Spanish. The first part of a two-semester course sequence (82-241, 82-242). Prerequisite or approved equivalent.",
-      "prereqs" : "82-142 or 82-144",
-      "coreqs" : "None" 
+      "prereqs" : ["82-142", "82-144"],
+      "coreqs" : [] 
     }

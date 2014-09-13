@@ -3,6 +3,6 @@
       "number" : "33-106",
       "units" : 12,
       "description" : "This is a first semester, calculus-based introductory physics course. Basic principles of mechanics and thermodynamics are developed. Topics include vectors, displacement, velocity, acceleration, force, equilibrium, mass, Newton's laws, gravitation, work, energy, momentum, impulse, temperature, heat, equations of state, thermodynamic processes, heat engines, refrigerators, first and second laws of thermodynamics, and the kinetic theory of gases.",
-      "prereqs" : "None",
-      "coreqs" : "21-120" 
+      "prereqs" : [],
+      "coreqs" : ["21-120"] 
     }

@@ -3,6 +3,6 @@
       "number" : "33-332",
       "units" : 10,
       "description" : "This is the second semester of a two-semester course on classical mechanics. The course will use the tools developed in 33-331 to examine motion in non-inertial reference frames; in particular, rotating frames. This then leads to the development of general rigid body motion, Euler's Equations. Finally, the course will cover coupled oscillations with particular emphasis on normal modes.",
-      "prereqs" : "33-331",
-      "coreqs" : "None" 
+      "prereqs" : ["33-331"],
+      "coreqs" : [] 
     }

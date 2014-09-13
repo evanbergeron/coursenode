@@ -3,6 +3,6 @@
       "number" : "03-326",
       "units" : 5,
       "description" : "This course in will examine the processes by which genomes evolve and how this genetic variation leads to phenotypic diversity. An introduction to gene regulation, how the genome controls development, comparisons of development and the phenotypic diversity in animals will be provided. Then we will consider ways in which genomes evolve, followed by in depth coverage of how gene regulation has evolved (focusing on cis regulatory evolution and non-coding RNA regulatory evolution). Finally the concept of gene regulatory network control of development and understanding evolution as change in these networks will be examined. Concepts and specific examples will come through reading of primary literature and selected readings from advanced texts.",
-      "prereqs" : "03-23",
-      "coreqs" : "03-330" 
+      "prereqs" : [],
+      "coreqs" : ["03-330"] 
     }

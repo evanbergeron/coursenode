@@ -3,6 +3,6 @@
       "number" : "15-465",
       "units" : 12,
       "description" : "Animation Art and Technology is an interdisciplinary course cross-listed between Art and Computer Science. Faculty and teaching assistants from computer science and art teach the class as a team. It is a project-based course in which four to five interdisciplinary teams of students produce animations. Most of the animations have a substantive technical component and the students are challenged to consider innovation with content to be equal with the technical. The class includes basic tutorials for work in Maya leading toward more advanced applications and extensions of the software such as motion capture and algorithms for animating cloth, hair, particles, and grouping behaviors. The first class will meet in CFA room 303.",
-      "prereqs" : "15-462",
-      "coreqs" : "None" 
+      "prereqs" : ["15-462"],
+      "coreqs" : [] 
     }

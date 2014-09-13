@@ -3,6 +3,6 @@
       "number" : "76-387",
       "units" : 9,
       "description" : "This course investigates information effects basic to the communication professional, generated primarily through structures of narrative and argument. We cover various genres supported by these structures, such as personal narratives, profiles, scenic writing, oral histories, information and instruction writing and policy argument. This course emphasizes both the production and the analysis of writing.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

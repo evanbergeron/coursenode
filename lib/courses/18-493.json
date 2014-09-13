@@ -3,6 +3,6 @@
       "number" : "18-493",
       "units" : 12,
       "description" : "This course provides an introduction to physical, engineering, and architectural acoustics. The course begins with a review of the wave equation and some of its solutions that are relevant to the propagation of sound from planar and spherical sources, and from arrays of simple sources. Lumped-parameter electrical circuit analogies are developed to describe mechanical and acoustical systems, leading to a discussion of the constraints and tradeoffs involved in the design of loudspeakers, microphones, and other transducers. The characteristics of sound in regular and irregular enclosures will be developed and discussed in the context of the acoustical design for rooms and auditoriums. The interaction of sound and man is also discussed, with introductory lectures on auditory perception and the acoustics of speech production, with applications in the areas of efficient perceptually-based coding of music and speech, and virtual acoustical environments.",
-      "prereqs" : "18-290 and 18-220",
-      "coreqs" : "None" 
+      "prereqs" : ["18-290", "18-220"],
+      "coreqs" : [] 
     }

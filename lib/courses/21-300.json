@@ -3,6 +3,6 @@
       "number" : "21-300",
       "units" : 9,
       "description" : "Propositional and predicate logic: Syntax, proof theory and semantics up to completeness theorem, Lowenheim Skolem theorems, and applications of the compactness theorem. 3 hrs. lec.",
-      "prereqs" : "15-251 or 21-228 or 21-373",
-      "coreqs" : "None" 
+      "prereqs" : ["15-251", "21-228", "21-373"],
+      "coreqs" : [] 
     }

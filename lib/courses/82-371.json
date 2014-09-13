@@ -3,6 +3,6 @@
       "number" : "82-371",
       "units" : 9,
       "description" : "A two-semester course sequence (82-371, 82-372). This course emphasizes the acquisition of an advanced level of communicative language proficiency by immersing students in authentic cultural explorations. Curriculum includes authentic reading texts, audiovisual materials, interviews with native speakers, and viewing and summarizing Japanese films that depict current Japanese society and cultural trend. The course also provides an individualized learning environment throughout the term in improving students' language skills and cultural proficiency. Students may pick a topic of personal interest for their term project thesis. Prerequisite or approved equivalent.",
-      "prereqs" : "82-272",
-      "coreqs" : "None" 
+      "prereqs" : ["82-272"],
+      "coreqs" : [] 
     }

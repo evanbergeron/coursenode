@@ -3,6 +3,6 @@
       "number" : "85-426",
       "units" : 9,
       "description" : "This course provides an introduction to probabilistic models of cognition. The focus is on principles that can help to explain human learning and to develop intelligent machines. Topics discussed will include categorization, causal learning, language acquisition, and inductive reasoning.",
-      "prereqs" : "15-121 or 15-111 or 15-122",
-      "coreqs" : "None" 
+      "prereqs" : ["15-121", "15-111", "15-122"],
+      "coreqs" : [] 
     }

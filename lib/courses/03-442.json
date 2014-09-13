@@ -3,6 +3,6 @@
       "number" : "03-442",
       "units" : 9,
       "description" : "The structure and expression of eukaryotic genes are discussed, focusing on model systems from a variety of organisms including yeast, flies, worms, mice, humans, and plants. Topics discussed include (1) genomics,proteomics, and functional proteomics and (2) control of gene expression at the level of transcription of mRNA from DNA, splicing of pre-mRNA, export of spliced mRNA from the nucleus to the cytoplasm, and translation of mRNA.",
-      "prereqs" : "03-330",
-      "coreqs" : "None" 
+      "prereqs" : ["03-330"],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "76-465",
       "units" : 9,
       "description" : "This workshop will primarily involve discussions of the poems produced by class members. Grades will be determined by the following: - Regular attendance and workshop participation via blackboard and coursework. - Three essays on the selected poems of various contemporary poets. - A final poetry manuscript which includes a substantial number of revised poems.",
-      "prereqs" : "76-365",
-      "coreqs" : "None" 
+      "prereqs" : ["76-365"],
+      "coreqs" : [] 
     }

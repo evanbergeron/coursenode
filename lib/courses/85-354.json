@@ -3,6 +3,6 @@
       "number" : "85-354",
       "units" : 9,
       "description" : "While adults struggle to learn languages, almost all infants acquire language with seemingly little effort. This course examines infants' learning abilities and language milestones with a focus on several different theoretical accounts of language development, and the way empirical data can be used to assess those theories. The course is reading intensive, and evaluation will be based on both written assignments and oral participation.",
-      "prereqs" : "85-221",
-      "coreqs" : "None" 
+      "prereqs" : ["85-221"],
+      "coreqs" : [] 
     }

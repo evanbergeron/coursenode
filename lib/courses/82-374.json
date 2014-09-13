@@ -3,6 +3,6 @@
       "number" : "82-374",
       "units" : 9,
       "description" : "This course seeks to (1) introduce students to technical Japanese or Japanese language used in the field of science and technology, (2) acquaint them with current issues in Japan involving science and technology and (3) deepen their understanding of the science and technology culture of Japan. It draws on various sources of information such as books, newspapers, video clips, and TV news to familiarize them with current issues in Japan related to science and technology. Through understanding those issues, it enables them to acquire necessary knowledge of technical Japanese and Japanese cultural perspectives on science and technology. It also requires them to work on an individual project to form and express their own thoughts and opinions on a science and technology issue of their interest. This course is taught in Japanese. Prerequisite: 82-272 or approved equivalent",
-      "prereqs" : "82-272 or approved equivalen",
-      "coreqs" : "None" 
+      "prereqs" : ["82-272"],
+      "coreqs" : [] 
     }

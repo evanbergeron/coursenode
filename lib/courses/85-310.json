@@ -3,6 +3,6 @@
       "number" : "85-310",
       "units" : 9,
       "description" : "This is a course in which students develop the research skills associated with cognitive psychology and cognitive science. Students learn how to design and conduct experiments, and analyze and interpret the data they collect. The course covers a variety of experimental designs, e.g., factorial, Latin Squares. Analyses of response times, qualitative data, and signal detection are also covered. Cognitive modeling will also be discussed. Topics include mental imagery, memory, and perception. The class format consists of lectures, discussions and student presentations. You must have either taken 36-309 previously or 36-309 can be taken as co-req in Fall semester. In the Spring semester 36-309 is prereq.",
-      "prereqs" : "85-213 or 85-21",
-      "coreqs" : "36-309" 
+      "prereqs" : ["85-213"],
+      "coreqs" : ["36-309"] 
     }

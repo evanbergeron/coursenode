@@ -3,6 +3,6 @@
       "number" : "76-453",
       "units" : 9,
       "description" : "Topics will vary by semester. Spring 2013: Critic David Attwell once characterized a novel about empire as focused on 'that moment of suspension when an empire imagines itself besieged and plots a final reckoning with its enemies.' The same might be said of late-nineteenth and early twentieth-century British literature, which was shaped by events taking place outside as well as inside of national borders. Even in the eighteenth and nineteenth centuries, with international trade and slavery supporting the manor house and plantations abroad providing the cotton for British looms, the 'England' of English literature spanned the globe. By the first half of the twentieth century, this empire had begun to collapse in upon itself, a process witnessed by writers inside Britain and its colonies. This course will investigate a broad spectrum of British literature within the international context of global imperialism. We will be reading representative works from different periods of British literature; our own study will be supplemented by several guest lectures by experts in different literary historical periods. Readings include William Shakespeare's The Tempest, Aphra Behn's Oroonoko: or the Royal Slave, Mary Shelley's Frankenstein, Wilkie Collins's The Moonstone, Joseph Conrad's Nostromo, and E.M. Forster's A Passage to India. These literary works will be read alongside postcolonial theory, including articles by Edward Said, Chinua Achebe, Anne McClintock, and Gillian Beer.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

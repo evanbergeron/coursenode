@@ -3,6 +3,6 @@
       "number" : "76-469",
       "units" : 9,
       "description" : "This semester will begin with a review of the fundamentals of screenwriting, including character development, scene construction, dialogue, and story structure. Student work will include exercises that encourage writers to take creative risks with genre, tone, character, and structure, one collaborative project, and two short scripts. We will also view mainstream, personal, and experimental narrative films in both American and international cinema.",
-      "prereqs" : "76-269",
-      "coreqs" : "None" 
+      "prereqs" : ["76-269"],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "42-401",
       "units" : 3,
       "description" : "This course introduces Biomedical Engineering students to the design of useful biomedical products. Students will learn to identify product needs, how to specify problem definitions and to use project management tools. Methods to develop creativity in design will be introduced. Students will form project teams and select a project to be completed during the following semester in 42-402. This course culminates in the completion of a design brief. Prerequisite: Senior standing in Biomedical Engineering. Co-requisite: 42-101.",
-      "prereqs" : "Senior standing in Biomedical Engineering. Co-requisite: 42-101",
-      "coreqs" : "42-101" 
+      "prereqs" : ["42-101"],
+      "coreqs" : ["42-101"] 
     }

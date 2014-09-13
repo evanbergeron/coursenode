@@ -3,6 +3,6 @@
       "number" : "82-142",
       "units" : 12,
       "description" : "The second part of a two-semester course sequence (82-141, 82-142). Prerequisite: 82-141, a placement score or permission of the Instructor. If a student has studied Spanish before, then s/he must take the placement exam. Instructions for taking the placement exam are in Baker Hall 160.",
-      "prereqs" : "82-141, a placement score or permission of the Instructor. If a student has studied Spanish before, then s/he must take the placement exam. Instructions for taking the placement exam are in Baker Hall 160",
-      "coreqs" : "None" 
+      "prereqs" : ["82-141"],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "03-342",
       "units" : 1,
       "description" : "This course is designed for students in the BS in Computational Biology degree program. It will be taught as a first mini as a required co-requisite for 03-343, Experimental Genetics and Molecular Biology and is designed to be an introduction to basic laboratory practices. The course will introduce biological and chemical safety training and basic laboratory practices. Techniques of solution preparation and titration, pipetting, UV/VIS spectroscopy, and quantitation of biological compounds will be covered.",
-      "prereqs" : "None",
-      "coreqs" : "03-343" 
+      "prereqs" : [],
+      "coreqs" : ["03-343"] 
     }

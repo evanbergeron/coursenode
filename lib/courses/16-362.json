@@ -3,6 +3,6 @@
       "number" : "16-362",
       "units" : 12,
       "description" : "This course is a comprehensive hands-on introduction to the concepts and basic algorithms needed to make a mobile robot function reliably and effectively. We will work in groups with Nomad Scout robots and interface to them using laptops programmed in the Java programming language in a modern code development environment. This is a lab course with emphasis is on hands-on learning. You will get experience in this course in addition to some theory. Lectures are focused on the content of the next lab. There is a lab every week and they build on each other so that a complete robot software system results. The course will culminate with a class-wide competition that tests the performance of all of your code implemented in the semester. Typically, your code is at least 5000 lines of Java written jointly with 2 other people. Students must have a 2nd year science/engineering level background in mathematics (matrices, vectors, coordinate systems, basic kinematics) to succeed in the course. Students must have mastered (1 programming course experience) computer programming in a procedural language like C or Java to succeed in the course. The following experience, while not required, will be an asset: a) familiarity with basic computer science data structures and algorithms (equivalent to taking 15-121), b) experience with Eclipse and Subversion or equivalent software development tools, c) experience collaboratively designing and implementing a software system &gt;= 5,000 lines of code.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

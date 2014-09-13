@@ -3,6 +3,6 @@
       "number" : "42-200",
       "units" : 0,
       "description" : "Research projects for sophomores under the direction of a regular or adjunct BME faculty member. Arrangements may also be made via the Associate Head of BME for off-campus projects provided that a regular or adjunct BME faculty member agrees to serve as a co-advisor. The nature of the project, the number of units, and the criteria for grading are to be determined between the student and the research advisor. The agreement should be summarized in a two-page project description with sign-off by the research advisor and a copy submitted for review and filing with the BME Department. A final written report or oral presentation of the results is required. Units may vary from 3 to 12 according to the expected time commitment, with one unit corresponding to 1 hour of research per week.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

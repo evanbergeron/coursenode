@@ -3,6 +3,6 @@
       "number" : "76-317",
       "units" : 9,
       "description" : "This course will survey the English and American novel from the 18th century to the present. We will look at texts such as Henry Fielding's Joseph Andrews, Jane Austen's Pride and Prejudice or Emma, Charles Dickens' Great Expectations, Frank Norris's Octopus, James Joyce's Dubliners, Virginia Woolf's Mrs. Dalloway, and others. We will also read critical texts explaining the rise of the novel and assessing the place of fiction in modern life.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

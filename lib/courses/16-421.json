@@ -3,6 +3,6 @@
       "number" : "16-421",
       "units" : 12,
       "description" : "This course covers the fundamentals of vision cameras and other sensors - how they function, how they are built, and how to use them effectively. The course presents a journey through the fascinating five hundered year history of 'camera-making' from the early 1500's 'camera obscura' through the advent of film and lenses, to today's mirror-based and solid state devices (CCD, CMOS). The course includes a significant hands-on component where students learn how to use the sensors and understand, model and deal with the uncertainty (noise) in their measurements. While the first half of the course deals with conventional 'single viewpoint' or 'perspective' cameras, the second half of the course covers much more recent 'multi-viewpoint' or 'multi-perspective' cameras that includes a host of lenses and mirrors.",
-      "prereqs" : "21-241 and 21-111",
-      "coreqs" : "None" 
+      "prereqs" : ["21-241", "21-111"],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "80-337",
       "units" : 9,
       "description" : "The course is split between two broad topics. First, we explore issues pertaining to Individual Decision Theory, mainly the postulate of rationality and its implications. We then proceed to discuss collective decision making by a group of rational agents. We discuss methods of aggregating individual preferences and, in particular, measures of social welfare, in an effort to associate the evaluation of policy with ethical principles.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

@@ -3,6 +3,6 @@
       "number" : "15-466",
       "units" : 12,
       "description" : "The goal of the course is two-fold. The first goal is to teach students some of the higher-level techniques that are necessary to implement interesting computer games. In particular, a large emphasis will be on game AI. The class will also cover such topics as game networking, scheduling of tasks in computationally intensive games, and game design. The class will also briefly cover few selected topics such as collision detection and physically-based animation that are good to know even if one is developing games using a game engine. The second goal of the class is to get students familiar with programming games on various platforms using state-of-the-art game engines. To this end, the course will have a heavy programming focus. It will have a number of projects requiring students to apply the learned material to develop games using Unity 3D game engine. The students will develop games that run on a standalone PC, games that run on an Android platform and games that work in a multi-user mode. In addition to learning the material and learning how to use game engines, the projects will provide students with portfolios of games they have developed. Such a portfolio is important in getting a job in game industry. Prerequisite is 15-462 or contact the instructor for permission.",
-      "prereqs" : "15-462",
-      "coreqs" : "None" 
+      "prereqs" : ["15-462"],
+      "coreqs" : [] 
     }

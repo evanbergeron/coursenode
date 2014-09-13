@@ -3,6 +3,6 @@
       "number" : "80-321",
       "units" : 9,
       "description" : "Policy makers face causal questions. For example, does violence on TV cause violence in life, and if so, what policies can we institute that will actually curb it? Does the death penalty actually deter criminals? Do tough drug laws reduce drug use? This course investigates how scientists establish causal claims, and how policy makers and the courts rely on or systematically ignore such science. We examine what causal claims mean and how they connect to statistical data, and we discuss the limits of standard techniques for establishing causal claims. We will consider all of these issues first theoretically, and then in the context of several case studies chosen mostly by the students. Knowledge of social science and/or statistics is not required, but is desirable.",
-      "prereqs" : "36-201",
-      "coreqs" : "None" 
+      "prereqs" : ["36-201"],
+      "coreqs" : [] 
     }

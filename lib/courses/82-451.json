@@ -3,6 +3,6 @@
       "number" : "82-451",
       "units" : 9,
       "description" : "FALL 2013 &#8220;Latinoam&#233;rica en sus im&#225;genes&#8221; This course will explore representations of Latin America through a focus on film, documentaries, and the visual arts, including murals, graffiti, photos and posters. We will focus in particular on the second half of the twentieth century and the twenty-first century. The course will consider several themes: the relationships between aesthetics and socio-historical context and economic systems; how issues of race, ethnicity, gender and class are addressed in film and the visual arts; how to interpret images as cultural artifacts; how the space in which we as viewers &#8211; in a dark theater, in an open, public space, in a museum etc. &#8211; see an image, tempers our reception and interpretation of the work. In addition to seeing multiple films and documentaries, viewing images, we will also do readings to deepen our understanding of the historical context in which each work was produced, as well as readings of critical theory. The course will be taught in Spanish. Prerequisite: 82-345 or permission of Instructor.",
-      "prereqs" : "82-345 or permission of Instructor",
-      "coreqs" : "None" 
+      "prereqs" : ["82-345"],
+      "coreqs" : [] 
     }

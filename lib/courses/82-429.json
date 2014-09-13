@@ -3,6 +3,6 @@
       "number" : "82-429",
       "units" : 9,
       "description" : "This course will explore different models of translation. Individual and group work will focus on translation of literary pieces, journal articles, critical essays, materials from the internet and other sources. The workshop will also offer an advanced-level grammar and stylistics review, a vocabulary builder and increased exposure to German language and culture. Prerequisite or permission of the Instructor.",
-      "prereqs" : "82-324",
-      "coreqs" : "None" 
+      "prereqs" : ["82-324"],
+      "coreqs" : [] 
     }

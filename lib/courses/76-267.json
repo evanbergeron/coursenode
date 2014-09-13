@@ -3,6 +3,6 @@
       "number" : "76-267",
       "units" : 9,
       "description" : "This course is a broad, introductory survey of British poetry from Beowulf to the present. Working through the Norton Anthology of Poetry, students will read and analyze many of Britain's most thoughtful, playful, and rewarding poems while tracking themes that will certainly include tradition, nationhood, empire, identity, gender, and theology, among others. No prior familiarity with British poetry is required, but students should be prepared, firstly, to investigate and take seriously formal poetic techniques such as versification, syntax, lineation, and sound. Secondly, students should be prepared to entertain the suggestion that British poetry has served many different ends over its long history, and that the expression of private passions&#8212;to which so many discussions of poetry stubbornly return - may in fact be among the least interesting of them. Short, written analyses will be required in advance of most classes; there will also be at least one research paper, one presentation, and one exam.",
-      "prereqs" : "76-101",
-      "coreqs" : "None" 
+      "prereqs" : ["76-101"],
+      "coreqs" : [] 
     }

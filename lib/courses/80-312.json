@@ -3,6 +3,6 @@
       "number" : "80-312",
       "units" : 9,
       "description" : "The 20th century witnessed remarkable and novel developments of mathematics - with deep roots in the 19th century. The beginnings of these developments were beset with foundational problems and provoked a variety of programmatic responses: logicism, intuitionism, and finitism. For a deeper study of basic issues, we review a part of classical Greek mathematics (the theory of proportions) that is closely connected to the foundations of analysis in the 19th century. We analyze set theoretic and constructive approaches, and discuss fundamental metamathematical results and their philosophical implications. A 'reductive structuralist' position will finally provide a perspective for understanding the abstract character of mathematics as well as its usefulness in applications.",
-      "prereqs" : "80-311 or 80-310 or 80-211",
-      "coreqs" : "None" 
+      "prereqs" : ["80-311", "80-310", "80-211"],
+      "coreqs" : [] 
     }

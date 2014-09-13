@@ -3,6 +3,6 @@
       "number" : "21-365",
       "units" : 9,
       "description" : "This course provides students with an opportunity to solve problems posed by area companies. It is also designed to provide experience working as part of a team to solve problems for a client. The background needed might include linear programming, simulation, data analysis, scheduling, numerical techniques, etc.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

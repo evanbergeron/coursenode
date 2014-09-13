@@ -3,6 +3,6 @@
       "number" : "82-416",
       "units" : 9,
       "description" : "SPRING 2013 Description of 82-416 Haïti An exploration of the culture, history and challenges of Haiti, formerly 'la perle des Antilles' and currently one of the most critically challenged nations on Earth. Despite the country's extreme poverty, environmental destruction and ruinous natural and man-made disasters, Haitians remain fiercely proud and loyal to their island nation. This course will examine local arts practices in storytelling, music and visual arts. The importance of voodoo as a cultural and religious practice will also be studied. The development of Haitian Creole as a language and its diglossic relationship with French forms an important part of any understanding of Haiti. Students will study Haitian Creole with a goal of proficiency through at least the Novice High level. Prerequisites: 82-303 French Culture + 82-304 The Francophone World + 82-305 French in Social Context, or consent of instructor.",
-      "prereqs" : "82-303 French Culture + 82-304 The Francophone World + 82-305 French in Social Context, or consent of instructor",
-      "coreqs" : "None" 
+      "prereqs" : ["82-303", "82-304", "82-305"],
+      "coreqs" : [] 
     }

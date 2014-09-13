@@ -3,6 +3,6 @@
       "number" : "80-363",
       "units" : 9,
       "description" : "To represent or *picture* aspects of the world through mathematical and other models was a distinctive way of looking at science in the late 19th century. It has important precedents and is again influential in contemporary discussions in philosophy of science that employ a model-based approach. We are going to examine scientific and mathematical developments in the 19th century and connect them to both classical as well as to contemporary philosophical work. Intellectual and popular scientific writings in Logic, Mathematics, Physics, and Psychology will be set in the context of the technology and culture of the era. Authors to be studied will include Boole, Jevons, Frege; Gauss, Dedekind, Hilbert, Poincare; Maxwell, Hertz, Boltzmann; Lotze, Peirce, James, Helmholtz.",
-      "prereqs" : "None",
-      "coreqs" : "None" 
+      "prereqs" : [],
+      "coreqs" : [] 
     }

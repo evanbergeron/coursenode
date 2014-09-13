@@ -3,6 +3,6 @@
       "number" : "85-362",
       "units" : 9,
       "description" : "Developmentally appropriate' has become a popular label used to describe activities, materials, and environments designed for children. But what does it mean to be developmentally appropriate, and how is it determined? Are these activities and materials evaluated for their impact on children's development or are they simply designed with a superficial interpretation of theoretical positions or empirical findings? How do we decide what theory to apply when designing or evaluating materials, activities, or contexts for children, and are different theories more informative and applicable than others? The purpose of this class is to think deeply about how our theories and research findings have been and could be applied to support and enhance the development of children in a variety of contexts, such as at home, daycare, school, playgrounds, etc. and to evaluate different activities, materials and/or contexts in reference to various theories and empirical findings. The overall purpose of the course is to understand how theory can inform practice and vice versa.",
-      "prereqs" : "85-221",
-      "coreqs" : "None" 
+      "prereqs" : ["85-221"],
+      "coreqs" : [] 
     }

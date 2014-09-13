@@ -3,6 +3,6 @@
       "number" : "18-411",
       "units" : 12,
       "description" : "This course develops the methods to formulate basic engineering problems in a way that makes them amenable to computational/numerical analysis. The course will consist of three main modules: basic programming skills, discretization of ordinary and partial differential equations, and numerical methods. These modules are followed by two modules taken from a larger list: Monte Carlo-based methods, molecular dynamics methods, image analysis methods, and so on. Students will learn how to work with numerical libraries and how to compile and execute scientific code written in Fortran-90 and C++. Students will be required to work on a course project in which aspects from at least two course modules must be integrated.",
-      "prereqs" : "21-122 and 21-259 and 21-260 and 15-100 and 21-120",
-      "coreqs" : "None" 
+      "prereqs" : ["21-122", "21-259", "21-260", "15-100", "21-120"],
+      "coreqs" : [] 
     }

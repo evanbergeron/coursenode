@@ -3,6 +3,6 @@
       "number" : "82-456",
       "units" : 9,
       "description" : "for SPRING 2012: CENTRAL AMERICA TODAY: OUT OF REVOLUTION This course will focus on contemporary Central America, beginning with an examination of the revolutionary movements and civil wars, but focusing more on the period post 1990, since the signing of the Peace Accords. Through an analysis of the region's cultural production (literature, documentary film, public art etc.), we will consider a variety of themes relevant to a current understanding of the Central American isthmus, including Human Rights, gender relations, migration, the drug wars, environmental and indigenous rights. This course will familiarize students with some of the central concepts and debates that surround the study of the Central America. The course will be taught in Spanish. Prerequisites: 82-345 or permission of instructor.",
-      "prereqs" : "82-345 or permission of instructor",
-      "coreqs" : "None" 
+      "prereqs" : ["82-345"],
+      "coreqs" : [] 
     }

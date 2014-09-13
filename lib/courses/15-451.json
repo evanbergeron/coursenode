@@ -3,6 +3,6 @@
       "number" : "15-451",
       "units" : 12,
       "description" : "This course is about the design and analysis of algorithms. We study specific algorithms for a variety of problems, as well as general design and analysis techniques. Specific topics include searching, sorting, algorithms for graph problems, efficient data structures, lower bounds and NP-completeness. A variety of other topics may be covered at the discretion of the instructor. These include parallel algorithms, randomized algorithms, geometric algorithms, low level techniques for efficient programming, cryptography, and cryptographic protocols.",
-      "prereqs" : "15-251 and 15-210 and 21-241",
-      "coreqs" : "None" 
+      "prereqs" : ["15-251", "15-210", "21-241"],
+      "coreqs" : [] 
     }
