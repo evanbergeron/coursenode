@@ -1,0 +1,8 @@
+  {
+      "name" : "Biomaterial/Host Interactions",
+      "number" : "42-419",
+      "units" : 12,
+      "description" : "The goal of this course is to provide students with hands-on experience in investigating host responses to materials. Implant studies of tissue-engineering materials will be performed using animal models in a laboratory setting, and students will gain experience in the analysis of host responses. Material biocompatibility and tissue regeneration will be addressed. Characterization techniques will include histology, real-time polymerase chain reaction, and immunofluorescent staining. Laboratory work will be complemented with lectures. Prerequisite: junior or senior standing in Biomedical Engineering, or consent of instructor.",
+      "prereqs" : " junior or senior standing in Biomedical Engineering, or consent of instructor",
+      "coreqs" : "None" 
+    }

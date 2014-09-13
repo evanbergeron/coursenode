@@ -1,0 +1,8 @@
+  {
+      "name" : "Electronics I",
+      "number" : "33-228",
+      "units" : 10,
+      "description" : "An introductory laboratory and lecture course with emphasis on elementary circuit analysis, design, and testing. We start by introducing basic circuit elements and study the responses of combinations to DC and AC excitations. We then take up transistors and learn about biasing and the behavior of amplifier circuits. The many uses of operational amplifiers are examined and analyzed; general features of feedback systems are introduced in this context. Complex functions are used to analyze all of the above linear systems. Finally, we examine and build some simple digital integrated circuits.",
+      "prereqs" : "33-112 or 33-132 or 33-107",
+      "coreqs" : "None" 
+    }

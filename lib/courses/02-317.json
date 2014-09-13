@@ -1,0 +1,8 @@
+  {
+      "name" : "Algorithms in Nature",
+      "number" : "02-317",
+      "units" : 9,
+      "description" : "Computer systems and biological processes often rely on networks of interacting entities to reach joint decisions, coordinate and respond to inputs. There are many similarities in the goals and strategies of biological and computational systems which suggest that each can learn from the other. These include the distributed nature of the networks (in biology molecules, cells, or organisms often operate without central control), the ability to successfully handle failures and attacks on a subset of the nodes, modularity and the ability to reuse certain components or sub-networks in multiple applications and the use of stochasticity in biology and randomized algorithms in computer science. In this course we will start by discussing classic biologically motivated algorithms including neural networks (inspired by the brain), genetic algorithms (sequence evolution), non-negative matrix factorization (signal processing in the brain), and search optimization (ant colony formation). We will then continue to discuss more recent bi-directional studies that have relied on biological processes to solve routing and synchronization problems, discover Maximal Independent Sets (MIS), and design robust and fault tolerant networks. In the second part of the class students will read and present new research in this area. Students will also work in groups on a final project in which they develop and test a new biologically inspired algorithm. See also: www.algorithmsinnature.org Pre-requisite: 15-210, no prior biological knowledge required.",
+      "prereqs" : "15-210 and 15-251",
+      "coreqs" : "None" 
+    }

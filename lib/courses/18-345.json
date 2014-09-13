@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Telecommunication Networks",
+      "number" : "18-345",
+      "units" : 12,
+      "description" : "This course introduces the fundamental concepts of telecommunication networks. Underlying engineering principles of telephone networks, computer networks and integrated digital networks are discussed. Topics in the course include: telephone and data networks overview; OSI layers; data link protocol; flow control, congestion control, routing; local area networks; transport layer; introduction to high-speed networks; performance evaluation techniques. The course also reviews important aspects of network security and widely used classes of Internet application and services, such as peer-to-peer, content delivery networks, and video streaming.",
+      "prereqs" : "(36-217 or 36-212 or 36-226) and 18-213",
+      "coreqs" : "None" 
+    }

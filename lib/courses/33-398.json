@@ -1,0 +1,8 @@
+  {
+      "name" : "Special Topics",
+      "number" : "33-398",
+      "units" : 9,
+      "description" : "",
+      "prereqs" : "(33-231 or 21-260) and 21-341",
+      "coreqs" : "None" 
+    }

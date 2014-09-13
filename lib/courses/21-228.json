@@ -1,0 +1,8 @@
+  {
+      "name" : "Discrete Mathematics",
+      "number" : "21-228",
+      "units" : 9,
+      "description" : "The techniques of discrete mathematics arise in every application of mathematics, which is not purely continuous, for example in computer science, economics, and general problems of optimization. This course introduces two of the fundamental areas of discrete mathematics: enumeration and graph theory. The introduction to enumeration includes permutations, combinations, and topics such as discrete probability, combinatorial distributions, recurrence relations, generating functions, Ramsey's Theorem, and the principle of inclusion and exclusion. The introduction to graph theory includes topics such as paths, walks, connectivity, Eulerian and Hamilton cycles, planar graphs, Euler's Theorem, graph coloring, matchings, networks, and trees. 3 hrs. lec, 1 hr. rec.",
+      "prereqs" : "21-127",
+      "coreqs" : "None" 
+    }

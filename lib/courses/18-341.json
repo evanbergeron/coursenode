@@ -1,0 +1,8 @@
+  {
+      "name" : "Logic Design Using Simulation, Synthesis, and Verification Techniques",
+      "number" : "18-341",
+      "units" : 12,
+      "description" : "This course is a second level logic design course, studying the techniques of designing at the register-transfer and logic levels of complex digital systems using modern simulation, synthesis, and verification tools. Topics will include register-transfer level systems (i.e., finite state machines and datapaths), bus and communication system interfacing (such as a simplified USB), asynchronous state machines, discrete-event simulation, debugging and testbench strategies, and assertion-based verification. Design examples will be drawn from bus and communication interfaces, and computation systems, emphasizing how these systems are designed and debugged, and how their functionality can be verified. A modern hardware description language, SystemVerilog, will serve as the basis for uniting these topics. Quizzes, homeworks and design projects will serve to exercise these topics. 3 hrs. lec., 1 hr. rec. Prerequisite: 18-240",
+      "prereqs" : "18-24",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Fundamentals of Embedded Systems",
+      "number" : "18-342",
+      "units" : 12,
+      "description" : "This practical, hands-on course introduces students to the basic building-blocks and the underlying scientific principles of embedded systems. The course covers both the hardware and software aspects of embedded procesor architectures, along with operating system fundamentals, such as virtual memory, concurrency, task scheduling and synchronization. Through a series of laboratory projects involving state-of-the-art processors, students will learn to understand implementation details and to write assembly-language and C programs that implement core embedded OS functionality, and that control/debug features such as timers, interrupts, serial communications, flash memory, device drivers and other components used in typical embedded applications. Relevant topics, such as optimization, profiling, digital signal processing, feedback control, real-time operating systems and embedded middleware, will also be discussed. This course is intended for INI students. Anti-requisites: 18348 or 18349",
+      "prereqs" : "18-240",
+      "coreqs" : "None" 
+    }

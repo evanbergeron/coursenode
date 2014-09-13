@@ -1,0 +1,8 @@
+  {
+      "name" : "Electric Energy Processing: Fundamentals and Applications",
+      "number" : "18-418",
+      "units" : 12,
+      "description" : "This course provides an introduction to the fundamentals of electrical energy conversion and its use in several real-life systems. The course starts with a brief review of general mathematical and physical principles necessary for subsequent study of electrical energy conversion applications. This includes modeling, analysis, and control of general physical systems in time and frequency domain. Since the focus of energy conversion methods studied in this course is from electrical to mechanical systems, special attention is paid to electromagnetic theory. Rotating machines theory is developed and intuitively explained starting with Maxwell equations and analyzing general static and dynamic electromagnetic circuits. Power electronics methods are also introduced because most of modern electrical systems employ such methods. At this point, the necessary background is gained to analyze real life electrical energy conversion systems. We will focus on automotive, airplane, space station, and sea power systems. The main focus will be on operational principles and when appropriate stability issues of particular implementations. Time allowing, dynamic problems with interconnecting such systems will be briefly introduced and possibly studied by curious students in their course projects.",
+      "prereqs" : "18-220",
+      "coreqs" : "None" 
+    }

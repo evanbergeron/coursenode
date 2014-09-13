@@ -1,0 +1,8 @@
+  {
+      "name" : "Undergraduate Research",
+      "number" : "36-490",
+      "units" : 9,
+      "description" : "This course is designed to give undergraduate students experience using statistics in real research problems. Small groups of students will be matched with clients and do supervised research for a semester. Students will gain skills in approaching a research problem, critical thinking, statistical analysis, scientific writing, and conveying and defending their results to an audience. Eligible students will receive information about the application processes for this course early in the fall.",
+      "prereqs" : "36-40",
+      "coreqs" : "36-402" 
+    }

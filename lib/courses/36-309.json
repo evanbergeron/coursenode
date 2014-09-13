@@ -1,0 +1,8 @@
+  {
+      "name" : "Experimental Design for Behavioral and Social Sciences",
+      "number" : "36-309",
+      "units" : 9,
+      "description" : "Statistical aspects of the design and analysis of planned experiments are studied in this course. A clear statement of the experimental factors will be emphasized. The design aspect will concentrate on choice of models, sample size and order of experimentation. The analysis phase will cover data collection and computation, especially analysis of variance and will stress the interpretation of results. In addition to a weekly lecture, students will attend a computer lab once a week.",
+      "prereqs" : "36-217 or 36-201 or 36-207 or 36-220 or 36-247",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Mathematical Methods of Physics",
+      "number" : "33-232",
+      "units" : 10,
+      "description" : "This course introduces, in the context of physical systems, a variety of mathematical tools and techniques that will be needed for later courses in the physics curriculum. Topics will include, linear algebra, vector calculus with physical application, Fourier series and integrals, partial differential equations and boundary value problems. The techniques taught here are useful in more advanced courses such as Physical Mechanics, Electricity and Magnetism, and Advanced Quantum Physics.",
+      "prereqs" : "33-231",
+      "coreqs" : "None" 
+    }

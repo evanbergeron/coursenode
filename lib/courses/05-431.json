@@ -1,0 +1,8 @@
+  {
+      "name" : "Software Structures for User Interfaces",
+      "number" : "05-431",
+      "units" : 6,
+      "description" : "This course is intended for those with advanced programming skills who want to do serious development of graphical user interfaces. This course includes: an introduction to task analysis and functional design of the user interface; basic principles of computer graphics used in UI implementation; event handling and event dispatching models; screen update algorithms and multi-view architectures; input syntax formalisms and their transformation into programs; interactive geometry; architectures for advanced features such as cut/copy/paste, macros and groupware. The course is intended for computer science majors. In some cases, the student and the Program Director will jointly determine the choice of 05-430 or 05-431, based upon the student's previous programming experience. When registering for this course, undergraduate students are automatically placed the wait list. Students will be then moved into the class, based on if they are in the BHCI second major and year in school e.g. seniors, juniors, etc.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

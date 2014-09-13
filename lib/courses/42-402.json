@@ -1,0 +1,8 @@
+  {
+      "name" : "BME Design Project",
+      "number" : "42-402",
+      "units" : 9,
+      "description" : "This course focuses on integrated product development for biomedical products. Teams will consist of a variety of Biomedical Engineering students. The course consists of modules including the development of a project plan, background research, hazard analysis, setting product specifications based on user requirements, detailed design and analysis, prototype development and final documentation and presentation. Additional relevant professional development topics are also covered, including technical public speaking, proposal preparation, personal time management, and other topics. All products developed will respond to the needs of appropriate market segments; resulting products will be deemed safe, effective, useful, usable and desirable by those segments. Students will produce a form model, functional prototype, marketing plan, and manufacturing plan of their product. Prerequisite: 42-401 (3 units, Fall) Foundations of Biomedical Engineering Design",
+      "prereqs" : "42-401 (3 units, Fall) Foundations of Biomedical Engineering Desig",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Genetics",
+      "number" : "03-330",
+      "units" : 9,
+      "description" : "The mechanisms of transmission of inherited traits in viruses, bacteria, fungi, plants and animals are discussed. Molecular mechanisms of gene expression and gene regulation are analyzed. Recombinant DNA and its applications in genetic analysis, biotechnology, forensics, agriculture, medicine, and the pharmaceutical industry are presented. Special topics in human genetics are considered, such as the genetics of cancer. Principles and methods for the study of developmental genetics, population genetics and complex traits are also introduced.",
+      "prereqs" : "03-232 or 03-231",
+      "coreqs" : "None" 
+    }

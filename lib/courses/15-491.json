@@ -1,0 +1,8 @@
+  {
+      "name" : "Special Topic: CMRoboBits: Creating Intelligent Robots",
+      "number" : "15-491",
+      "units" : 12,
+      "description" : "Creating intelligent robots can be viewed as the integration of many pieces - "bits" - "RoboBits". This course will teach students such "RoboBits" for creating both single and groups of intelligent robots, with perception, cognition, and action. Students in the course work with real functional mobile robots, equipped with RGB and RGB+D cameras, different types of actuation, namely wheeled and legged robots, and computation onboard. Students learn effective vision processing algorithms for object recognition, motion modeling and planning, robot localization and planning algorithms, and multi-robot communication for shared sensing and teamwork. We will further study cognitive architectures, learning, and human-robot interaction. 15-491 is a PROJECT-BASED course, which runs in the CORAL research lab in GHC 3201. The course has three major projects with specific tasks that incrementally lead to the research and development of complete intelligent robots. The projects are decomposed in weekly tasks. The class meets twice a week, and the students have access to the lab for further work as needed. Evaluation is based on class participation, weekly progress, and project reports, presentations, and outcomes.",
+      "prereqs" : "15-122",
+      "coreqs" : "None" 
+    }

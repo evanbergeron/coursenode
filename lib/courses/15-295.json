@@ -1,0 +1,8 @@
+  {
+      "name" : "Competition Programming and Problem Solving",
+      "number" : "15-295",
+      "units" : 6,
+      "description" : "Each year, Carnegie Mellon fields two teams for participation in the ACM-ICPC Regional Programming Contest. During many recent years, one of those teams has earned the right to represent Carnegie Mellon at the ACM-ICPC World Finals. This course is a vehicle for those who consistently and rigorously train in preparation for the contests to earn course credit for their effort and achievement. Preparation involves the study of algorithms, the practice of programming and debugging, the development of test sets, and the growth of team, communication, and problem solving skills. Neither the course grade nor the number of units earned are dependent on ranking in any contest. Students are not required to earn course credit to participate in practices or to compete in ACM-ICPC events. Consistent, disciplined participation in team practices and associated individual preparation earns three (3) units of credit. Six (6) units of credit are possible for those who routinely complete significant homework and/or teamwork assignments outside of normal group meetings. Students interested in the course should attend during the first week of classes to discuss enrollment details.",
+      "prereqs" : "15-122",
+      "coreqs" : "None" 
+    }

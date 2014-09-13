@@ -1,0 +1,8 @@
+  {
+      "name" : "Quantitative Cell and Molecular Biology Laboratory",
+      "number" : "02-261",
+      "units" : 9,
+      "description" : "This is an introductory laboratory-based course designed to teach basic biological laboratory skills used in exploring the quantitative nature of biological systems and the reasoning required for performing research in computational biology. Over the course of the semester, students will perform many experiments and quantitatively analyze the results of these experiments. Students will also have the opportunity to design experiments based on the data they collect. During this course students will be using traditional, well-developed techniques to answer open questions. *What changes occur in the splicing of genes as an organism ages? What changes do cells undergo during apoptosis? *Understanding the results of these experiments will require students to think critically about the results they generate, the appropriate controls required to confirm results, and the biological context within which these results were obtained. During this course students will gain experience in many aspects of scientific research, including: · Sequencing and analyzing a large and diverse population of DNA · Designing and performing PCR for a variety of analyses · Maintaining cell cultures · Taking brightfield and fluorescent microscopy images · Developing methods for automated analysis of cell images · Communicating results to peers and colleagues Course Outline: 1 &#8211; 3 hour lab per week 1 &#8211; 1 hour lecture per week 9 units.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

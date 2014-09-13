@@ -1,0 +1,8 @@
+  {
+      "name" : "Topics in Geometry",
+      "number" : "21-450",
+      "units" : 9,
+      "description" : "Typical of courses, which are offered from time to time are convex sets, projective geometry, and classical geometry. The prerequisites will depend on the content of the course. 3 hrs. lec.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

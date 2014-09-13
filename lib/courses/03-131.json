@@ -1,0 +1,8 @@
+  {
+      "name" : "Genes Drugs &amp; Diseases",
+      "number" : "03-131",
+      "units" : 9,
+      "description" : "The central goals of this course are to explore the genetic basis of diseases and to explain the molecular basis of action for various drugs used to treat diseases. The first part of the course provides the student with sufficient background to understand the biological basis of drug action with emphasis on retroviral inhibitors. The usefulness of genetic engineering in the production of proteins for drug discovery is then explored. This is followed by an overview of DNA replication, transcription, and protein synthesis, with an emphasis on the inhibitory action of antibiotics on prokaryotic processes. The fundamental properties of carbohydrates, lipids, and membranes are discussed at a level to develop an understanding of penicillin and the treatment of elevated cholesterol levels. Signaling processes in eukaryotic cells is discussed with reference to cancer treatment and pain management. The treatment of disease using antibody, and the treatment of inappropriate immune responses (allergy) is also discussed. The course ends with a discussion of inheritance and genetic deficiencies that give rise to disease.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

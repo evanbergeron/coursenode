@@ -1,0 +1,8 @@
+  {
+      "name" : "First Year Seminar",
+      "number" : "33-101",
+      "units" : 3,
+      "description" : "Various seminars are offered that introduce first-year students to current topics of modern physics. These are mini courses that meet for half a semester. In the past, seminar topics have included: Science and Science Fiction, Astrophysics, Black Holes, Cosmology and Supernovae, Elementary Particles, and The Building Blocks of Matter. These seminars are open only to MCS first year students.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Computer Graphics",
+      "number" : "15-462",
+      "units" : 12,
+      "description" : "This course provides a comprehensive introduction to computer graphics modeling, animation, and rendering. Topics covered include basic image processing, geometric transformations, geometric modeling of curves and surfaces, animation, 3-D viewing, visibility algorithms, shading, and ray tracing.",
+      "prereqs" : "(21-259 and 15-213 and 21-241) or (15-213 and 18-202)",
+      "coreqs" : "None" 
+    }

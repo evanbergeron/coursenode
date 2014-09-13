@@ -1,0 +1,8 @@
+  {
+      "name" : "Applied Electrodynamics",
+      "number" : "18-402",
+      "units" : 12,
+      "description" : "This course builds upon the electric and magnetic field foundations established in 18-300 to describe phenomena and devices where electromagnetic waves are a central issue. Topics include: review of Maxwell&#8217;s equations, propagation of uniform plane waves in lossless and lossy media, energy conservation as described by the Poynting Theorem, reflection and transmission with normal and oblique incidence upon boundaries, sinusoidal steady state and transients on 2-conductor transmission lines, modal descriptions of waveguides, radiation and antennas. 4 hrs. lec.",
+      "prereqs" : "18-300",
+      "coreqs" : "None" 
+    }

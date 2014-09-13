@@ -1,0 +1,8 @@
+  {
+      "name" : "Topics in Research",
+      "number" : "03-411",
+      "units" : 0,
+      "description" : "During the year students attend and submit brief summaries of weekly seminars given by outside speakers or members of the Biology Department on current research topics in modern biology; some seminars outside of the department may be substituted.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Cellular Response to the Environment",
+      "number" : "03-126",
+      "units" : 4,
+      "description" : "This laboratory course provides a multifaceted view of the cell, with the opportunity for new discovery, through microscopic imaging of a cell&#8217;s response to environmental changes. We will identify yeast gene products that undergo changes in expression or subcellular localization after simple environmental perturbations or drug treatments. Students will be trained in basic molecular biological methods, including recombinant DNA manipulation, and basics of functional genomic resources. Enrollment is limited to first year students in MCS. Special permission required.",
+      "prereqs" : "None",
+      "coreqs" : "03-121" 
+    }

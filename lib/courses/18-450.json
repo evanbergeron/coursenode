@@ -1,0 +1,8 @@
+  {
+      "name" : "Digital Communications",
+      "number" : "18-450",
+      "units" : 12,
+      "description" : "In this course, the communication problem will be introduced, and channel impairments such as noise, inter-symbol interference and fading will be described. Solutions to combat these impairments, based on digital communication theory, will be described. These will include signal space analysis, detection, equalization, coding and diversity. Throughout the course, the emphasis will be on discovering unifying ideas in transmission, rather than specifying the details of each application. 4 hrs. lec. This course was previously titled "Digital Wireless Communications"",
+      "prereqs" : "18-391",
+      "coreqs" : "None" 
+    }

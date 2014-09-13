@@ -1,0 +1,8 @@
+  {
+      "name" : "Computational Photography",
+      "number" : "15-463",
+      "units" : 12,
+      "description" : "Computational Photography is an emerging new field created by the convergence of computer graphics, computer vision and photography. Its role is to overcome the limitations of the traditional camera by using computational techniques to produce a richer, more vivid, perhaps more perceptually meaningful representation of our visual world. The aim of this advanced undergraduate course is to study ways in which samples from the real world (images and video) can be used to generate compelling computer graphics imagery. We will learn how to acquire, represent, and render scenes from digitized photographs. Several popular image-based algorithms will be presented, with an emphasis on using these techniques to build practical systems. This hands-on emphasis will be reflected in the programming assignments, in which students will have the opportunity to acquire their own images of indoor and outdoor scenes and develop the image analysis and synthesis tools needed to render and view the scenes on the computer.",
+      "prereqs" : "15-213 and (21-241 or 18-202)",
+      "coreqs" : "None" 
+    }

@@ -140,16 +140,13 @@
     sys.renderer = Renderer("#viewport") // our newly created renderer will have its .init() method called shortly by sys...
 
     // add some nodes to the graph and watch it go...
-    var courses = ['15150','15213','21301'];
-    for (i = 0; i < 3; i++) {
-        sys.addNode(courses[i], courses[i]);
-        sys.addEdge('b',courses[i]);
-    }
-    sys.addEdge('a','b')
-    sys.addEdge('a','c')
-    sys.addEdge('a','d')
-    sys.addEdge('a','e')
-    sys.addEdge('a','f')
+    var courses = ['15150','15122','15112'];
+    //sys.addNode(courses[i], courses[i]);
+    //sys.addEdge(courses[i], courses[2]);
+    $.getJSON("lib/courses/21-127.json",function(result){
+       alert(result["number"]);
+    });
+
     // sys.addNode('f', {alone:true, mass:.25})
 
     // or, equivalently:
@@ -168,5 +165,7 @@
     // })
     
   })
+
+  
 
 })(this.jQuery)

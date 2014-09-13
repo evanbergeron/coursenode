@@ -1,0 +1,8 @@
+  {
+      "name" : "Experimental Cell and Developmental Biology",
+      "number" : "03-345",
+      "units" : 12,
+      "description" : "This laboratory is designed to teach concepts and experimental methods in cell and developmental biology. Students work with a variety of organisms to examine how cells traverse development from rapidly dividing, undifferentiated cells, through cell commitment and the establishment of spatial and temporal patterns of gene expression, to the specific characteristics and responses of terminally differentiated cells. The course makes extensive use of video microscopy with phase contrast, DIC and fluorescence microscopes. Biochemical, immunological and molecular biological techniques are used to probe the molecules and processes of cells undergoing development. Experimentation using living organisms and/or their tissues, cells or molecules is an essential component of this course.",
+      "prereqs" : "03-343 and (03-231 or 03-232) and 03-240 and 03-33",
+      "coreqs" : "03-350" 
+    }

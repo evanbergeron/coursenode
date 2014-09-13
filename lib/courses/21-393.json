@@ -1,0 +1,8 @@
+  {
+      "name" : "Operations Research II",
+      "number" : "21-393",
+      "units" : 9,
+      "description" : "Building on an understanding of Linear Programming developed in 21-292 Operations Research I, this course introduces more advanced topics. Integer programming, including cutting planes and branch and bound. Dynamic programming. An introduction to Combinatorial Optimization including optimal spanning trees, shortest paths, the assignment problem and max-flow/min-cut. The traveling salesman problem and NP-completeness. An important goal of this course is for the student to gain experience with the process of working in a group to apply operations research methods to solve a problem. A portion of the course is devoted to a group project based upon case studies and the methods presented. 36-410 recommended. 3 hrs. lec.",
+      "prereqs" : "(21-228 or 15-251) and 21-292",
+      "coreqs" : "None" 
+    }

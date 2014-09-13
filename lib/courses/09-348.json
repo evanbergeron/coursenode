@@ -1,0 +1,8 @@
+  {
+      "name" : "Inorganic Chemistry",
+      "number" : "09-348",
+      "units" : 10,
+      "description" : "The focus of this class is understanding the properties of the elements and of the inorganic compounds. The electronic structure of elements is discussed as the basis for the element's organization in the Periodic Table and for their properties. The systematic chemistry of main group elements and of transition metals is presented. The number of inorganic compounds is extremely large and their properties are extremely diverse. Therefore in this course, the presentation of physical and chemical properties of inorganic compounds is based upon the observation of the trends in the respective properties and the relation between these trends and the place of the elements in the Periodic Table. 3 hrs. lec., 1 hr. rec.",
+      "prereqs" : "(09-105 or 09-107) and 21-120",
+      "coreqs" : "None" 
+    }

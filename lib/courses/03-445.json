@@ -1,0 +1,8 @@
+  {
+      "name" : "Undergraduate Research",
+      "number" : "03-445",
+      "units" : 0,
+      "description" : "Students may investigate research problems under the supervision of members of the faculty. Permission of a faculty advisor required.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

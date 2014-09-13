@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Computer &amp; Network Security &amp; Applied Cryptography",
+      "number" : "18-487",
+      "units" : 12,
+      "description" : "Security is becoming one of the core requirements in the design of critical systems. This course will introduce students to the intro-level fundamental knowledge of computer security and applied cryptography. Students will learn the basic concepts in computer security including software vulnerability analysis and defense, networking and wireless security, and applied cryptography. Students will also learn the fundamental methodology for how to design and analyze security critical systems.",
+      "prereqs" : "18-213 and 15-214",
+      "coreqs" : "None" 
+    }

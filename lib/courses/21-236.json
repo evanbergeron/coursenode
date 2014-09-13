@@ -1,0 +1,8 @@
+  {
+      "name" : "Mathematical Studies Analysis II",
+      "number" : "21-236",
+      "units" : 10,
+      "description" : "An honors version of 21-356 for students of greater aptitude and motivation. Topics to be covered include: Vector differential calculus: differentiability, partial derivatives, directional derivatives, gradients, Jacobians, the chain rule, implicit function theorem, inverse function theorem. Local extrema, constrained problems (Lagrange multipliers). Integration of differential forms: Manifolds, Differential forms (properties, differentiation, change of variables), partition of unity, integration, volume form, area form, Stokes' theorem. Sequences of Functions: Pointwise convergence, uniform convergence, Arzela-Ascoli, Weierstrass approximation theorem. Series of functions: Power series, Fourier series, orthonormal bases. 3 hrs. lec.",
+      "prereqs" : "21-235 and 21-24",
+      "coreqs" : "21-238" 
+    }

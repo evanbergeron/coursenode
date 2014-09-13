@@ -1,0 +1,8 @@
+  {
+      "name" : "Computer Vision",
+      "number" : "16-385",
+      "units" : 9,
+      "description" : "Basic concepts in machine vision, including sensing and perception, 2D image analysis, pattern classification, physics-based vision, stereo and motion, and solid model recognition.",
+      "prereqs" : "(18-202 and 15-122) or (15-122 and 21-259 and 21-241)",
+      "coreqs" : "None" 
+    }

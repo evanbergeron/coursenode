@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Computational Physics",
+      "number" : "33-241",
+      "units" : 9,
+      "description" : "The course emphasizes the formulation of physical problems for machine computation with exploration of alternative numerical methods. Work will be done on a range of computers from workstations to high performance computing platforms. Examples are drawn from Physics I and II, and Experimental Physics, as well as concurrent physics courses.",
+      "prereqs" : "15-100 and 21-122 and 33-104 and (33-112 or 33-107 or 33-132)",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Independent Study Chemistry",
+      "number" : "09-435",
+      "units" : 0,
+      "description" : "The course allows students to earn academic credit for concentrated study in a topic area developed in conjunction with and monitored by a faculty member in the Department of Chemistry. These topics are distinct from projects that would rise to the level of undergraduate research either because they are in unrelated areas distinct from the faculty member's research interests or may constitute the investigation and compilation of existing information from a variety of resources and may not be expected to result in the generation of new information as is a reasonable expected outcome in undergraduate research (likely is not publishable).",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

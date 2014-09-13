@@ -1,0 +1,8 @@
+  {
+      "name" : "Freshman Mathematics Seminar",
+      "number" : "21-101",
+      "units" : 3,
+      "description" : "This course is offered in the Fall semester for first semester Freshmen interested in majoring in mathematics. Topics vary from year to year. Recent topics have included Fermat's last theorem, finite difference equations, convexity, and fractals. 3 hrs. lec.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

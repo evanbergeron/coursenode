@@ -1,0 +1,8 @@
+  {
+      "name" : "Web Application Development",
+      "number" : "15-437",
+      "units" : 12,
+      "description" : "This course will introduce concepts in programming web application servers. We will study the fundamental architectural elements of programming web sites that produce content dynamically. The primary technology introduced will be Java Servlets and Java Server Pages (JSPs), but we will cover related topics as necessary so that students can build significant applications. Such topics include: HTTP, HTML and XML, JavaBeans, Design Patterns, Tag Libraries, Relational Databases, Object-Relation Mapping tools, Security, Web Services, Frameworks, Internationalization, and Scalability and Performance Issues. This course is recommended for students contemplating enrollment in 15-413 (the Software Engineering Project), since many of the projects in 15-413 are expected to be web-based. Students must be comfortable programming in Java to register for this course. Students must provide their own computer hardware for this course. Please see the Related URL above for more information.",
+      "prereqs" : "15-214",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Statistical Reasoning and Practice",
+      "number" : "36-201",
+      "units" : 9,
+      "description" : "This course will introduce students to the basic concepts, logic, and issues involved in statistical reasoning, as well as basic statistical methods used to analyze data and evaluate studies. The major topics to be covered include methods for exploratory data analysis, an introduction to research methods, elementary probability, and methods for statistical inference. The objectives of this course are to help students develop a critical approach to the evaluation of study designs, data and results, and to develop skills in the application of basic statistical methods in empirical research. An important feature of the course will be the use of the computer to facilitate the understanding of important statistical ideas and for the implementation of data analysis. In addition to three lectures a week, students will attend a computer lab once a week. Examples will be drawn from areas of applications of particular interest to H&amp;SS students. Not open to students who have received credit for 36-207/70-207, 36-220, 36-225, 36-625, or 36-247.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

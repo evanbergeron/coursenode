@@ -1,0 +1,8 @@
+  {
+      "name" : "Calculus in Three Dimensions",
+      "number" : "21-259",
+      "units" : 9,
+      "description" : "Vectors, lines, planes, quadratic surfaces, polar, cylindrical and spherical coordinates, partial derivatives, directional derivatives, gradient, divergence, curl, chain rule, maximum-minimum problems, multiple integrals, parametric surfaces and curves, line integrals, surface integrals, Green-Gauss theorems. 3 hrs. lec., 1 hr. rec.",
+      "prereqs" : "21-122",
+      "coreqs" : "None" 
+    }

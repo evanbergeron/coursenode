@@ -1,0 +1,8 @@
+  {
+      "name" : "Laboratory III: Molecular Design and Synthesis",
+      "number" : "09-321",
+      "units" : 12,
+      "description" : "In this third course in the laboratory sequence, students will learn a variety of more advanced techniques for organic synthesis and characterization, and will gain experience with developing and designing synthetic procedures. Student writing skills are further reinforced through preparation of detailed lab reports. 2 hrs. lec., 6 hrs. lab.",
+      "prereqs" : "(09-218 or 09-220) and 09-222",
+      "coreqs" : "None" 
+    }

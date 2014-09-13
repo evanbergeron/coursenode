@@ -1,0 +1,8 @@
+  {
+      "name" : "Physics II for Science Students",
+      "number" : "33-112",
+      "units" : 12,
+      "description" : "This is the second semester course that follows 33-111. Electricity and magnetism is developed, including the following topics: Coulomb's law, polarization, electric field, electric potential, DC circuits, magnetic field and force, magnetic induction, and the origins of electromagnetic waves.",
+      "prereqs" : "33-111 and 21-12",
+      "coreqs" : "21-122" 
+    }

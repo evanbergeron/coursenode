@@ -1,0 +1,8 @@
+  {
+      "name" : "Undergraduate Colloquium",
+      "number" : "21-201",
+      "units" : 1,
+      "description" : "All mathematics majors meet for one hour each week to hear discussions on current research by faculty or students, presentations on mathematics from mathematicians outside academia, and expository talks on selected mathematical topics not part of the usual curricula. Also will include topics of special interest to undergraduates such as preparation for graduate school.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

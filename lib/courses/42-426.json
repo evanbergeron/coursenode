@@ -1,0 +1,8 @@
+  {
+      "name" : "Biosensors and BioMEMS",
+      "number" : "42-426",
+      "units" : 9,
+      "description" : "This course emphasizes the principles of biomolecule-based sensing, including molecular recognition, biomolecular binding kinetics and equilibrium; methods of detection and signal transduction, including optical, colorimetric, fluorescence, potentiometric, and gravimetric techniques; statistical principles of high throughout screening; microfluidic and microarray device design principles and fabrication technologies; molecular motors. Prerequisites: 03-231 OR 03-232 Biochemistry.",
+      "prereqs" : " 03-231 OR 03-232 Biochemistry",
+      "coreqs" : "None" 
+    }

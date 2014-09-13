@@ -1,0 +1,8 @@
+  {
+      "name" : "Advanced Physical Chemistry",
+      "number" : "09-347",
+      "units" : 12,
+      "description" : "09-347 Advanced Physical Chemistry Fall: 12 units A course of study designed to provide the microscopic basis of concepts encountered in the field of chemical engineering. The properties of macroscopic materials are calculated in terms of the microscopic properties of atoms and molecules. Both classical and quantum approaches are employed. The thermodynamic properties are developed in terms of the chemical potentials of the constituent particles. The transport properties are calculated using molecular dynamics and Brownian dynamics. Classical chemical kinetics is fully developed and applied to complex reactions. Rate constants are calculated for simple reactions in gases and solutions. The course enrollment is limited to chemical engineering majors. 4 hrs. lec.",
+      "prereqs" : "(06-221 or 06-151) and (06-262 or 06-155) and (09-107 or 09-105)",
+      "coreqs" : "None" 
+    }

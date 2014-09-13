@@ -1,0 +1,8 @@
+  {
+      "name" : "Human Robot Interaction",
+      "number" : "16-467",
+      "units" : 12,
+      "description" : "The field of human-robot interaction (HRI) is fast becoming a significant area of research in robotics. The basic objective is to create and investigate interfaces that enable natural and effective modes of interaction with robotic technologies. HRI is highly interdisciplinary, bringing together methodologies and techniques from robotics, artificial intelligence, human-computer interaction, human factors, interaction design, psychology, anthropology, education, drama, and other fields. This course is primarily lecture-based, with in-class participatory mini-projects, group homework assignments, and a group term project that will enable students to put theory to practice using state-of-the-art interactive robots. The topics covered will include man-machine coupling, underlying robotic technologies, as they relate to human-robot interaction, interaction methodologies and techniques, the singularity, and will include significant discussion of application domains that feature HRI. This course has no prerequisites, but some basic familiarity with robots is recommended (programming knowledge is not necessary, but is useful for the term project).",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

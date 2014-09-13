@@ -1,0 +1,8 @@
+  {
+      "name" : "Medical Devices",
+      "number" : "42-444",
+      "units" : 9,
+      "description" : "This course is an introduction to the engineering, clinical, legal and regulatory aspects of medical device performance and failure. Topics covered include a broad survey of the thousands of successful medical devices in clinical use, as well as historical case studies of devices that were withdrawn from the market. In-depth study of specific medical devices will include: cardiovascular medicine, orthopedics, and general medicine. We will study the principles of operation (with hands-on examples), design evolution, and modes of failure. Additional lectures will provide basic information concerning biomaterials used for implantable medical devices (metals, polymers, ceramics) and their biocompatibility, mechanisms of failure (wear, corrosion, fatigue, fretting, etc.). The level of technical content will require junior standing for MCS and CIT students, a degree in science or engineering for non-MCS or non-CIT graduate students, or permission of the instructor for all other students.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

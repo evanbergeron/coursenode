@@ -1,0 +1,8 @@
+  {
+      "name" : "Developmental Neuroscience",
+      "number" : "03-364",
+      "units" : 9,
+      "description" : "This course examines the principles that govern the developmental assembly of a complex nervous system. Topics range from the earliest steps of induction of neural tissue and birth of neurons to the plasticity within developing circuits and the development of behavior. By the end of this course students should be able to describe the major steps in neural development and to interpret key experiments using vertebrate and invertebrate models have helped to elucidate these steps. This course is taught on the University of Pittsburgh campus by faculty from Carnegie Mellon and Pitt.",
+      "prereqs" : "03-362 or 03-240 or 03-363",
+      "coreqs" : "None" 
+    }

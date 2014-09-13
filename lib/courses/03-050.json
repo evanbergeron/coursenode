@@ -1,0 +1,8 @@
+  {
+      "name" : "Study Abroad",
+      "number" : "03-050",
+      "units" : 0,
+      "description" : "None",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

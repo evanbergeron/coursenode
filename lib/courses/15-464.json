@@ -1,0 +1,8 @@
+  {
+      "name" : "Technical Animation",
+      "number" : "15-464",
+      "units" : 12,
+      "description" : "This course introduces techniques for computer animation such as keyframing, procedural methods, motion capture, and simulation. The course also includes a brief overview of story-boarding, scene composition, lighting and sound track generation. The second half of the course will explore current research topics in computer animation such as dynamic simulation of flexible and rigid objects,automatically generated control systems, and evolution of behaviors. The course should be appropriate for graduate students in all areas and for advanced undergraduates.",
+      "prereqs" : "15-462",
+      "coreqs" : "None" 
+    }

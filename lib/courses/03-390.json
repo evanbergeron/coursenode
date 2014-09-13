@@ -1,0 +1,8 @@
+  {
+      "name" : "Molecular and Cellular Immunology",
+      "number" : "03-390",
+      "units" : 9,
+      "description" : "This course offers the student a comprehensive view of modern immunology at the molecular and cellular level. The first half of the course presents the fundamentals of immunology, beginning with innate immunity, followed by a discussion of the structure and function of important molecules in the immune system, such as antibodies, major histocompatibility antigens, complement, and the T-cell receptor. This portion of the course is concluded with a discussion of the development and function of the cellular immune response. The second half of the course is focused on applied immunology and discusses hypersensitivity, autoimmunity, immunodeficiencies, tumor immunology, infectious disease, and transplantation immunology. Presentations at the end of the course provide an opportunity for the student to explore additional topics in contemporary immunology.",
+      "prereqs" : "(03-232 or 03-231) and 03-240",
+      "coreqs" : "None" 
+    }

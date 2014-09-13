@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Biomedical Imaging and Image Analysis",
+      "number" : "42-431",
+      "units" : 12,
+      "description" : "This course gives an overview of tools and tasks in various biological and biomedical imaging modalities, such as microscopy, magnetic resonance imaging, x-ray computed tomography, ultrasound and others. Students will be exposed to the major underlying principles in modern imaging systems as well as state of the art methods for processing biomedical images such as deconvolution, registration, segmentation, pattern recognition, etc. The discussion of these topics will draw on approaches from many fields, including physics, statistics, signal processing, and machine learning. As part of the course, students will be expected to complete an independent project. Students will have the opportunity to visit laboratory to see real biomedical imaging devices in action. Prerequisites: 18-290 Signals and Systems or permission of the instructor, working knowledge of Matlab, and some image processing experience. Cross-listed courses: 18-496",
+      "prereqs" : "18-290 Signals and Systems or permission of the instructor, working knowledge of Matlab, and some image processing experience. Cross-listed courses: 18-49",
+      "coreqs" : "None" 
+    }

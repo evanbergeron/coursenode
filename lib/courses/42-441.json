@@ -1,0 +1,8 @@
+  {
+      "name" : "Cardiovascular Biomechanics",
+      "number" : "42-441",
+      "units" : 9,
+      "description" : "This course covers the solid and fluid mechanics of the heart and vascular system as well as the mechanics of medical devices used to assist or replace cardiovascular function. Prerequisite: 42-341 Introduction to Biomechanics.",
+      "prereqs" : " 42-341 Introduction to Biomechanics",
+      "coreqs" : "None" 
+    }

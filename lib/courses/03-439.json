@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Biophysics",
+      "number" : "03-439",
+      "units" : 9,
+      "description" : "Description: This intermediate level course is primarily offered to Physics and Biology undergrads (junior/senior) and provides a modern view of molecular and cellular biology as seen from the perspective of physics, and quanti&amp;#64257;ed through the analytical tools of physics. This course will not review experimental biophysical techniques (which are covered, e.g., in 03-871). Rather, physicists will learn what sets &#8220;bio&#8221; apart from the remainder of the Physics world and how the apparent dilemma that the existence of life represents to classical thermodynamics is reconciled. They also will learn the nomenclature used in molecular biology. In turn, biologists will obtain (a glimpse of) what quantitative tools can achieve beyond the mere collecting and archiving of facts in a universe of observations: By devising models, non-obvious quantitative predictions are derived which can be experimentally tested and may lead to threads that connect vastly different, apparently unrelated phenomena. One major goal is then to merge the two areas, physics and biology, in a uni&amp;#64257;ed perspective.",
+      "prereqs" : "03-232 or 03-231",
+      "coreqs" : "None" 
+    }

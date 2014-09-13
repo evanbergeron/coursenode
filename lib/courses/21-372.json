@@ -1,0 +1,8 @@
+  {
+      "name" : "Partial Differential Equations and Fourier Analysis",
+      "number" : "21-372",
+      "units" : 9,
+      "description" : "This course provides an introduction to partial differential equations and is recommended for majors in mathematics, physical science, or engineering. Boundary value problems on an interval, Fourier series, uniform convergence, the heat, wave, and potential equations on bounded domains, general theory of eigenfunction expansion, the Fourier integral applied to problems on unbounded domains, introduction to numerical methods. 3 hrs. lec.",
+      "prereqs" : "(21-259 or 21-268 or 21-269) and 21-260",
+      "coreqs" : "None" 
+    }

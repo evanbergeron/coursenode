@@ -1,0 +1,8 @@
+  {
+      "name" : "Microbiology Laboratory",
+      "number" : "03-392",
+      "units" : 6,
+      "description" : "This is an upper level biology course for students who have taken or are currently taking the Microbiology course and are interested in laboratory experience in microbiology. It is designed with the recommendations of the American Society for Microbiology for a student laboratory course in mind in order to introduce the student to a broad spectrum of techniques in microbiology. You will learn the skills needed to perform experiments that help to differentiate various types of microbes, examine antimicrobial and antibiotic sensitivity and resistance, and begin to explore microbial diversity. Finally, you will develop an understanding of the theory behind the techniques you use and will be given the opportunity to further develop your skills in the process of experimental design.",
+      "prereqs" : "None",
+      "coreqs" : "03-391" 
+    }

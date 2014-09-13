@@ -1,0 +1,8 @@
+  {
+      "name" : "Integration, Differential Equations and Approximation",
+      "number" : "21-122",
+      "units" : 10,
+      "description" : "Integration by trigonometric substitution and partial fractions; arclength; improper integrals; Simpson's and Trapezoidal Rules for numerical integration; separable differential equations, Newton's method, Euler's method, Taylor's Theorem including a discussion of the remainder, sequences, series, power series. Parametric curves, polar coordinates, vectors, dot product. 3 hrs lec., 2 hrs. rec.",
+      "prereqs" : "21-112 or 21-120",
+      "coreqs" : "None" 
+    }

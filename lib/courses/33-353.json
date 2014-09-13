@@ -1,0 +1,8 @@
+  {
+      "name" : "Intermediate Optics",
+      "number" : "33-353",
+      "units" : 12,
+      "description" : "Offer alternative years. Geometrical optics: reflection and refraction, mirrors, prisms, lenses, apertures and stops, simple optical instruments, fiber optics. Scalar wave optics: wave properties of light, interference, coherence, interferometry, Huygens-Fresnel principle, Fraunhofer diffraction, resolution of optical instruments, Fourier optics, Fresnel diffraction. Laser beam optics: Gaussian beams. Vector wave optics: electromagnetic waves at dielectric interfaces, polarized light. The course will use complex exponential representations of electromagnetic waves.",
+      "prereqs" : "33-132 or 33-107 or 33-112",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Number Theory",
+      "number" : "21-441",
+      "units" : 9,
+      "description" : "Number theory deals with the integers, the most basic structures of mathematics. It is one of the most ancient, beautiful, and well-studied branches of mathematics, and has recently found surprising new applications in communications and cryptography. Course contents: Structure of the integers, greatest common divisiors, prime factorization. Modular arithmetic, Fermat's Theorem, Chinese Remainder Theorem. Number theoretic functions, e.g. Euler's function, Mobius functions, and identities. Diophantine equations, Pell's Equation, continued fractions. Modular polynomial equations, quadratic reciprocity. 3 hrs. lec.",
+      "prereqs" : "(21-241 or 21-242) and 21-373",
+      "coreqs" : "None" 
+    }

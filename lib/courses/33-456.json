@@ -1,0 +1,8 @@
+  {
+      "name" : "Advanced Computational Physics",
+      "number" : "33-456",
+      "units" : 9,
+      "description" : "This course emphasizes application of practical numerical techniques to the types of problems that are encountered by practicing physicists. The student will be expected to understand the principles behind numerical methods such as SVD decomposition, chi-squared minimization, and Fast Fourier Transforms and Monte Carlo simulation of experiments. Applications will include data analysis and eigenvalue problems. Emphasis will be placed on the ability to implement complex algorithms accurately by devising methods of checking results and debugging code. The students will be expected to become proficient in Fortran or C programming.",
+      "prereqs" : "33-241",
+      "coreqs" : "None" 
+    }

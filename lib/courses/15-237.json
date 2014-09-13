@@ -1,0 +1,8 @@
+  {
+      "name" : "Special Topic: Cross-Platform Mobile Web Apps",
+      "number" : "15-237",
+      "units" : 12,
+      "description" : "An introduction to writing cross-platform mobile web apps. Using a tool chain based on HTML5, CSS3, JavaScript, and a variety of supporting frameworks, we will write apps that are effectively designed both for desktop and mobile browsers, and which can be converted into native apps for Android, iOS, and Windows Phone 7 devices. Additional topics will include designing user interfaces for mobile devices, accessing mobile device API&#8217;s (such as accelerometer, GPS, compass, or camera), and power management issues. While this course focuses on browser-side technologies, we will briefly explore JavaScript-based server-side technologies (though students should consider 15-437 for extensive treatment of server-side topics). Note that we will not be writing native apps in Objective-C for iOS nor in Java for Android, though we may include some brief exposure to these technologies near the end of the course.",
+      "prereqs" : "15-112",
+      "coreqs" : "None" 
+    }

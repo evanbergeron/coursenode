@@ -1,0 +1,8 @@
+  {
+      "name" : "Matter and Interactions II",
+      "number" : "33-132",
+      "units" : 12,
+      "description" : "A more challenging alternative to 33-112, Physics for Science Students II. Emphasis on atomic-level description and analysis of matter and its electric and magnetic interactions. Coulomb's law, polarization, electric field, plasmas, field of charge distributions, microscopic analysis of resistor and capacitor circuits, potential, macroscopic analysis of circuits, Gauss' law, magnetic field, atomic model of magnetism, Ampere's law, magnetic force, relativistic issues, magnetic induction with emphasis on non-Coulomb electric field, Maxwell's equations, electromagnetic radiation including its production and its effects on matter, re-radiation, interference. Computer modeling and visualization; desktop experiments.",
+      "prereqs" : "21-120 and 33-13",
+      "coreqs" : "21-122" 
+    }

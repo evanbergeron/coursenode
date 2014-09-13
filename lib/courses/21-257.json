@@ -1,0 +1,8 @@
+  {
+      "name" : "Models and Methods for Optimization",
+      "number" : "21-257",
+      "units" : 9,
+      "description" : "Introduces basic methods of operations research and is intended primarily for Business Administration and Economics majors. Review of linear systems; linear programming, including the simplex algorithm, duality, and sensitivity analysis; the transportation problem; the critical path method; the knapsack problem, traveling salesman problem, and an introduction to set covering models. 3 hrs. lec., 1 hr. rec.",
+      "prereqs" : "06-262 or 18-202 or 21-240 or 21-241 or 21-242 or 21-256",
+      "coreqs" : "None" 
+    }

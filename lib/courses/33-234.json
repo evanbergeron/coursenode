@@ -1,0 +1,8 @@
+  {
+      "name" : "Quantum Physics",
+      "number" : "33-234",
+      "units" : 10,
+      "description" : "An introduction to the fundamental principles and applications of quantum physics. A brief review of the experimental basis for quantization motivates the development of the Schrodinger wave equation. Several unbound and bound problems are treated in one dimension. The properties of angular momentum are developed and applied to central potentials in three dimensions. The one electron atom is then treated. Properties of collections of indistinguishable particles are developed allowing an understanding of the structure of the Periodic Table of elements. A variety of mathematical tools are introduced as needed.",
+      "prereqs" : "33-211",
+      "coreqs" : "None" 
+    }

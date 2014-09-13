@@ -1,0 +1,8 @@
+  {
+      "name" : "Advanced Data Analysis",
+      "number" : "36-402",
+      "units" : 9,
+      "description" : "This course introduces modern methods of data analysis, building on the theory and application of linear models from 36-401. Topics include nonlinear regression, nonparametric smoothing, density estimation, generalized linear and generalized additive models, simulation and predictive model-checking, cross-validation, bootstrap uncertainty estimation, multivariate methods including factor analysis and mixture models, and graphical models and causal inference. Students will analyze real-world data from a range of fields, coding small programs and writing reports. Prerequisites: 36-401",
+      "prereqs" : "36-40",
+      "coreqs" : "None" 
+    }

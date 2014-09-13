@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Feedback Control Systems",
+      "number" : "16-299",
+      "units" : 12,
+      "description" : "This course is designed as a first course in feedback control systems for computer science majors. Course topics include classical linear control theory (differential equations, Laplace transforms, feedback control), linear state-space methods (controllability/observability, pole placement, LQR), nonlinear systems theory, and an introduction to control using computer learning techniques. Laboratory work includes implementation of controllers robotic devices. Priorities will be given to computer science majors with robotics minor.",
+      "prereqs" : "21-122 and 15-122",
+      "coreqs" : "None" 
+    }

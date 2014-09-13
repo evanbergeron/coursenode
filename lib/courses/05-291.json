@@ -1,0 +1,8 @@
+  {
+      "name" : "HCI for Computer Scientists",
+      "number" : "05-291",
+      "units" : 12,
+      "description" : "This course introduces the skills and concepts of Human Computer Interaction (HCI) that enable computer scientists to design systems that effectively meet human needs. A concrete illustration of the practice of HCI, this course covers iterative design processes, interactive prototype construction, discount evaluation techniques, and the historical context of HCI. The course is intended for undergraduates and graduate students not majoring in HCI. Students considering a major in HCI should instead take 05-410, Introduction to HCI Methods. The prerequisite for HCI for non-majors is 15-211.",
+      "prereqs" : "15-211",
+      "coreqs" : "None" 
+    }

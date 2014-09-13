@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Computational Molecular Biology",
+      "number" : "03-251",
+      "units" : 6,
+      "description" : "This 6-unit mini class intended to provide a general introduction to computational tools for biology with specific emphasis on molecular biology and genomics. Along with 03-252, it makes up one half of the full Introduction to Computational Biology, 03-250, although either half can be taken individually. 03-251 will examine important sources of biological data, how they are archived and made available to researchers, and what computational tools are available to use them effectively in research. In the process, it will cover basic concepts in statistics, mathematics, and computer science needed to effectively use these resources and understand their results. Specific topics to be covered include sequence data, searching and alignment, structural data, genome sequencing, genome analysis, genetic variation, gene and protein expression, and biological networks and pathways. This course is intended primarily for biological sciences or biomedical engineering majors at the undergraduate or graduate level who have had little or no prior experience with computer science or programming. Students may not take both 03-250/42-334 and either 03-251 or 03-252 for credit. Prerequisites: 03-121 or permission of the instructors.",
+      "prereqs" : "03-121 or permission of the instructors",
+      "coreqs" : "None" 
+    }

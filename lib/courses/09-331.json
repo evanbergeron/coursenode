@@ -1,0 +1,8 @@
+  {
+      "name" : "Modern Analytical Instrumentation",
+      "number" : "09-331",
+      "units" : 9,
+      "description" : "This course will cover all aspects of analytical instrumentation and its application to problems in materials, environmental, and biological chemistry. Topics covered will include mass spectrometry, optical spectroscopies and NMR. In addition, the course will emphasize how to select an analytical method appropriate to the problem at hand, how to optimize the signal to noise obtained by a measurement, and the quantitative analysis of experimental data. Some basic electronics will be covered as well. 3 hrs. lec.",
+      "prereqs" : "09-222 and 09-22",
+      "coreqs" : "09-344" 
+    }

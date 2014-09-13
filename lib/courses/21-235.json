@@ -1,0 +1,8 @@
+  {
+      "name" : "Mathematical Studies Analysis I",
+      "number" : "21-235",
+      "units" : 10,
+      "description" : "An honors version of 21-355 for students of greater aptitude and motivation. Topics to be covered include: The Real Number System: sups and infs, completeness, integers and rational numbers. Metric spaces, normed spaces, inner product spaces and their specialization to the Euclidean space. Topological properties of metric spaces (open sets, closed sets, density, compactness, Heine-Borel Theorem). Sequences and convergence; completeness. Baire Category Theorem. Real sequences: limsup and liminf, subsequences, monotonic sequences, Bolzano-Weierstrass Theorem. Real series (criteria for convergence). Continuity, limits of functions, attainment of extrema, Intermediate Value Theorem, uniform continuity. Differentiation of functions of one variable: Chain Rule, local extrema, Mean-Value Theorems, L'Ho'pital's Rule, Taylor's Theorem. Riemann Integration: Partitions, upper and lower integrals, sufficient conditions for integrability, Fundamental Theorem of Calculus. 3 hrs. lec.",
+      "prereqs" : "21-127 and 21-269",
+      "coreqs" : "None" 
+    }

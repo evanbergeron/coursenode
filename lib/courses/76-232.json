@@ -1,0 +1,8 @@
+  {
+      "name" : "African American Literature",
+      "number" : "76-232",
+      "units" : 9,
+      "description" : "Topics will vary by semester. Consult the course descriptions provided by the department for current offerings. Example, Spring 2012: The purpose of this course is to introduce you to diverse examples of African-American literary expression. You will read canonical works like Fredrick Douglass' Narrative of the Life of Fredrick Douglass, an American Slave, Zora Neale Hurston's Their Eyes Were Watching God and Toni Morrison's Sula as well as not so canonical but more contemporary works like Aaron McGruder and Reginald Hudlin's graphic novel Birth of a Nation, Kyle Baker's comic-series Truth: Red, White and Black and Paul Beatty's Tuff. Along with these primary works this course will also introduce you to the field of African-American literary criticism. These secondary readings will help you explore the historical, aesthetic and political issues that surround these works of art, give you a sense of how criticism functions and the multitude of forms it can take.",
+      "prereqs" : "76-101",
+      "coreqs" : "None" 
+    }

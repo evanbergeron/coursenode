@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Statistical Inference",
+      "number" : "36-226",
+      "units" : 9,
+      "description" : "This course is the second half of a year long course in probability and mathematical statistics. Topics include maximum likelihood estimation, confidence intervals, and hypothesis testing. If time permits there will also be a discussion of linear regression and the analysis of variance. A grade of C or better is required in order to advance to 36-401, 36-402 or any 36-46x course. Not open to students who have received credit for 36-626.",
+      "prereqs" : "15-359 or 36-225 or 36-217 or 21-325",
+      "coreqs" : "None" 
+    }

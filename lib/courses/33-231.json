@@ -1,0 +1,8 @@
+  {
+      "name" : "Physical Analysis",
+      "number" : "33-231",
+      "units" : 10,
+      "description" : "This course aims to develop analytical skills and mathematical modeling skills across a broad spectrum of physical phenomena, stressing analogies in behavior of a wide variety of systems. Specific topics include dimensional analysis and scaling in physical phenomena, exponential growth and decay, the harmonic oscillator with damping and driving forces, linear approximations of nonlinear systems, coupled oscillators, and wave motion. Necessary mathematical techniques, including differential equations, complex exponential functions, matrix algebra, and elementary Fourier series, are introduced as needed.",
+      "prereqs" : "21-122 and (33-132 or 33-112 or 33-107)",
+      "coreqs" : "None" 
+    }

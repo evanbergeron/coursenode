@@ -1,0 +1,8 @@
+  {
+      "name" : "Formal Languages, Automata, and Computability",
+      "number" : "15-453",
+      "units" : 9,
+      "description" : "An introduction to the fundamental ideas and models underlying computing: finite automata, regular sets, pushdown automata, context-free grammars, Turing machines, undecidability, and complexity theory.",
+      "prereqs" : "21-228 or 15-251",
+      "coreqs" : "None" 
+    }

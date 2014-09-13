@@ -1,0 +1,8 @@
+  {
+      "name" : "Special Topic: Secure Programming",
+      "number" : "15-392",
+      "units" : 9,
+      "description" : "This course provides a detailed explanation of common programming errors in C and C++ and describes how these errors can lead to software systems that are vulnerable to exploitation. The course concentrates on security issues intrinsic to the C and C++ programming languages and associated libraries. It does not emphasize security issues involving interactions with external systems such as databases and web servers, as these are rich topics on their own. Topics to be covered include the secure and insecure use of integers, arrays, strings, dynamic memory, formatted input/output functions, and file I/O.",
+      "prereqs" : "15-213",
+      "coreqs" : "None" 
+    }

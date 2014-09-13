@@ -1,0 +1,8 @@
+  {
+      "name" : "Biochemistry I",
+      "number" : "03-231",
+      "units" : 9,
+      "description" : "This course provides an introduction to molecules and processes found in living systems. Amino acids, sugars, lipids and nucleotides and their corresponding higher structures, the proteins, polysaccharides, membranes and nucleic acids are studied. Kinetics and mechanisms of enzymes as well as elementary metabolic cycles and the energetics of biological systems are discussed.",
+      "prereqs" : "03-12",
+      "coreqs" : "09-217" 
+    }

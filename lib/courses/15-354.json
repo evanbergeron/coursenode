@@ -1,0 +1,8 @@
+  {
+      "name" : "Computational Discrete Mathematics",
+      "number" : "15-354",
+      "units" : 12,
+      "description" : "This course is about the computational aspects of some of the standard concepts of discrete mathematics (relations, functions, logic, graphs, algebra, automata), with emphasis on efficient algorithms. We begin with a brief introduction to computability and computational complexity. Other topics include: iteration, orbits and fixed points, order and equivalence relations, propositional logic and satisfiability testing, finite fields and shift register sequences, finite state machines, and cellular automata. Computational support for some of the material is available in the form of a Mathematica package.",
+      "prereqs" : "15-251",
+      "coreqs" : "None" 
+    }

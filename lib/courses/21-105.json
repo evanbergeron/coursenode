@@ -1,0 +1,8 @@
+  {
+      "name" : "Pre-Calculus",
+      "number" : "21-105",
+      "units" : 9,
+      "description" : "Review of basic concepts, logarithms, functions and graphs, inequalities, polynomial functions, complex numbers, and trigonometric functions and identities. Special summer program only. 3 hrs lec., 1 hr.rec.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

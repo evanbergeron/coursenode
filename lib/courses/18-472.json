@@ -1,0 +1,8 @@
+  {
+      "name" : "Fundamentals of Electric Power Systems",
+      "number" : "18-472",
+      "units" : 12,
+      "description" : "",
+      "prereqs" : "18-202 and 33-107",
+      "coreqs" : "None" 
+    }

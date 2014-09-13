@@ -1,0 +1,8 @@
+  {
+      "name" : "Natural Language Processing",
+      "number" : "11-411",
+      "units" : 12,
+      "description" : "This course will introduce students to the highly interdisciplinary area of Artificial Intelligence known alternately as Natural Language Processing (NLP) and Computational Linguistics. The course aims to cover the techniques used today in software that does useful things with text in human languages like English and Chinese. Applications of NLP include automatic translation between languages, extraction and summarization of information in documents, question answering and dialog systems, and conversational agents. This course will focus on core representations and algorithms, with some time spent on real-world applications. Because modern NLP relies so heavily on Machine Learning, we'll cover the basics of discrete classification and probabilistic modeling as we go. Good computational linguists also know about Linguistics, so topics in linguistics (phonology, morphology, and syntax) will be covered when fitting. From a software engineering perspective, there will be an emphasis on rapid prototyping, a useful skill in many other areas of Computer Science. In particular, we will introduce some high-level languages (e.g., regular expressions and Dyna) and some scripting languages (e.g., Python and Perl) that can greatly simplify prototype implementation.",
+      "prereqs" : "15-122",
+      "coreqs" : "None" 
+    }

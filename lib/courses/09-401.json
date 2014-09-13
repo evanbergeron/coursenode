@@ -1,0 +1,8 @@
+  {
+      "name" : "Undergraduate Seminar V",
+      "number" : "09-401",
+      "units" : 1,
+      "description" : "Students attend seminars on current topics in chemistry. Students are sent a menu of choices for each week of the semester and may select topics of interest. Enrollment is restricted to students majoring in chemistry. 1 hr.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

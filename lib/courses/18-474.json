@@ -1,0 +1,8 @@
+  {
+      "name" : "Embedded Control Systems",
+      "number" : "18-474",
+      "units" : 12,
+      "description" : "This course introduces principles for design of embedded controllers. In applications ranging from airplanes, to automobiles, to manufacturing systems, embedded computers now close feedback loops that were previously closed by mechanical devices or by humans in the loop. This course emphasizes practical insight into the tools for modeling and simulating these dynamic physical systems, and methods for designing the real-time software for embedded computers to control them. Lectures cover relevant theory and background from real-time systems and control engineering, including event-based and clock-based sampling, switching control, PWM (pulse-width modulation), PID (proportional-integral-derivative) design, state-variable feedback, state estimation, and methods for setpoint control and trajectory tracking. Basic embedded computing, sensor, and actuator technologies are reviewed, including microcontrollers, DC motors and optical encoders. In the laboratory, students use commercial tools for simulation and automatic code generation to design and implement embedded control system experiments. 3 hrs. lecture, 3 hrs. lab.",
+      "prereqs" : "(18-243 or 15-213) and (18-370 or 18-396)",
+      "coreqs" : "None" 
+    }

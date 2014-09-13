@@ -1,0 +1,8 @@
+  {
+      "name" : "Professional Issues in Biomedical Engineering",
+      "number" : "42-201",
+      "units" : 3,
+      "description" : "This course exposes students to many of the issues that biomedical engineers face. It provides an overview of professional topics including bioethics, regulatory issues, communication skills, teamwork, and other contemporary issues. Outside speakers and case studies will describe real world problems and professional issues in biotechnology and bioengineering, and progress toward their solution. Prerequisite or co-requisite: 42-101 Introduction to Biomedical Engineering",
+      "prereqs" : "42-101",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Electronics for Biological Applications",
+      "number" : "03-205",
+      "units" : 4,
+      "description" : "This mini will cover basic concepts in electronics. The format for the course will be a weekly lecture and a hands-on laboratory project. We will introduce key concepts behind the electronic circuitry and instrumentation commonly found in a modern biology laboratory. The course will cover discrete electrical components, simple circuits, transistors, op-amps, digital electronics, bread-boarding, and the use of common analytical instruments. We will also show how concepts in electronics provide a valuable conceptual framework for understanding biological phenomena.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

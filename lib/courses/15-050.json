@@ -1,0 +1,8 @@
+  {
+      "name" : "Study Abroad",
+      "number" : "15-050",
+      "units" : 0,
+      "description" : "Students who are interested in studying abroad should first contact the Office of International Education. More information on Study Abroad is available on OIE's Study Abroad page and at the CS Undergraduate Office.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

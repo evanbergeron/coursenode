@@ -1,0 +1,8 @@
+  {
+      "name" : "Probability and Computing",
+      "number" : "15-359",
+      "units" : 12,
+      "description" : "Probability theory has become indispensable in computer science. In areas such as artificial intelligence and computer science theory, probabilistic methods and ideas based on randomization are central. In other areas such as networks and systems, probability is becoming an increasingly useful framework for handling uncertainty and modeling the patterns of data that occur in complex systems. This course gives an introduction to probability as it is used in computer science theory and practice, drawing on applications and current research developments as motivation and context. Topics include combinatorial probability and random graphs, heavy tail distributions, concentration inequalities, various randomized algorithms, sampling random variables and computer simulation, and Markov chains and their many applications, from Web search engines to models of network protocols. The course will assume familiarity with 3-D calculus and linear algebra.",
+      "prereqs" : "15-251 and 21-259 and 21-241",
+      "coreqs" : "None" 
+    }

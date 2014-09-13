@@ -1,0 +1,8 @@
+  {
+      "name" : "Microelectronic Circuits",
+      "number" : "18-320",
+      "units" : 12,
+      "description" : "18-320 introduces students to the fundamentals of microelectronic circuits. The course will emphasize the analysis and design of basic analog and digital integrated circuits in preparation for further study in analog, digital, mixed-signal, and radio-frequency integrated circuit design. Additionally, students will learn to design and analyze microelectronic circuits using industry standard computer aided design (CAD) software. Topics to be covered include: &#8226; MOSFET fabrication and layout &#8226; MOSFET models for analog and digital design &#8226; Analysis and design of digital CMOS logic gates &#8226; Analysis and design of clocked storage elements (e.g., flip-flops, latches, memory cells) &#8226; Delay optimization of digital circuits &#8226; Circuit topologies for arithmetic and logical functional units &#8226; Analysis and design of single-stage MOS amplifiers &#8226; Frequency response characteristics of single-stage amplifiers &#8226; Differential amplifiers and simple operational amplifiers &#8226; Analog filters using operational amplifiers The course includes a lab component which will give students hands-on experience in the design and implementation of analog and digital circuits. Labs will employ both design using discrete, SSI, and MSI parts, as well as using CAD design tools.",
+      "prereqs" : "18-22",
+      "coreqs" : "18-240" 
+    }

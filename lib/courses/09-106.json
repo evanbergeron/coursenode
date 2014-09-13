@@ -1,0 +1,8 @@
+  {
+      "name" : "Modern Chemistry II",
+      "number" : "09-106",
+      "units" : 10,
+      "description" : "This course provides an overview of themodynamics, kinetics and chemical equilibrium. Topics include the flow of energy in chemical systems; the spontaneity of chemical processes, i.e. entropy and free energy; the mechanisms and rates of chemical reations; and the use of chemical equilibrium to reason about acid-base chemistry, solubility and electrochemistry. Applications include the energy economy, biological systems and environmental chemistry. 3 hrs. lec., 2 hrs. rec.",
+      "prereqs" : "09-107 or 09-105",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Organismic Botany",
+      "number" : "03-122",
+      "units" : 9,
+      "description" : "This course provides an integrated overview of botany at the level of organism and above, including historical perspectives. It provides an introduction to the subdisciplines of systematics, evolution, plant geography, and ecology, and surveys the anatomical, morphological, developmental, and environmental diversification of major groups within the plant kingdom.",
+      "prereqs" : "03-121",
+      "coreqs" : "None" 
+    }

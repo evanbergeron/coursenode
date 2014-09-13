@@ -1,0 +1,8 @@
+  {
+      "name" : "Topics in Statistics: Data Mining",
+      "number" : "36-462",
+      "units" : 9,
+      "description" : "Data mining is the science of discovering patterns and learning structure in large data sets. Covered topics include information retrieval, clustering, dimension reduction, regression, classification, and decision trees. Prerequisites: 36-401 (C or better).",
+      "prereqs" : "36-401 (C or better)",
+      "coreqs" : "None" 
+    }

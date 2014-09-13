@@ -1,0 +1,8 @@
+  {
+      "name" : "Systems Neuroscience",
+      "number" : "03-363",
+      "units" : 9,
+      "description" : "Modern neuroscience is an interdisciplinary field that seeks to understand the function of the brain and nervous system. This course provides a comprehensive survey of systems neuroscience, a rapidly growing scientific field that seeks to link the structure and function of brain circuitry to perception and behavior. This course will explore brain systems through a combination of classical, Nobel prize-winning data and cutting edge primary literature. Topics will include sensory systems, motor function, animal behavior and human behavior in health and disease. Lectures will provide fundamental information as well as a detailed understanding of experimental designs that enabled discoveries. Finally, students will learn to interpret and critique the diverse and multimodal data that drives systems neuroscience.",
+      "prereqs" : "03-121 or 03-762 or 03-362 or 85-219 or 15-386",
+      "coreqs" : "None" 
+    }

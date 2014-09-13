@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Text Processing",
+      "number" : "15-383",
+      "units" : 6,
+      "description" : "Text processing is a mini-course about text basic techniques of processing human language in text format. The course has theoretical and hands-on components. In the theoretical component, the course will discuss challenges in processing human languages, and review the basics of statistics and probability theory and their application to language problems. In the hands-on part, students will learn about Python programming and use it to process large volumes of text using various techniques. The processing will range from simple steps such as tokenization and part-of-speech tagging to full-fledged applications such as statistical machine translation, search and document/topic classification. The course is suited for junior and senior students in CS and IS.",
+      "prereqs" : "15-121 or 15-122",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Fundamental Data Structures and Algorithms",
+      "number" : "15-211",
+      "units" : 12,
+      "description" : "Fundamental programming concepts are presented together with supporting theoretical foundations and practical applications. This course emphasizes the practical application of techniques for writing and analyzing programs: data abstraction, program verification, and performance analysis. These techniques are applied in the design and analysis of fundamental algorithms and data structures. The course is currently taught in Java. NOTE: students must achieve a C or better in order to use this course to satisfy the pre-requisite for any subsequent Computer Science course.",
+      "prereqs" : "21-127 and 15-121",
+      "coreqs" : "None" 
+    }

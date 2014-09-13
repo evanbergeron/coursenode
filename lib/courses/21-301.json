@@ -1,0 +1,8 @@
+  {
+      "name" : "Combinatorics",
+      "number" : "21-301",
+      "units" : 9,
+      "description" : "A major part of the course concentrates on algebraic methods, which are relevant in the study of error correcting codes, and other areas. Topics covered in depth include permutations and combinations, generating functions, recurrence relations, the principle of inclusion and exclusion, and the Fibonacci sequence and the harmonic series. Additional topics may include existence proofs, partitions, finite calculus, generating combinatorial objects, Polya theory, codes, probabilistic methods. 3 hrs. lec",
+      "prereqs" : "21-122 and (21-228 or 15-251)",
+      "coreqs" : "None" 
+    }

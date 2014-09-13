@@ -1,0 +1,8 @@
+  {
+      "name" : "Calculus II",
+      "number" : "21-112",
+      "units" : 10,
+      "description" : "Indefinite integral, definite integral and applications, techniques of integration, trigonometric functions, functions of several variables, partial derivatives, maximum-minimum problems, Lagrange multipliers, geometric series, Newton's method, applications. Successful completion of 21-111 and 21-112 entitles a student to enroll in any mathematics course for which 21-120 is a prerequisite. 3 hrs. lec., 2 hrs. rec.",
+      "prereqs" : "21-111",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Concepts of Mathematics",
+      "number" : "21-127",
+      "units" : 10,
+      "description" : "This course introduces the basic concepts, ideas and tools involved in doing mathematics. As such, its main focus is on presenting informal logic, and the methods of mathematical proof. These subjects are closely related to the application of mathematics in many areas, particularly computer science. Topics discussed include a basic introduction to elementary number theory, induction, the algebra of sets, relations, equivalence relations, congruences, partitions, and functions, including injections, surjections, and bijections. A prerequisite for 15-211. 3 hrs. lec., 2 hrs. rec.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

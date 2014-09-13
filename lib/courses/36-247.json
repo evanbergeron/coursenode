@@ -1,0 +1,8 @@
+  {
+      "name" : "Statistics for Lab Sciences",
+      "number" : "36-247",
+      "units" : 9,
+      "description" : "This course is a single-semester comprehensive introduction to statistical analysis of data for students in biology and chemistry. Topics include exploratory data analysis, elements of computer programming for statistics, basic concepts of probability, statistical inference, and curve fitting. In addition to two lectures, students attend a computer lab each week. Not open to students who have received credit for 36-201, 36-207/70-207, 36-220, or 36-226.",
+      "prereqs" : "21-120 or 21-121 or 21-112",
+      "coreqs" : "None" 
+    }

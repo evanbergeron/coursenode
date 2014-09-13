@@ -1,0 +1,8 @@
+  {
+      "name" : "Probability and Statistics for Business Applications",
+      "number" : "36-207",
+      "units" : 9,
+      "description" : "This is the first half of a year long sequence in basic statistical methods that are used in business and management. Topics include exploratory and descriptive techniques, probability theory, statistical inference in simple settings, basic categorical analysis, and statistical methods for quality control. Not open to students who have received credit for 36-201, 36-220, 36-625, or 36-247. Cross-listed as 70-207.",
+      "prereqs" : "21-112 or 21-120 or 21-121",
+      "coreqs" : "None" 
+    }

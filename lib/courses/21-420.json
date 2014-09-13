@@ -1,0 +1,8 @@
+  {
+      "name" : "Continuous-Time Finance",
+      "number" : "21-420",
+      "units" : 9,
+      "description" : "This course begins with Brownian motion, stochastic integration,and Ito's formula from stochastic calculus. This theory is used to develop the Black-Scholes option pricing formula and the Black-Scholes partial differential equation. Additional topics may include models of credit risk, simulation, and expected utility maximization. 3 hrs lec.",
+      "prereqs" : "(18-202 or 21-260) and 21-370 and (21-325 or 36-217 or 36-225)",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Foundations of Software Engineering",
+      "number" : "15-313",
+      "units" : 12,
+      "description" : "Students gain exposure to the fundamentals of modern software engineering. This includes both core CS technical knowledge and the means by which this knowledge can be applied in the practical engineering of complex software. Topics related to software artifacts include design models, patterns, coding, static and dynamic analysis, testing and inspection, measurement, and software architecture and frameworks. Topics related to software process include modeling, requirements engineering, process models and evaluation, team development, and supply chain issues including outsourcing and open source. This course has a strong technical focus, and will include both written and programming assignments. Students will get experience with modern software engineering tools.",
+      "prereqs" : "15-214",
+      "coreqs" : "None" 
+    }

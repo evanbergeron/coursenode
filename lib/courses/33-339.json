@@ -1,0 +1,8 @@
+  {
+      "name" : "Intermediate Electricity and Magnetism II",
+      "number" : "33-339",
+      "units" : 10,
+      "description" : "This course focuses on electro- and magnetodynamics. Topics include Faraday's Law of induction, electromagnetic field momentum and energy, Maxwell's equations and electromagnetic waves including plane waves, waves in non-conducting and conducting media, reflection and refraction of waves, and guided waves. Electromagnetic radiation theory includes generation and characteristics of electric and magnetic dipole radiation. The Special Theory of Relativity is applied to electrodynamics: electric and magnetic fields in different reference frames, Lorentz transformations, four-vectors, invariants, and applications to particle mechanics.",
+      "prereqs" : "33-338",
+      "coreqs" : "None" 
+    }

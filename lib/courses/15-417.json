@@ -1,0 +1,8 @@
+  {
+      "name" : "HOT Compilation",
+      "number" : "15-417",
+      "units" : 12,
+      "description" : "The course covers the implementation of compilers for higher-order, typed languages such as ML and Haskell, and gives an introduction to type-preserving compilation. Topics covered include type inference, elaboration, CPS conversion, closure conversion, garbage collection, phase splitting, and typed assembly language.",
+      "prereqs" : "15-312 or 15-317",
+      "coreqs" : "None" 
+    }

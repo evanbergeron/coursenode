@@ -1,0 +1,8 @@
+  {
+      "name" : "Humanoids",
+      "number" : "16-264",
+      "units" : 12,
+      "description" : "This course surveys perception, cognition, and movement in humans, humanoid robots, and humanoid graphical characters. Application areas include more human-like robots, videogame characters, and interactive movie characters.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

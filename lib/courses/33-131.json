@@ -1,0 +1,8 @@
+  {
+      "name" : "Matter and Interaction I",
+      "number" : "33-131",
+      "units" : 12,
+      "description" : "A more challenging alternative to 33-111, Physics for Science Students I. Students with particularly strong physics backgrounds may volunteer for this course. Modeling of physical systems, including 3D computer modeling, with emphasis on atomic-level description and analysis of matter and its interactions. Momentum, numerical integration of Newton's laws, ball-and-spring model of solids, harmonic oscillator, energy, energy quantization, mass-energy equivalence, multiparticle systems, collisions, angular momentum including quantized angular momentum, kinetic theory of gases, statistical mechanics (temperature, entropy, and specific heat of the Einstein solid, Boltzmann factor).",
+      "prereqs" : "None",
+      "coreqs" : "21-120" 
+    }

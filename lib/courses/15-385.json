@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Computer Vision",
+      "number" : "15-385",
+      "units" : 6,
+      "description" : "An introduction to the science and engineering of computer vision, i.e. the analysis of the patterns in visual images with the view to understanding the objects and processes in the world that generate them. Major topics include image formation and sensing, fourier analysis, edge and contour detection, inference of depth, shape and motion, classification, recognition, tracking, and active vision. The emphasis is on the learning of fundamental mathematical concepts and techniques and applying them to solve real vision problems. The discussion will also include comparison with human and animal vision from psychological and biological perspectives. Students will learn to think mathematically and develop skills in translating ideas and mathematical thoughts into programs to solve real vision problems.",
+      "prereqs" : "(18-202 and 15-122) or (21-259 and 15-122 and 21-241)",
+      "coreqs" : "None" 
+    }

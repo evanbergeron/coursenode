@@ -1,0 +1,8 @@
+  {
+      "name" : "Thermal Physics I",
+      "number" : "33-341",
+      "units" : 10,
+      "description" : "The three laws of classical thermodynamics, which deal with the existence of state functions for energy and entropy and the entropy at the absolute zero of temperature, are developed along phenomenological lines. Elementary statistical mechanics is then introduced via the canonical ensemble to understand the interpretation of entropy in terms of probability and to calculate some thermodynamic quantities from simple models. These laws are applied to deduce relationships among heat capacities and other measureable quantities and then are generalized to open systems and their various auxiliary thermodynamic potentials; transformations between potentials are developed. Criteria for equilibrium of multicomponent systems are developed and applied to phase transformations and chemical reactions. Models of solutions are obtained by using statistical mechanics and are applied to deduce simple phase diagrams for ideal and regular solutions. The concept of thermodynamic stability is then introduced and illustrated in the context of phase transformations.",
+      "prereqs" : "33-232 and 33-234",
+      "coreqs" : "None" 
+    }

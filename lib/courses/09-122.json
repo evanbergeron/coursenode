@@ -1,0 +1,8 @@
+  {
+      "name" : "Molecular Tools for Biological and Chemical Studies",
+      "number" : "09-122",
+      "units" : 6,
+      "description" : "The increased fluorescence of certain molecules, also known as dyes, can signal their binding to a specific biological target such as DNA. This phenomenon finds important application in the biological and medicinal field where dyes are used as molecular tools. For example, fluorescent dyes can be used to detect the expression of a gene; survival of cells; site of accumulation of a metabolite and many of them are used in diagnostics. This course is aimed at offering a hands-on laboratory experience in the interface of chemistry and biology, so called bioorganic chemistry. The student&#8217;s project will be to prepare a dye, thiazole orange, that will show increased fluorescence upon binding DNA or a protein, thus, signaling the binding event. A dye designed to prevent DNA binding will be tested alongside to highlight how molecular design works. Molecular size and geometry are important elements in the design of molecules that specifically bind biological targets; 3D molecular modeling software (freeware) and hand-held models will be used to analyze how these factors play a role in target-dye interaction.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Graph Theory",
+      "number" : "21-484",
+      "units" : 9,
+      "description" : "Graph theory uses basic concepts to approach a diversity of problems and nontrivial applications in operations research, computer science and other disciplines. It is one of the very few mathematical areas where one is always close to interesting unsolved problems. Topics include graphs and subgraphs, trees, connectivity, Euler tours and Hamilton cycles, matchings, graph colorings, planar graphs and Euler's Formula, directed graphs, network flows, counting arguments, and graph algorithms. 3 hrs. lec.",
+      "prereqs" : "(21-228 or 15-251) and (21-241 or 21-242)",
+      "coreqs" : "None" 
+    }

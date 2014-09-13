@@ -1,0 +1,8 @@
+  {
+      "name" : "Calculus II for Biologists and Chemists",
+      "number" : "21-124",
+      "units" : 10,
+      "description" : "This is intended as a second calculus course for biology and chemistry majors. It uses a variety of computational techniques based around the use of MATLAB or a similar system. In addition to major topics from calculus and linear algebra there is a substantial statistical component in the course. 3 hours lecture, 2 hours recitation. Prerequisite: 21-112 or 21-120.",
+      "prereqs" : "21-112 or 21-120",
+      "coreqs" : "None" 
+    }

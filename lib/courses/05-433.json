@@ -1,0 +1,8 @@
+  {
+      "name" : "User Interface Lab",
+      "number" : "05-433",
+      "units" : 9,
+      "description" : "None",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

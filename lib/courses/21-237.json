@@ -1,0 +1,8 @@
+  {
+      "name" : "Mathematical Studies Algebra I",
+      "number" : "21-237",
+      "units" : 10,
+      "description" : "An honors version of 21-373 Algebraic structures for students of greater aptitude and motivation. Abstract algebra is the study of algebraic systems by the axiomatic method, and it is one of the core areas of modern mathematics. This course is a rigorous and fast-paced introduction to the basic objects in abstract algebra. Topics to be covered include: Homomorphisms. Subgroups, cosets, Lagrange's theorem. Conjugation. Normal subgroups, quotient groups, first isomorphism theorem. Automorphisms, the automorphism group, characteristic subgroups. Group actions, Cauchy's Theorem, Sylow's theorem. Normalisers and centralisers, class equation, finite p-groups. Dihedral and alternating groups. The second and third isomorphism theorems. Simple groups, statement of Jordan-Holder theorem, semidirect product of groups. Subrings, ideals, quotient rings, first isomorphism theorem. Polynomial rings. Zorn's Lemma. Prime and maximal ideals, prime and irreducible elements. PIDs and UFDs. Noetherian domains. Hilbert Basis Theorem. Gauss' lemma. Eisenstein criterion. Field of fractions of an integral domain. k a field implies k[x] a PID, R a UFD implies R[x] a UFD. Finite fields and applications. 3 hrs. lec.",
+      "prereqs" : "21-127 and 21-269",
+      "coreqs" : "None" 
+    }

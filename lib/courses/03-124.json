@@ -1,0 +1,8 @@
+  {
+      "name" : "Modern Biology Laboratory",
+      "number" : "03-124",
+      "units" : 9,
+      "description" : "This laboratory is designed to introduce students to modern concepts in the biological sciences. The experiments illustrate many of the principles covered in 03-121 and 03-230. Experimentation using living organisms and/or their tissues, cells or molecules is an essential component of this course.",
+      "prereqs" : "None",
+      "coreqs" : "03-121" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Physical Mechanics I",
+      "number" : "33-331",
+      "units" : 10,
+      "description" : "Fundamental concepts of classical mechanics. Conservation laws, momentum, energy, angular momentum, Lagrange's and Hamilton's equations, motion under a central force, scattering, cross section, and systems of particles.",
+      "prereqs" : "33-232 and 21-259",
+      "coreqs" : "None" 
+    }

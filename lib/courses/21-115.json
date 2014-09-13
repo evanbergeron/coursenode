@@ -1,0 +1,8 @@
+  {
+      "name" : "Basic Differential Calculus",
+      "number" : "21-115",
+      "units" : 5,
+      "description" : "Functions, limits, derivatives, curve sketching, Mean Value Theorem, trigonometric functions, related rates, linear and quadratic approximations, maximum-minimum problems. Special summer program only.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

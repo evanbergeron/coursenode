@@ -1,0 +1,8 @@
+  {
+      "name" : "Computer Science Co-Op",
+      "number" : "15-075",
+      "units" : 0,
+      "description" : "Students who are interested in a Co-Op experience with an external employer typically do so in their Junior year. A Co-Op is distinguished from a summer internship in that it encompasses a summer and a contiguous semester, either Spring-Summer or Summer-Fall. A list of companies who are interested in hiring Co-Op students is available from the SCS Career Consultant at the Career Center. More information on the Computer Science Co-Op program is available at the CS Undergraduate Office.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

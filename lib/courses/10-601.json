@@ -1,0 +1,8 @@
+  {
+      "name" : "Machine Learning",
+      "number" : "10-601",
+      "units" : 12,
+      "description" : "Machine Learning (ML) attempts to design programs that automatically improve their performance through experience. This includes learning many types of tasks based on many types of experience, e.g. spotting high-risk medical patients, recognizing speech, classifying text documents, detecting credit card fraud, or driving autonomous robots. 10601 covers concept learning, version spaces, decision trees, neural networks, computational learning theory, active learning, estimation &amp; the bias-variance tradeoff, hypothesis testing, Bayesian learning, the MDL principle, the Gibbs classifier, Naive Bayes, Bayes Nets &amp; Graphical Models, the EM algorithm, Hidden Markov Models, K-Nearest-Neighbors and nonparametric learning, reinforcement learning, genetic algorithms, bagging and boosting. 10601 focuses on the mathematical, statistical and computational foundations of the field. It emphasizes the role of assumptions in machine learning. As we introduce different ML techniques, we work out together what assumptions are implicit in them. We use the Socratic method whenever possible; student participation is expected. Grading is based on weekly written assignments, biweekly programming assignments, midterm and final. Prerequisites: strong quantitative aptitude, college prob&amp;stats course, and programming proficiency (&gt;200 line programs). Recommended for CS Seniors &amp; Juniors, quantitative Masters students, &amp; non-ML PhD students. For learning to apply ML practically &amp; effectively, consider 11344/05834 instead.",
+      "prereqs" : "15-122 and 21-127",
+      "coreqs" : "21-325 or 15-359 or 36-225 or 36-217" 
+    }
