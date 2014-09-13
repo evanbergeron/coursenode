@@ -6,6 +6,35 @@
 
 var sys = arbor.ParticleSystem(200, 600, 0); // create the system with sensible repulsion/stiffness/friction
 
+function makeColor(course){
+  var courseDepartment = parseInt(course.number.slice(0,2));
+  var courseNumber = parseInt(course.number.slice(3,6));
+  //courseNumber = (250 - courseNumber / 2) % 255;
+  var greyScaleValue = courseNumber.toString(16);
+  var blue = (courseNumber + courseDepartment).toString(16);
+  return '#577492'
+  //return '#' + greyScaleValue.slice(0,2) + greyScaleValue.slice(0,2) + blue;
+}
+
+/*function makeTextColor(backgroundColor){
+  console.log(backgroundColor.slice(1,7));
+  var colorInt = parseInt(backgroundColor.slice(1,7), 16);
+  var blue = (colorInt) & 0xFF;
+  var green = (colorInt >> 4*2) & 0xFF;
+  var red = (colorInt >> 4*4) & 0xFF;
+  var magicValue = 1 - (0.299 * red + .587 * green + 0.144 * blue) / 255;
+
+  var d = 0;
+  if (magicValue < 0.5) {
+    d = 0 // bright colors - black font
+    return '#FFFFFF';
+  }
+  else {
+    d = 255 // dark colors - white font
+    return '#000000';
+  }
+}*/
+
 function addNodeWrapper(course){
     var nodeStruct = {
       'name':course.name,
@@ -14,9 +43,10 @@ function addNodeWrapper(course){
       'description':course.description,
       'prereqs':course.prereqs,
       'coreqs':course.coreqs,
-      'color':'orange'
+      'color':makeColor(course)
     };
-    sys.addNode(course.number, course);
+    // console.log(nodeStruct.description);
+    sys.addNode(course.number, nodeStruct);
         //Recursively add prereqs
         for (var i = 0; i < course.prereqs.length; i++){
             getCourseJSON(course.prereqs[i], addNodeWrapper);
@@ -156,7 +186,7 @@ function getCourseCoreqs(courseNumber, callback){
           var w = 50;
           var data = node.data;
           // ctx.fillStyle = (node.data.alone) ? "orange" : "black";
-          ctx.fillStyle = "#577492";
+          ctx.fillStyle = data.color; //makeColor(data); //"#577492";
           gfx.oval(pt.x-w/2, pt.y-w/2, w,w, {fill:ctx.fillStyle})
           // nodeBoxes[node.name] = [pt.x-w/2, pt.y-11, w, 22]
           // ctx.fillRect(pt.x-w/2, pt.y-w/2, w,w)
@@ -167,7 +197,14 @@ function getCourseCoreqs(courseNumber, callback){
           if (data){
             ctx.font = "12px Helvetica";
             ctx.textAlign = "center";
-            ctx.fillStyle = "#EFEFEF";
+            //ctx.fillStyle = makeTextColor(makeColor(data)); //"#EFEFEF";
+            if (parseInt(makeColor(data).slice(1,3), 16) > 128) {
+              ctx.fillStyle = "#EFEFEF";
+            }
+            else {
+              ctx.fillStyle = '#010101'
+            }
+            ctx.fillStyle = '#EFEFEF'
             ctx.fillText(data.number||"", pt.x, pt.y+4);
           }
         }) ;             
@@ -192,9 +229,17 @@ function getCourseCoreqs(courseNumber, callback){
 
             $(canvas).bind('mousemove', handler.dragged);
             $(window).bind('mouseup', handler.dropped);
-            console.log(dragged.node);
+            // console.log(dragged.node);
             updateSidebar(dragged.node.name);
+            console.log(dragged.node.data.color);
+            
+            if (dragged.node.data.color == 'orange') { 
+              sys.tweenNode(dragged.node, 0.5, {color: makeColor(dragged.node.data)})
+            }
+            else {
+              sys.tweenNode(dragged.node, 0.5,{color:'orange'})
 
+            }
             return false;
           },
           dragged:function(e){
