@@ -63,8 +63,19 @@
 
           // draw a rectangle centered at pt
           var w = 10
+          var name = node.data
           ctx.fillStyle = (node.data.alone) ? "orange" : "black"
-          ctx.fillRect(pt.x-w/2, pt.y-w/2, w,w)
+          // ctx.fillRect(pt.x-w/2, pt.y-w/2, w,w)
+          
+          ctx.clearRect(pt.x-w/2, pt.y-7, w, 14)
+
+          // draw the text
+          if (name){
+            ctx.font = "bold 11px Arial"
+            ctx.textAlign = "center"
+            ctx.fillStyle = "#888888"
+            ctx.fillText(name||"", pt.x, pt.y+4)
+          }
         })              
       },
       
@@ -129,10 +140,16 @@
     sys.renderer = Renderer("#viewport") // our newly created renderer will have its .init() method called shortly by sys...
 
     // add some nodes to the graph and watch it go...
+    var courses = ['15150','15213','21301'];
+    for (i = 0; i < 3; i++) {
+        sys.addNode(courses[i], courses[i]);
+        sys.addEdge('b',courses[i]);
+    }
     sys.addEdge('a','b')
     sys.addEdge('a','c')
     sys.addEdge('a','d')
     sys.addEdge('a','e')
+    sys.addEdge('a','f')
     // sys.addNode('f', {alone:true, mass:.25})
 
     // or, equivalently:
