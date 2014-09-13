@@ -7,7 +7,16 @@
 var sys = arbor.ParticleSystem(200, 600, 0); // create the system with sensible repulsion/stiffness/friction
 
 function addNodeWrapper(course){
-    sys.addNode(course.number, course.number);
+    var nodeStruct = {
+      'name':course.name,
+      'number':course.number,
+      'units':course.units,
+      'description':course.description,
+      'prereqs':course.prereqs,
+      'coreqs':course.coreqs,
+      'color':'orange'
+    };
+    sys.addNode(course.number, course);
         //Recursively add prereqs
         for (var i = 0; i < course.prereqs.length; i++){
             getCourseJSON(course.prereqs[i], addNodeWrapper);
@@ -145,7 +154,7 @@ function getCourseCoreqs(courseNumber, callback){
 
           // draw a rectangle centered at pt
           var w = 50;
-          var name = node.data;
+          var data = node.data;
           // ctx.fillStyle = (node.data.alone) ? "orange" : "black";
           ctx.fillStyle = "#577492";
           gfx.oval(pt.x-w/2, pt.y-w/2, w,w, {fill:ctx.fillStyle})
@@ -155,11 +164,11 @@ function getCourseCoreqs(courseNumber, callback){
           // ctx.clearRect(pt.x-w/2, pt.y-7, w, 14);
 
           // draw the text
-          if (name){
+          if (data){
             ctx.font = "12px Helvetica";
             ctx.textAlign = "center";
             ctx.fillStyle = "#EFEFEF";
-            ctx.fillText(name||"", pt.x, pt.y+4);
+            ctx.fillText(data.number||"", pt.x, pt.y+4);
           }
         }) ;             
       },
@@ -183,6 +192,8 @@ function getCourseCoreqs(courseNumber, callback){
 
             $(canvas).bind('mousemove', handler.dragged);
             $(window).bind('mouseup', handler.dropped);
+            console.log(dragged.node);
+            updateSidebar(dragged.node.name);
 
             return false;
           },
