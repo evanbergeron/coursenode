@@ -1,0 +1,8 @@
+  {
+      "name" : "Software Documentation",
+      "number" : "76-474",
+      "units" : 9,
+      "description" : "This course teaches best practices for creating software documentation for both internal audiences (use cases, requirements specifications) and end users (online help, user guides). You will learn the importance quality documentation plays in the success of a product and the user's experience, and the importance of understanding (and meeting) that user's needs. The course emphasizes quality task-oriented writing and focuses on the basic skills needed to educate and guide users, while introducing important industry trends like topic-based authoring, single sourcing and reuse, and DITA. Students will complete a series of short homework assignments and several larger projects to reinforce the principles and provide experience in all phases of creating software documentation, including peer review. Readings and published documentation examples will provide a bridge between theory and practice. No textbook required, but students may be required to purchase necessary software (a DITA editor).",
+      "prereqs" : "76-271 or 76-270",
+      "coreqs" : "None" 
+    }

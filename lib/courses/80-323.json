@@ -1,0 +1,8 @@
+  {
+      "name" : "Philosophy of Biology",
+      "number" : "80-323",
+      "units" : 9,
+      "description" : "This course will examine a range of foundational problems in evolutionary biology, as well as the implications of evolutionary biology for some basic topics in philosophy. Issues to be discussed include the meanings and roles of a variety of central concepts (such as species, fitness, function and adaptation) and controversies over adaptationism, genetic information, units of selection and the evolutionary explanation of human behavior. This course will be accessible both to philosophers interested in the epistemological and metaphysical status of evolutionary biology, and to biologists interested in better understanding the foundations of their field. Although there are no formal prerequisites for this course, students will be expected to have taken courses in either philosophy or biology.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

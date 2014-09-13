@@ -1,0 +1,8 @@
+  {
+      "name" : "Philosophy of Social Science",
+      "number" : "80-221",
+      "units" : 9,
+      "description" : "This course will explore various philosophical issues germane to social science. The central question of the course asks whether we can use traditional scientific tools to understand social phenomena, e.g. wars and religions, in the same way that we use them to understand natural phenomena, e.g. gases, lasers and planetary orbits. Some of the more specific questions we address: Because humans possess free will and act with intentions while light rays and planets in motion do not, are we forced to use logically different species of explanations in the two cases? How can we explain social institutions that depend upon cooperation? Whereas natural scientists actively conduct experiments, social scientists can often only collect statistical data. Does this difference prevent social scientists from inferring causal relations? Is our understanding of social phenomena always value laden?.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

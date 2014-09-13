@@ -1,0 +1,8 @@
+  {
+      "name" : "Human Memory",
+      "number" : "85-390",
+      "units" : 9,
+      "description" : "Without memory, peope would barely be able to function: we could not be able to communication because we would not be able to remember meanings or words, nor what anyone said to us; we could have no friends because everyone would be a stranger (no memory of meeting anyone); we could have no sense of self because we could not remember anything about ourselves either; we could not predict anything about the future because we would have no recollections of the past; we would not know how to get around, because we would have no knowledge of the environment. This course will discuss issues related to memory at all levels: the sensory registers, i.e., how we perceive things; working or short-term memory; long-term memory or our knowledge base. We will discuss the differences between procedural/skill knowledge, and declarative/fact knowledge. The topics of memory monitoring, feeling and knowing, spread of activation within memory (priming), implicit memory, and amnesia will also be covered.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

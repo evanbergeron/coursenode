@@ -1,0 +1,8 @@
+  {
+      "name" : "Cognitive Psychology",
+      "number" : "85-211",
+      "units" : 9,
+      "description" : "How do people perceive, learn, remember, and think? This course will consider perception, language, attention, learning, memory, reasoning, and decision making. Experimental findings and formal models will be discussed in each part of the course.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

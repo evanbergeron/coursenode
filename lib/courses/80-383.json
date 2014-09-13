@@ -1,0 +1,8 @@
+  {
+      "name" : "Language in Use",
+      "number" : "80-383",
+      "units" : 9,
+      "description" : "Why is it so hard to get computers to chat? The reason is that when we have an ordinary, casual conversation we do a great deal more than merely exchange information which is directly encoded in language. We also recognize what our interlocutors intend to accomplish with their utterances; we use and recognize utterances with indirect meanings, as well as metaphors, jokes and irony; we fill in incomplete or underspecified meanings; and we determine what kinds of responses are desired and appropriate. We do all of this in part on the basis of linguistic knowledge, but also making use of implicit reasoning about speaker plans and intentions, and relying on implicit assumptions about normal conversational behavior. In this course, we investigate language in use, taking the approach developed within the linguistic sub-field of pragmatics. We focus on three related issues: First, we look at how language is used to do things, studying both the traditional theory of speech acts and a more contemporary approach. Second, we look at expressions whose function is primarily interactional. Finally, and most extensively, we examine how speakers can successfully express meanings that go beyond what is encoded by the linguistic forms that they use. The course is open to students at the sophomore level and above.",
+      "prereqs" : "80-100 or 80-180",
+      "coreqs" : "None" 
+    }

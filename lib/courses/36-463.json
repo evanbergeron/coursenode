@@ -2,7 +2,7 @@
       "name" : "Multilevel and Hierarchical Models",
       "number" : "36-463",
       "units" : 9,
-      "description" : "Multilevel and hierarchical models are among the most broadly applied "sophisticated" statistical models, especially in the social and biological sciences. They apply to situations in which the data "cluster" naturally into groups of units that are more related to each other than they are the rest of the data. In the first part of the course we will learn about Bayesian statistical methods. In the second part we will relate multilevel and hierarchical models to other areas of statistics, and in the third part of the course we will build and apply these models using a variety of data sets and examples. Prerequisites: 36-401 (C or better).",
+      "description" : "Multilevel and hierarchical models are among the most broadly applied 'sophisticated' statistical models, especially in the social and biological sciences. They apply to situations in which the data 'cluster' naturally into groups of units that are more related to each other than they are the rest of the data. In the first part of the course we will learn about Bayesian statistical methods. In the second part we will relate multilevel and hierarchical models to other areas of statistics, and in the third part of the course we will build and apply these models using a variety of data sets and examples. Prerequisites: 36-401 (C or better).",
       "prereqs" : "36-401 (C or better)",
       "coreqs" : "None" 
     }

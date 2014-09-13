@@ -1,0 +1,8 @@
+  {
+      "name" : "Undecidability and Incompleteness",
+      "number" : "80-311",
+      "units" : 9,
+      "description" : "The course focuses on two central problems of mathematical logic: the undecidability of predicate logic (established by Church and Turing) and the incompleteness of formal theories (discovered by G&#246;del for theories that contain a modicum of set or number theory). The solutions of these problems involve the concept of computation that turned out to be fundamental for computer science, but also cognitive science. We first discuss predicate logic and systematic ways of constructing proofs; that is followed by the formal development of elementary set theory. The concept of Turing machine computation is introduced and shown to be equivalent to the concept of recursive function. That provides the mathematical, methodologically adequate tools for establishing the results mentioned above. The mathematical and computational notions and results are among the most significant contributions of logic, not just to the solution of internal logical questions and to the foundations of computer science, but also to (the beginnings of) a deeper understanding of the human mind and mental processes.",
+      "prereqs" : "80-210 or 80-211 or 21-300 or 80-310 or 15-251",
+      "coreqs" : "None" 
+    }

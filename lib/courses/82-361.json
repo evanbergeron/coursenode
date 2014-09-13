@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Italian Culture",
+      "number" : "82-361",
+      "units" : 9,
+      "description" : "This is a course in Italian culture and conversation with a streamlined review of grammar. The course deals with the social, political, economic, demographic and cultural issues of contemporary Italy. At the same time links are drawn between past and present, evidencing the importance of tradition and history in Italian society. The course will be conducted in Italian with occasional English. Prerequisite or permission of the instructor.",
+      "prereqs" : "82-262",
+      "coreqs" : "None" 
+    }

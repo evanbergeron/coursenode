@@ -1,0 +1,8 @@
+  {
+      "name" : "Structure of Chinese",
+      "number" : "82-334",
+      "units" : 9,
+      "description" : "This is an upper-level Chinese course for students who have reached intermediate level of Chinese. It aims at helping students to further develop and refine their Chinese speaking and writing skills. This course will deal with major structural phenomena in Modern Chinese through the study of sample texts. Special emphasis will be given to high frequent errors and individual weaknesses on particular problematic elements and sentence structures that are common among non-native Chinese speakers. After the study of this class, students are expected to have a more comprehensive and systematic understanding of the structure of the language, which will help them lay a solid foundation for their language proficiency. Prerequisite or approved equivalent.",
+      "prereqs" : "82-232 or 82-235",
+      "coreqs" : "None" 
+    }

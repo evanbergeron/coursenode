@@ -1,0 +1,8 @@
+  {
+      "name" : "Pragmatism",
+      "number" : "80-255",
+      "units" : 9,
+      "description" : "American Pragmatism represents an energetic attempt to bridge the divergent cultures of science and the humanities. The movement's founder, C.S. Peirce, was trained in chemistry and worked as a physicist, but he was also deeply concerned with the contemporary philosophical portrayal of science, which distinguished sharply between theoretical knowledge and practice. Peirce responded by constructing a comprehensive philosophy emphasizing the scientific importance of community, fallibility, and action. Pragmatism was also developed and vigorously popularized by William James, who aspired to be a painter and ended up as an acknowledged founder of modern empirical psychology. James extended Peirce's position by defending the role of values in even the purest of empirical sciences. John Dewey, who is also well-known for his role in education, interpreted science as an evolving social system and developed a theory of aesthetics based on what we now call the psychology of problem solving. The pragmatists made and continue to make lasting contributions to modern statistics, logic, and social science and their emphases on community, fallibility, action, and value in science are still of primary importance in philosophy and in the ongoing dialogue between the scientific and humanistic cultures.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

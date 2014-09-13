@@ -1,0 +1,8 @@
+  {
+      "name" : "Music and Mind: The Cognitive Neuroscience of Sound",
+      "number" : "85-356",
+      "units" : 9,
+      "description" : "This course will take a multidisciplinary approach to understand the neural systems that contribute to auditory perception and cognition, using music and speech as domains of inquiry. Students will master topics in acoustics, psychophysics, cognitive psychology, cognitive development, neurophysiology, and neuropsychology. The early part of the course will provide students with a common foundation in acoustics, signal processing, and auditory neuroscience. Later in the semester, the focus will turn to developing analytical skills through critical evaluation of primary-source experimental literature. Hands-on laboratories and homework sets in sound manipulation and experimentation also will constitute a means of learning about auditory cognitive neuroscience. Throughout, the focus will be upon understanding general cognitive and perceptual challenges in perceiving and producing complex sounds like speech and music. Topics may include biological vs. cultural influences, development in infancy, perception versus production, time perception, effects of experience on perceptual processing, comparative studies of animals, attention, development of expertise, effects of brain damage, and emotional expression. Topics will be addressed from the perspective of cognitive neuroscience, in that we will attempt to understand the neural processes that give rise to auditory perception and cognition.",
+      "prereqs" : "(85-370 or 85-219 or 85-211) and (85-320 or 85-310 or 85-340)",
+      "coreqs" : "None" 
+    }

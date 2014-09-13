@@ -1,0 +1,8 @@
+  {
+      "name" : "Kant",
+      "number" : "80-351",
+      "units" : 9,
+      "description" : "None",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

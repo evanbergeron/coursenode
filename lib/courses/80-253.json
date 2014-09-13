@@ -1,0 +1,8 @@
+  {
+      "name" : "Continental Philosophy",
+      "number" : "80-253",
+      "units" : 9,
+      "description" : "This course provides students with an overview of key historical and philosophical movements in European Philosophy. The cultural and historical background for 20th Century Continental Philosophy covers Descartes, Kant, Kierkegaard, and Nietzsche (Hegel and Marx are also options). Early to mid-20th Century Continental Philosophy covers the central tenets of phenomenology and existentialism (e.g., intentionality, Being-in-the-World, Bad Faith). This part will involve selections from the works of, for example, Husserl, Heidegger, Sartre and Merleau-Ponty. Finally, cultural and philosophical trends such as Structuralism, Hermeneutics and Post-modernism (e.g., Derrida, Foucault, Lyotard and Habermas) will be addressed.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

@@ -2,7 +2,7 @@
       "name" : "Noisy Signal Representation and Processing",
       "number" : "18-391",
       "units" : 12,
-      "description" : "Please refer to the ECE webpage for a full description of this course. <a href="http://www.ece.cmu.edu/courses/18391">http://www.ece.cmu.edu/courses/18391</a>",
+      "description" : "Please refer to the ECE webpage for a full description of this course. <a href='http://www.ece.cmu.edu/courses/18391'>http://www.ece.cmu.edu/courses/18391</a>",
       "prereqs" : "18-202 and 36-217 and (18-396 or 18-290)",
       "coreqs" : "None" 
     }

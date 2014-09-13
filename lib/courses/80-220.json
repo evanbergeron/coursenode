@@ -1,0 +1,8 @@
+  {
+      "name" : "Philosophy of Science",
+      "number" : "80-220",
+      "units" : 9,
+      "description" : "In this course, we will examine some historical case studies (e.g., the Copernican revolution in astronomy) against which we will assess views pertaining to the significance, justification, and production of scientific knowledge. For example, should scientific theories be understood literally or as computational devices for deriving new predictions? How can universal conclusions ever be justified by a finite data set? Does explanation contribute to a theory's confirmation by the evidence? Does science aim to find the truth? Is probability in the world or only in our minds? Is explanation a matter of finding causes or are causes whatever it is that explains? Is scientific rationality objective or culture-relative?.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

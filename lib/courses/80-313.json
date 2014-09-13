@@ -1,0 +1,8 @@
+  {
+      "name" : "Philosphical Logic",
+      "number" : "80-313",
+      "units" : 9,
+      "description" : "A survey of the areas of logic that every philosophical logician must know, most philosophers should know, and any philosophy student may wish to know: modal logic, epistemic, dynamic, deontic, and temporal logics, intuitionistic logic, higher-order logic, constructive logic and type theory, relevance logic, conditionals, Kripke semantics, Scott-Montague Semantics, probabilistic semantics and others. In various cases we will discuss recent work including unpublished papers and book drafts. We will consider both the formal details and the philosophical adequacy of the various surveyed formalisms. Prerequisites: 80-310 or equivalent.",
+      "prereqs" : "80-310 or equivalent",
+      "coreqs" : "None" 
+    }

@@ -1,7 +1,45 @@
+//
 //  main.js
 //
 //  A project template for using arbor.js
 //
+
+function getCourseJSON(courseNumber){
+    console.log("hello");
+    $.getJSON("./lib/courses/" + courseNumber + ".json", function (course){
+        return course;
+    });
+}
+ 
+function getCourseName(courseNumber){
+    var course = getCourseJSON(courseNumber);
+    return course.name;
+}
+ 
+function getCourseNumber(courseNumber){
+    var course = getCourseJSON(courseNumber);
+    return course.number;
+}
+ 
+function getCourseUnits(courseNumber){
+    var course = getCourseJSON(courseNumber);
+    return course.units;
+}
+ 
+function getCourseDescription(courseNumber){
+    var course = getCourseJSON(courseNumber);
+    return course.description;
+}
+ 
+function getCoursePrereqs(courseNumber){
+    var course = getCourseJSON(courseNumber);
+    return course.name
+}
+ 
+function getCourseCoreqs(courseNumber){
+    var course = getCourseJSON(courseNumber);
+    return course.name
+}
 
 (function($){
 
@@ -140,13 +178,30 @@
     sys.renderer = Renderer("#viewport") // our newly created renderer will have its .init() method called shortly by sys...
 
     // add some nodes to the graph and watch it go...
-    var courses = ['15150','15122','15112'];
-    //sys.addNode(courses[i], courses[i]);
-    //sys.addEdge(courses[i], courses[2]);
-    $.getJSON("lib/courses/21-127.json",function(result){
-       alert(result["number"]);
-    });
 
+    var courses = ['15150','15122','15112'];
+
+    // Tried to do stuff with button
+    $('#goButton').click(function(){
+      var entryItem = $('#entry').val()
+      // var description = getCourseDescription(entryItem);
+      // console.log(description);
+      $.getJSON("lib/courses/" + entryItem + ".json",function(result){
+        sys.addNode(result.number, result.number);
+      });
+    })
+    $.getJSON("lib/courses/21-127.json",function(course){
+       console.log(course);
+       sys.addNode(course.number,course.number);
+    });
+    $.getJSON("lib/courses/15-112.json",function(course){
+       sys.addNode(course.number,course.number);
+    });
+    $.getJSON("lib/courses/15-251.json",function(course){
+       sys.addNode(course.number,course.number);
+    });
+    sys.addEdge('15-112','15-251');
+    sys.addEdge('21-127','15-251');
     // sys.addNode('f', {alone:true, mass:.25})
 
     // or, equivalently:
@@ -163,9 +218,21 @@
     //     }
     //   }
     // })
-    
-  })
 
+
+  });
   
-
 })(this.jQuery)
+
+/*function addUsersNode(){
+  var sys = arbor.ParticleSystem(1000, 600, 0.5) // create the system with sensible repulsion/stiffness/friction
+  sys.parameters({gravity:true}) // use center-gravity to make the graph settle nicely (ymmv)
+  sys.renderer = Renderer("#viewport") // our newly created renderer will have its .init() method called shortly by sys...
+
+  var entryItem = $('#entry').val()
+  alert(entryItem)
+  $.getJSON("lib/courses/" + entryItem + ".json",function(result){
+      sys.addNode(result["number"],result["number"]);
+  });
+  return
+}*/

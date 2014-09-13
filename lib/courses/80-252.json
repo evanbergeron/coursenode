@@ -1,0 +1,8 @@
+  {
+      "name" : "Kant",
+      "number" : "80-252",
+      "units" : 9,
+      "description" : "Immanuel Kant's 'Critical philosophy' may be seen as the result of his attempts to determine the sources of human knowledge, and to find metaphysical foundations for Newton's mechanics. This course will involve readings in Kant's /Critique of Pure Reason/ and other texts. Emphasis will be placed on understanding Kant's thought in the context of contemporary intellectual developments and on his theory of human cognition.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

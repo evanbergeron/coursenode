@@ -1,0 +1,8 @@
+  {
+      "name" : "Patterns of Engish Usage",
+      "number" : "76-452",
+      "units" : 9,
+      "description" : "Patterns of English Usage is for both graduate and undergraduate students a research course. This means that for all students there is an emphasis on carrying out investigations at first hand and reporting your results. The course is intended to provide experience in recovering data on patterns of English usage from a corpus. It is an introduction to 'corpus linguistics,' a set of techniques for studying the distribution of words and phrases as they are actually used in discourse (as opposed to how we might think or imagine they are used without reference to texts). Corpus linguistics is a new field. It incorporates methods and concepts that have only become possible since the advent of large-scale data storage and high-speed search software. It challenges normative grammar by asking whether we are entitled to say that words and phrases have dictionary meanings that are distinct from their uses in discourse. It takes grammar away from authorities and places it in the mouths and pens of users of the language. We will be using the Cobuild (Collins/Birmingham University International Linguistic Database) corpus. By the end of the semester you will have learned the conventions for entering a well-formed Cobuild query, including various wildcard and category-dependent searches, and some elementary corpus concepts such as 'collocation' and 'transitional probability.' You will also have learned about some aspects of conventional approaches to English grammar (structural grammar, generative grammar) with which to compare and contrast the corpus approach.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

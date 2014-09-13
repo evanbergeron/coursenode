@@ -1,0 +1,8 @@
+  {
+      "name" : "Philosophy of Physics",
+      "number" : "80-322",
+      "units" : 9,
+      "description" : "Philosophical problems in the development of modern physics. Topics include the philosophical significance of Einstein's theory of relativity, interpretations of quantum mechanics, and the relationship between these two theories. Other topics may include the philosophy of space and time, the epistemology of geometry, the significance of modern cosmology, and chaos theory.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Intermediate Chinese II",
+      "number" : "82-232",
+      "units" : 12,
+      "description" : "This is the second semester of Intermediate Chinese, a continuation of the Elementary Chinese course for beginning Chinese students. It aims at helping students expand their vocabulary and knowledge of grammar of the Chinese language by learning more new words, expressions and sentence patterns needed for everyday communication and by consolidating their knowledge through oral and written practice in and out of class. In this course, students will participate in classroom discussions in Mandarin Chinese on various topics concerning everyday life and study and learn to write short paragraphs on those topics in Chinese characters. Different aspects of Chinese culture will also be introduced throughout the course through audio and video tapes, lectures and discussions. Prerequisite or permission of the instructor.",
+      "prereqs" : "82-231",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Phonetics and Phonology",
+      "number" : "80-282",
+      "units" : 9,
+      "description" : "This course seeks to describe the sounds of human languages in a linguistically relevant fashion. The challenge is that at a sheer physical level, every speech sound is different than every other speech sound. This is true within the speech of an individual, between sounds produced by different speakers of the same dialect, and across dialects within a language. Still, some sounds are considered by speakers to be the same as other sounds, and this is a crucial property, making spoken language possible. On the flip side, sounds must also be recognized as different from each other. This is the phonological concept of contrast and without it, sounds could not be combined together as morphemes to carry meaning. In this course students get hands-on practice in describing sounds in articulatory and acoustic terms (how they are made and what their physical properties are) and in using these descriptions to study the phonological systems of contrast within languages. We look at earlier attempts to devise such phonological systems, and conclude with the study of modern optimality theory. In optimality theory, contrast and sameness are captured in terms of an input-output device which selects the most optimal candidate faithful enough to the requirements of contrast.",
+      "prereqs" : "80-180",
+      "coreqs" : "None" 
+    }

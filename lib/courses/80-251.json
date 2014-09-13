@@ -1,0 +1,8 @@
+  {
+      "name" : "Modern Philosophy",
+      "number" : "80-251",
+      "units" : 9,
+      "description" : "Descartes' project to doubt all received knowledge and begin from scratch marked the beginning of an intellectual upheaval, helping to launch what is now called the Modern period of philosophical thought; the Western world is today the heir of modernism. Locke, Leibniz, Hume, and Kant are several of the most important figures of this period. We will examine works of these thinkers, exploring both the new sorts of questions that these philosophers raised and their new methods of doing philosophy, which together mark a fundamental break with the traditions that preceded them. We will devote special attention to the new theories of knowledge they proposed. The philosophical revolution of the 17th and 18th centuries occurred during a time of great scientific progress and political upheaval in Europe; as part of our course we will consider the relation of certain of these developments to the new questions and methods of the modern philosophers.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

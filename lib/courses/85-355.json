@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Cognitive Neuroscience",
+      "number" : "85-355",
+      "units" : 9,
+      "description" : "Cognitive neuroscience is an emerging interdisciplinary field in which psychological, physiological, and computational methodologies are brought to bear in understanding the neural basis of cognitive processes. In this course, we will consider the application of methodologies such as physiological recordings from neurons in awake, behaving animals, functional neuroimaging (PET and fMRI) of normal subjects performing cognitive tasks, behavioral studies of brain-injured patients with selective cognitive deficits, and computational modeling of normal and impaired processing, in understanding cognitive domains such as high-level vision and attention, learning and memory, reading and language, meaning and semantics, and the organization and control of action. In each instance, the emphasis will be on how the application of converging methodologies, particularly those related to brain organization and function, leads to important insights into the nature of cognitive processes that would be difficult to obtain through any one conventional methodology alone.",
+      "prereqs" : "85-211 or 85-219",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "Psychology of Gender",
+      "number" : "85-446",
+      "units" : 9,
+      "description" : "This course is devoted to the investigation of psychological gender rather than biological sex. That is, sex differences will be explored from a social psychological (e.g., socialization) perspective. Implications of both male gender role and female gender role in the areas of relationships and health will be the course focus.",
+      "prereqs" : "85-251 or 85-241",
+      "coreqs" : "None" 
+    }

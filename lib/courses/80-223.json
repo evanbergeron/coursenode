@@ -1,0 +1,8 @@
+  {
+      "name" : "Philosophy of Economics",
+      "number" : "80-223",
+      "units" : 9,
+      "description" : "None",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

@@ -1,0 +1,8 @@
+  {
+      "name" : "South Asian Literature",
+      "number" : "76-354",
+      "units" : 9,
+      "description" : "Topics vary by semester. Please consult the English Department for the most current description. Example, Fall 2011: This course focuses on twentieth-century literature written in English from India, Pakistan and other parts of South Asia, as well as by people of South Asian origin. The course will begin by looking at literary representations that portray the struggle for decolonization and the trauma of partition. As we move forward to the contemporary period, we will examine the competing aesthetics of social and magical realism. We will then look back at India from the perspective of the diaspora, considering themes of identity, immigration and globalization from the perspective of South Asians writing in Britain and the United States. Texts might include works by Rabindranath Tagore, Saadat Hasan Manto, Mahasweta Devi, Salman Rushdie, Hanif Kureishi, Amitav Ghosh, Aravind Adiga, Romesh Gunesekera, Chitra Banerjee Divakaruni and Jhumpa Lahiri.",
+      "prereqs" : "76-101",
+      "coreqs" : "None" 
+    }

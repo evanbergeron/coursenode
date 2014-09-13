@@ -2,7 +2,7 @@
       "name" : "Statistical Computing",
       "number" : "36-350",
       "units" : 9,
-      "description" : "Statistical Computing: An introduction to computing targeted at statistics majors with minimal programming knowledge. The main topics are core ideas of programming (functions, objects, data structures, flow control, input and output, debugging, logical design and abstraction), illustrated through key statistical topics (exploratory data analysis, basic optimization, linear models, graphics, and simulation). The class will be taught in the R language. No previous programming experience required. Pre-requisites: (36-202 or 36-208), plus ("computing at Carnegie Mellon" or consent of instructor).",
+      "description" : "Statistical Computing: An introduction to computing targeted at statistics majors with minimal programming knowledge. The main topics are core ideas of programming (functions, objects, data structures, flow control, input and output, debugging, logical design and abstraction), illustrated through key statistical topics (exploratory data analysis, basic optimization, linear models, graphics, and simulation). The class will be taught in the R language. No previous programming experience required. Pre-requisites: (36-202 or 36-208), plus ('computing at Carnegie Mellon' or consent of instructor).",
       "prereqs" : "36-208 or 36-202 or 70-20",
       "coreqs" : "36-225" 
     }

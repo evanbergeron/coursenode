@@ -1,0 +1,8 @@
+  {
+      "name" : "Intermediate Japanese I",
+      "number" : "82-271",
+      "units" : 12,
+      "description" : "This course is the first part of a two-semester course sequence (82-271, 82-272). It takes an integrated approach to the study of Japanese language and culture, consisting of grammar review, reading, and intensive practice in written and spoken Japanese. Course materials include authentic audiovisual and written texts on top of the assigned textbooks. Also integrated are cultural explorations through direct interactions with native speakers. Four hours of in-class instruction per week, plus mandatory homework assignments. Prerequisites or approved equivalent.",
+      "prereqs" : "82-172",
+      "coreqs" : "None" 
+    }

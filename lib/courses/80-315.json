@@ -1,0 +1,8 @@
+  {
+      "name" : "Modal Logic",
+      "number" : "80-315",
+      "units" : 9,
+      "description" : "This course is an introduction to first-order modal logic. After a thorough grounding in propositional normal modal logic, which covers rudimentary modal model theory (invariance results, the relationship between modal and first-order logic, the finite model property, and notions of modal model equivalence), soundness, completeness, and basic decidability results, several interpretations and applications of normal modal logics are considered. Modal languages are simple languages for talking about relational structures, with several applications appearing in philosophy, computer science, and linguistics. Some examples the course may touch upon include temporal and epistemic logics, multi-agent systems, finite parse trees, labeled transition systems, among others. In the last part of the course we will consider extensions of the Kripke models to interpret first-order modal languages, and close with the more general still Scott-Montague models of 'classical' modal logic and extend those to first-order modal languages.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

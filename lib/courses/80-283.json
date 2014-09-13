@@ -1,0 +1,8 @@
+  {
+      "name" : "Syntax and Discourse",
+      "number" : "80-283",
+      "units" : 9,
+      "description" : "This course builds on and expands the basic syntactic analysis skills learned in 80-180 Nature of Language, and applies them to an exploration of the ways in which syntactic structure can be manipulated in different languages to reflect the status of content as old or new, foregrounded or backgrounded, connected to ongoing discourse or not. More generally, the course provides an examination of the interaction between syntactic structure and discourse structure, with reference to English and other languages. The course will begin with review of the basic syntax from Nature of Language (head/argument structure, constituency tests, complement/adjunct distinction) and will then develop this basic syntactic theory further, based on analysis of declarative sentences in English and one other language. We will then begin the analysis of manipulations of basic sentence structure such as fronting, left- and right- dislocation, clefting and passivization, exploring in parallel the syntactic description of such structures and their semantic/pragmatic functions, using appropriate theoretical concepts. The course will provide students with tools to reason about and represent syntactic structure, and to accurately characterize the discourse-related properties of different sentence types. Prerequisite: 80-180",
+      "prereqs" : "80-18",
+      "coreqs" : "None" 
+    }

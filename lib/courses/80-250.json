@@ -1,0 +1,8 @@
+  {
+      "name" : "Ancient Philosophy",
+      "number" : "80-250",
+      "units" : 9,
+      "description" : "This course will cover Ancient Greek philosophy from the pre-Socratics to the later Hellenistic writers. We will prepare the background for Socrates and Plato by tracing the various historical and intellectual movements that led up to and through the flourishing and downfall of Periclean Athens. A study of Socrates (as represented in Aristophanes' comedy and Plato's early dialogues) will lead to an in-depth reading of Plato's Gorgias, Symposium and sections of the Republic. We will approach Aristotle through his 'practical philosophy' as presented in the Nicomachean Ethics. The final sections will discuss the Epicurean, Skeptic, and Stoic movements as well as the work of Cicero. Excerpts from other works of Plato and Aristotle as well as Martha Nussbaum's recent work on Aristotle and Hellenistic philosophy will accompany selected parts of the course.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

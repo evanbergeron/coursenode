@@ -1,0 +1,8 @@
+  {
+      "name" : "Linguistics of Germanic Languages",
+      "number" : "80-382",
+      "units" : 9,
+      "description" : "In this course we will look at phonology and syntax within a single language family, Germanic. The Germanic languages include English, Dutch, Frisian, German, Pennsylvanisch, Afrikaans, Yiddish, Icelandic and the Scandinavian languages, excluding Finnish. Similarities and differences in the sound systems of these closely related languages will be studied, and we will also look comparatively at various syntactic structures, including noun phrases, verb complements, main and relative clauses, as well as mood and modality. The approach is student-centered, with groups of students concentrating on topics in a few most-closely related languages. The course will provide an extended case-study for application of concepts and analytical strategies taught in Nature of Language, Phonetics and Phonology, Linguistic Analysis, and other relevant courses. The approach should also help bring out the relevance of diachronic factors in the synchronic study of language, with historical forms of English being open to investigation, as these often reflect patterns found in contemporary Germanic languages.",
+      "prereqs" : "80-180",
+      "coreqs" : "None" 
+    }

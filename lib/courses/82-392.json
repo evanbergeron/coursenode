@@ -1,0 +1,8 @@
+  {
+      "name" : "Advanced Russian II",
+      "number" : "82-392",
+      "units" : 9,
+      "description" : "The second part of a two-semester course sequence Prerequisite or approved equivalent.",
+      "prereqs" : "82-391",
+      "coreqs" : "None" 
+    }

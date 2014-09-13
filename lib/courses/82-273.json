@@ -1,0 +1,8 @@
+  {
+      "name" : "Introduction to Japanese Language and Culture",
+      "number" : "82-273",
+      "units" : 9,
+      "description" : "This course is an introduction to modern Japanese. Given the close link between the Japanese language and culture, the examination of the distinctive characteristics of the Japanese language and its sociocultural context provides important insights into contemporary Japan. The course is taught in English. It is intended both for individuals who want to gain a better understanding of modern Japanese society, as well as for students of the Japanese language. Prerequisite: at least 82-171 or permission of the instructor.",
+      "prereqs" : "at least 82-171 or permission of the instructor",
+      "coreqs" : "None" 
+    }

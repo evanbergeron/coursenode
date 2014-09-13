@@ -1,0 +1,8 @@
+  {
+      "name" : "Logic and Artificial Intelligence",
+      "number" : "80-314",
+      "units" : 9,
+      "description" : "An introduction to several formalisms used in knowledge representation and database theory. The emphasis is placed on non-monotonic logic, conditional logic and belief revision methods. We will also study recent issues in the logics of knowledge and belief and consider applications in distributed AI. Several methodological problems in AI are discussed.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

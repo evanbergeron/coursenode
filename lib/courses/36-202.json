@@ -2,7 +2,7 @@
       "name" : "Statistical Methods",
       "number" : "36-202",
       "units" : 9,
-      "description" : "This course builds on the principles and methods of statistical reasoning developed in 36-201 (or its equivalents). The course covers simple and multiple regression, analysis of variance methods and logistic regression. Other topics may include non-parametric methods and probability models, as time permits. The objectives of this course is to develop the skills of applying the basic principles and methods that underlie statistical practice and empirical research. In addition to three lectures a week, students attend a computer lab once week for "hands-on" practice of the material covered in lecture. Not open to students who have received credit for: 36-208/70-208, 36-309. Students who have completed 36-401 prior to 36-202 will not receive credit for 36-202.",
+      "description" : "This course builds on the principles and methods of statistical reasoning developed in 36-201 (or its equivalents). The course covers simple and multiple regression, analysis of variance methods and logistic regression. Other topics may include non-parametric methods and probability models, as time permits. The objectives of this course is to develop the skills of applying the basic principles and methods that underlie statistical practice and empirical research. In addition to three lectures a week, students attend a computer lab once week for 'hands-on' practice of the material covered in lecture. Not open to students who have received credit for: 36-208/70-208, 36-309. Students who have completed 36-401 prior to 36-202 will not receive credit for 36-202.",
       "prereqs" : "36-247 or 36-201 or 36-220 or 70-207 or 36-207",
       "coreqs" : "None" 
     }

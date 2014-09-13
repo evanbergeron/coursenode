@@ -2,7 +2,7 @@
       "name" : "Great Practical Ideas for Computer Scientists",
       "number" : "15-131",
       "units" : 2,
-      "description" : "THIS COURSE IS OPEN TO CS FRESHMAN ONLY. Throughout your education as a Computer Scientist at Carnegie Mellon, you will take courses on programming, theoretical ideas, logic, systems, etc. As you progress, you will be expected to pick up the so-called "tools of the trade." This course is intended to help you learn what you need to know in a friendly, low-stress, high-support way. We will discuss UNIX, LaTeX, debugging and many other essential tools. Laptop required. (Laptops will be available for those without their own laptops.).",
+      "description" : "THIS COURSE IS OPEN TO CS FRESHMAN ONLY. Throughout your education as a Computer Scientist at Carnegie Mellon, you will take courses on programming, theoretical ideas, logic, systems, etc. As you progress, you will be expected to pick up the so-called 'tools of the trade.' This course is intended to help you learn what you need to know in a friendly, low-stress, high-support way. We will discuss UNIX, LaTeX, debugging and many other essential tools. Laptop required. (Laptops will be available for those without their own laptops.).",
       "prereqs" : "None",
       "coreqs" : "None" 
     }

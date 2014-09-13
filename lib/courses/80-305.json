@@ -1,0 +1,8 @@
+  {
+      "name" : "Rational Choice",
+      "number" : "80-305",
+      "units" : 9,
+      "description" : "This course will cover selected topics in rational choice theory, which informally is the analysis of how to make a correct decision in a given context. The course offers an introduction to the main normative theories of rational choice: von Neumann-Morgenstern theory of expected utility, Anscombe-Aumann's account and Savage's theory of choice under uncertainty. The course also includes an introduction to the main descriptive accounts of decision making used in Psychology and Economics. Possible topics may include, and are not limited to: a review of the main theories of non-expected utility and related issues in the psychology of judgment and decision making (especially recent advances extending Rank Dependent Utility and Prospect theory from risk to uncertainty) , game-theoretic problems of conflict and coordination, the role of heuristics in choice behavior and strategic reasoning, as well as recent theories that abandon the Bayesian assumption that the decision maker's beliefs can always be represented by a unique probability distribution. This course will stress the role that formal methods can play in the analysis of decisions and alternative applications of decision theory to issues in philosophy and social science.",
+      "prereqs" : "None",
+      "coreqs" : "None" 
+    }

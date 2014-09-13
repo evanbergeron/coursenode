@@ -1,0 +1,8 @@
+  {
+      "name" : "Human Expertise",
+      "number" : "85-392",
+      "units" : 9,
+      "description" : "The process of becoming an expert involves many changes, some quantitative and some qualitative. This course will provide an up-to-date account of the theory and data concerning the development of expertise. Questions addressed include the following. What does it take to become an expert? Are experts born or made? Is the process of acquiring expertise common across different domains from music to sports to science? Research studied in the course will employ a variety of methodologies, from case studies to protocol analysis to computational modeling.",
+      "prereqs" : "85-211 or 85-213",
+      "coreqs" : "None" 
+    }
